@@ -1,4 +1,5 @@
 import { Opportunity } from "@/types/opportunity";
+import { getOpportunityImage } from "@/lib/getOpportunityImage";
 import {
   Building2,
   Calendar,
@@ -21,7 +22,7 @@ export default function OpportunityCard({
       <div className="relative h-52 bg-slate-200">
 
         <img
-          src="/images/placeholder-project.jpg"
+          src={getOpportunityImage(opportunity.title)}
           alt={opportunity.title}
           className="h-full w-full object-cover"
         />
