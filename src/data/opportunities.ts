@@ -2,7 +2,7 @@ import { Opportunity } from "@/types/opportunity";
 export const opportunities: Opportunity[] = [
 
     {
-  id: 1,
+  id: "sizewell-c",
   title: "Extension de Sizewell C",
   description:
     "Extension de la centrale nucléaire britannique avec de nouvelles infrastructures de production et de raccordement.",
@@ -23,7 +23,7 @@ export const opportunities: Opportunity[] = [
 },
 
 {
-  id: 2,
+  id: "belgrade-metro-phase-2",
   title: "Métro de Belgrade - Phase 2",
   description:
   "Construction de la deuxième phase du métro de Belgrade comprenant deux lignes supplémentaires et un centre de maintenance.",
@@ -44,7 +44,7 @@ export const opportunities: Opportunity[] = [
 },
 
 {
-  id: 3,
+  id: "casablanca-marrakech-hsr",
   title: "LGV Casablanca – Marrakech",
   description:
   "Nouvelle ligne à grande vitesse reliant Casablanca à Marrakech avec systèmes ferroviaires complets.",
@@ -65,7 +65,7 @@ image: "/images/opportunities/high-speed-rail.jpg",
 },
 
 {
-  id: 4,
+  id: "jubail-desalination-plant",
   title: "Usine de dessalement de Jubail",
   description:
   "Extension d'une usine de dessalement alimentée par des énergies renouvelables destinée à sécuriser l'approvisionnement en eau.",
@@ -86,7 +86,7 @@ image: "/images/opportunities/desalination.jpg",
 },
 
 {
-  id: 5,
+  id: "jakarta-power-grid",
   title: "Parc solaire Al Shuaibah",
   description:
   "Développement d'un parc photovoltaïque de grande capacité avec stockage par batteries.",
@@ -107,7 +107,7 @@ image: "/images/opportunities/solar.jpg",
 },
 
 {
-  id: 6,
+  id: "lagos-university-hospital",
   title: "Modernisation du réseau électrique de Jakarta",
   description:
   "Modernisation du réseau HT/HTA de Jakarta avec déploiement de solutions intelligentes de supervision.",
@@ -128,7 +128,7 @@ image: "/images/opportunities/grid.jpg",
 },
 
 {
-  id: 7,
+  id: "ho-chi-minh-data-center",
   title: "Data Center Hô Chi Minh Ville",
   description:
   "Construction d'un data center de nouvelle génération certifié Tier IV destiné aux services cloud régionaux.",
@@ -149,7 +149,7 @@ image: "/images/opportunities/datacenter.jpg",
 },
 
 {
-  id: 8,
+  id: "callao-port-expansion",
   title: "Hôpital universitaire de Lagos",
   description:
   "Construction d'un centre hospitalier universitaire de dernière génération avec plateau technique complet.",
@@ -170,7 +170,7 @@ image: "/images/opportunities/hospital.jpg",
 },
 
 {
-  id: 9,
+  id: "toronto-pearson-airport",
   title: "Port en eau profonde de Callao",
   description:
   "Développement d'un terminal portuaire en eau profonde avec nouveaux quais et équipements logistiques.",
@@ -191,7 +191,7 @@ image: "/images/opportunities/port.jpg",
 },
 
 {
-  id: 10,
+  id: "baltic-offshore-wind-farm",
   title: "Modernisation de l'aéroport de Toronto",
   description:
   "Extension des infrastructures aéroportuaires et création d'un nouveau terminal international.",

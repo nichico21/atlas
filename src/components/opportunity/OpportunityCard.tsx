@@ -6,6 +6,7 @@ import {
   CircleDollarSign,
   MapPin,
 } from "lucide-react";
+import Link from "next/link";
 
 type OpportunityCardProps = {
   opportunity: Opportunity;
@@ -39,7 +40,7 @@ export default function OpportunityCard({
 
         <div>
 
-          <h3 className="text-2xl font-bold text-slate-900">
+          <h3 className="min-h-[64px] text-2xl font-bold text-slate-900">
             {opportunity.title}
           </h3>
 
@@ -69,7 +70,7 @@ export default function OpportunityCard({
 
         </div>
 
-        <div className="space-y-3 text-sm">
+        <div className="mt-auto space-y-3 text-sm">
 
           <div className="flex items-center gap-3">
 
@@ -105,11 +106,12 @@ export default function OpportunityCard({
 
         </div>
 
-        <button className="w-full rounded-xl bg-gradient-to-r from-violet-600 to-purple-500 py-3 font-semibold text-white transition hover:opacity-90">
-
-          Voir l'opportunité →
-
-        </button>
+        <Link
+  href={`/opportunities/${opportunity.id}`}
+  className="block w-full rounded-xl bg-gradient-to-r from-violet-600 to-purple-500 py-3 text-center font-semibold text-white transition hover:opacity-90"
+>
+  Voir l'opportunité →
+</Link>
 
       </div>
 

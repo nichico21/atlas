@@ -1,5 +1,5 @@
 export type Opportunity = {
-  id: number;
+  id: string;
 
   title: string;
 

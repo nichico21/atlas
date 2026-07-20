@@ -1,16 +1,14 @@
 "use client";
 
-import { Dispatch, SetStateAction } from "react";
+import Link from "next/link";
 import { Map, List, RotateCcw } from "lucide-react";
 
 type OpportunityToolbarProps = {
   view: "map" | "list";
-  setView: Dispatch<SetStateAction<"map" | "list">>;
 };
 
 export default function OpportunityToolbar({
   view,
-  setView,
 }: OpportunityToolbarProps) {
   return (
     <div className="space-y-4">
@@ -33,8 +31,8 @@ export default function OpportunityToolbar({
       </div>
 
       <div className="inline-flex rounded-xl border border-slate-200 bg-white p-1">
-        <button
-          onClick={() => setView("map")}
+        <Link
+          href="/opportunities?view=map"
           className={`flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-semibold transition-colors ${
             view === "map"
               ? "bg-violet-600 text-white"
@@ -43,10 +41,10 @@ export default function OpportunityToolbar({
         >
           <Map size={16} />
           Carte
-        </button>
+        </Link>
 
-        <button
-          onClick={() => setView("list")}
+        <Link
+          href="/opportunities?view=list"
           className={`flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-semibold transition-colors ${
             view === "list"
               ? "bg-violet-600 text-white"
@@ -55,7 +53,7 @@ export default function OpportunityToolbar({
         >
           <List size={16} />
           Liste
-        </button>
+        </Link>
       </div>
     </div>
   );
