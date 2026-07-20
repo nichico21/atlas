@@ -1,38 +1,36 @@
-# French Supplier Finder
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-> The operating system connecting international demand with French industrial capabilities.
+## Getting Started
 
----
+First, run the development server:
 
-## Vision
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-French Supplier Finder helps the Team France Export identify the most relevant French industrial capabilities for international buyers.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-It combines structured industrial knowledge, explainable matching and human expertise into a single platform.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
----
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Core Principles
+## Learn More
 
-- Explainable Matching
-- Human Validation
-- Industrial Knowledge Graph
-- Buyer Catalogue Generation
-- Public-sector Governance
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Technology
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- Next.js
-- React
-- Supabase
-- OpenAI
-- pgvector
-- Mapbox
+## Deploy on Vercel
 
----
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## Status
-
-🚧 Atlas Project — In development.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
