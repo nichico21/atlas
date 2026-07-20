@@ -22,7 +22,7 @@ export default function OpportunityCard({
       <div className="relative h-52 bg-slate-200">
 
         <img
-          src={getOpportunityImage(opportunity.title)}
+          src="https://picsum.photos/800/600"
           alt={opportunity.title}
           className="h-full w-full object-cover"
         />
