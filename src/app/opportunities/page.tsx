@@ -1,6 +1,6 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
+import { useState } from "react";
 
 import OpportunityToolbar from "@/components/opportunity/OpportunityToolbar";
 import OpportunityStats from "@/components/opportunity/OpportunityStats";
@@ -9,12 +9,7 @@ import OpportunityMap from "@/components/opportunity/OpportunityMap";
 import OpportunityGrid from "@/components/opportunity/OpportunityGrid";
 
 export default function OpportunitiesPage() {
-  const searchParams = useSearchParams();
-
-  const view =
-    searchParams.get("view") === "list"
-      ? "list"
-      : "map";
+  const [view, setView] = useState<"map" | "list">("map");
 
   return (
     <main className="min-h-screen bg-slate-50">
@@ -29,6 +24,7 @@ export default function OpportunitiesPage() {
           <section className="flex-1 space-y-4">
             <OpportunityToolbar
               view={view}
+              onViewChange={setView}
             />
 
             <OpportunityStats />
