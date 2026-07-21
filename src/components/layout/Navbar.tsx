@@ -25,7 +25,7 @@ export default function Navbar() {
           <Link href="/opportunities">
           Opportunités
           </Link>
-          <Link href="/companies">
+          <Link href="/suppliers">
           Entreprises
           </Link>
           <a href="#">Recherche</a>

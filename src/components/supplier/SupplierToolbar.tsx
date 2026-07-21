@@ -2,20 +2,20 @@
 
 import ViewToggle from "@/components/shared/ViewToggle";
 
-type OpportunityToolbarProps = {
+type SupplierToolbarProps = {
   view: "map" | "list";
   onViewChange: (view: "map" | "list") => void;
 };
 
-export default function OpportunityToolbar({
+export default function SupplierToolbar({
   view,
   onViewChange,
-}: OpportunityToolbarProps) {
+}: SupplierToolbarProps) {
   return (
     <ViewToggle
       view={view}
       onViewChange={onViewChange}
-      accentColor="violet"
+      accentColor="blue"
     />
   );
 }
