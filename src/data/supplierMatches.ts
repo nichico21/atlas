@@ -1,6 +1,7 @@
 export type SupplierMatch = {
   id: string;
   name: string;
+  logo: string;
   initials: string;
   companySize: string;
   score: number;
@@ -11,6 +12,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "schneider-electric",
     name: "Schneider Electric",
+    logo: "/logos/schneider.png",
     initials: "SE",
     companySize: "Grande entreprise",
     score: 96,
@@ -24,6 +26,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "alstom-grid",
     name: "Alstom Grid",
+    logo: "/logos/alstom.png",
     initials: "AG",
     companySize: "Grande entreprise",
     score: 91,
@@ -37,6 +40,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "abb-france",
     name: "ABB France",
+    logo: "/logos/abb.png",
     initials: "AF",
     companySize: "Grande entreprise",
     score: 88,
@@ -50,6 +54,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "siemens-energy",
     name: "Siemens Energy",
+    logo: "/logos/siemens.png",
     initials: "SE",
     companySize: "Grande entreprise",
     score: 84,
@@ -63,6 +68,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "nexans",
     name: "Nexans",
+    logo: "/logos/nexans.png",
     initials: "N",
     companySize: "Grande entreprise",
     score: 79,
@@ -76,6 +82,7 @@ export const supplierMatches: SupplierMatch[] = [
   {
     id: "atos",
     name: "Atos",
+    logo: "/logos/atos.png",
     initials: "A",
     companySize: "Grande entreprise",
     score: 82,

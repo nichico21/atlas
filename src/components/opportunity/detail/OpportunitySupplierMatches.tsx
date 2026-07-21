@@ -22,7 +22,7 @@ export default function OpportunitySupplierMatches({
 
       {/* Header */}
 
-      <div className="bg-gradient-to-r from-blue-800 to-indigo-500 px-6 py-5 text-white">
+      <div className="bg-gradient-to-r from-blue-800 to-indigo-500 px-4 py-4 text-white">
 
         <h2 className="text-xl font-bold">
           Entreprises françaises compatibles avec cette opportunité
