@@ -1,5 +1,6 @@
 import type { SupplierMatch } from "@/data/supplierMatches";
 import CompatibilityScore from "./CompatibilityScore";
+import Image from "next/image";
 
 type SupplierMatchCardProps = {
   match: SupplierMatch;
@@ -10,7 +11,7 @@ export default function SupplierMatchCard({
 }: SupplierMatchCardProps) {
   const {
     name,
-    initials,
+    logo,
     companySize,
     score,
     strengths,
@@ -29,11 +30,16 @@ export default function SupplierMatchCard({
           </span>
         </div>
 
-        <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-slate-100 text-sm font-bold text-slate-500">
-          {initials}
-        </div>
-      </div>
-
+        <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-slate-50">
+  <Image
+    src={logo}
+    alt={`${name} logo`}
+    width={32}
+    height={32}
+    className="object-contain"
+  />
+</div>
+</div> 
       <div className="mt-5 flex items-center justify-between">
         <div>
           <p className="text-[11px] uppercase tracking-[0.18em] text-slate-500">
