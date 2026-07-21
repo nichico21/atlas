@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 
 import { opportunities } from "@/data/opportunities";
 import OpportunityHero from "@/components/opportunity/detail/OpportunityHero";
+import OpportunityOverview from "@/components/opportunity/detail/overview/OpportunityOverview";
+import OpportunitySupplierMatches from "@/components/opportunity/detail/OpportunitySupplierMatches";
 
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
@@ -38,6 +40,10 @@ export default async function OpportunityPage({
   </Link>
 </div>
         <OpportunityHero opportunity={opportunity} />
+        <OpportunityOverview opportunity={opportunity} />
+        <OpportunitySupplierMatches
+  opportunityId={opportunity.id}
+/>
       </div>
     </main>
   );
