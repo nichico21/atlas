@@ -29,14 +29,14 @@ export default function SupplierMatchCard({
           </span>
         </div>
 
-        <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-slate-100 text-sm font-bold text-slate-500">
+        <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-slate-100 text-sm font-bold text-slate-500">
           {initials}
         </div>
       </div>
 
-      <div className="mt-8 flex items-center justify-between">
+      <div className="mt-5 flex items-center justify-between">
         <div>
-          <p className="text-xs uppercase tracking-widest text-slate-500">
+          <p className="text-[11px] uppercase tracking-[0.18em] text-slate-500">
             Compatibility score
           </p>
         </div>
@@ -44,7 +44,7 @@ export default function SupplierMatchCard({
         <CompatibilityScore score={score} />
       </div>
 
-      <hr className="my-6" />
+      <hr className="my-4 border-slate-200" />
 
       <ul className="space-y-2">
         {strengths.map((strength) => (
