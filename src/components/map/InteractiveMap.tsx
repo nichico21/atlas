@@ -51,12 +51,16 @@ export default function InteractiveMap({
       loadSources(map);
       loadLayers(map);
       regions.forEach((region) => {
+        const size = Math.max(
+  38,
+  Math.min(60, Math.sqrt(region.suppliers) * 5.2)
+);
   const marker = document.createElement("div");
 
   marker.innerHTML = `
     <div style="
-      width:52px;
-      height:52px;
+      width:${size}px;
+height:${size}px;
       border-radius:9999px;
       background:#2563EB;
       color:white;
@@ -64,9 +68,9 @@ export default function InteractiveMap({
       align-items:center;
       justify-content:center;
       font-weight:700;
-      font-size:16px;
+      font-size:${Math.max(13, size * 0.30)}px;
       box-shadow:0 8px 20px rgba(37,99,235,.30);
-      border:4px solid white;
+      border:3px solid white;
       font-family:Inter,sans-serif;
     ">
       ${region.suppliers}

@@ -18,16 +18,18 @@ export default function QuickActions() {
       <div className="grid grid-cols-4 gap-8">
 
         <QuickActionCard
+        href="/opportunities"
           icon={<Search className="h-6 w-6" />}
-          color="bg-blue-600"
+          color="bg-violet-600"
           title="Trouver la réponse adaptée à un besoin international"
           description="Rechercher les entreprises françaises les plus adaptées aux besoins d'un acheteur international."
         />
 
         <QuickActionCard
+          href="/suppliers"
           icon={<Building2 className="h-6 w-6" />}
           title="Explorer les entreprises"
-          color="bg-violet-600"
+          color="bg-blue-600"
           description="Rechercher et filtrer les entreprises françaises par secteur, capacités, références et marchés."
         />
 
