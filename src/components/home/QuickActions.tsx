@@ -34,6 +34,7 @@ export default function QuickActions() {
         />
 
         <QuickActionCard
+          href="/opportunities/new"
           icon={<Globe className="h-6 w-6" />}
           title="Saisir une nouvelle opportunité"
           color="bg-emerald-600"

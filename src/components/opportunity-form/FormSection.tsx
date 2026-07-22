@@ -14,9 +14,9 @@ export default function FormSection({
   children,
 }: FormSectionProps) {
   return (
-    <section className="rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+    <section className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
 
-      <div className="mb-8 flex items-center gap-4">
+      <div className="mb-3 flex items-center gap-4">
 
         <div className="flex h-10 w-10 items-center justify-center rounded-full bg-violet-600 font-bold text-white">
           {number}
@@ -24,7 +24,7 @@ export default function FormSection({
 
         {icon}
 
-        <h2 className="text-3xl font-bold text-slate-900">
+        <h2 className="text-2xl font-bold text-slate-900">
           {title}
         </h2>
 
