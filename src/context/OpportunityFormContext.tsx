@@ -10,8 +10,10 @@ import {
 
 type OpportunityFormContextType = {
   activeSection: string;
+  completedSections: string[];
 
   setActiveSection: (section: string) => void;
+  setCompletedSections: (sections: string[]) => void;
 };
 
 const OpportunityFormContext =
@@ -27,12 +29,17 @@ export function OpportunityFormProvider({
   const [activeSection, setActiveSection] =
     useState("general");
 
+  const [completedSections, setCompletedSections] =
+    useState<string[]>([]);
+
   const value = useMemo(
     () => ({
       activeSection,
+      completedSections,
       setActiveSection,
+      setCompletedSections,
     }),
-    [activeSection]
+    [activeSection, completedSections]
   );
 
   return (

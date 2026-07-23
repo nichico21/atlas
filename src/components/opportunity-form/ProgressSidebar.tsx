@@ -3,20 +3,17 @@
 import { opportunityFormSections } from "@/data/opportunityFormSections";
 import { useOpportunityForm } from "@/context/OpportunityFormContext";
 
-type ProgressSidebarProps = {
-  completedSections?: string[];
-};
-
-export default function ProgressSidebar({
-  completedSections = [],
-}: ProgressSidebarProps) {
+export default function ProgressSidebar() {
   const {
     activeSection,
+    completedSections,
     setActiveSection,
   } = useOpportunityForm();
 
   const progress =
-    ((completedSections.length + 1) / opportunityFormSections.length) * 100;
+  ((completedSections.length + 1) /
+    opportunityFormSections.length) *
+  100;
 
   const handleClick = (id: string) => {
     setActiveSection(id);

@@ -1,11 +1,13 @@
 import OpportunityForm from "@/components/opportunity-form/OpportunityForm";
 import ProgressSidebar from "@/components/opportunity-form/ProgressSidebar";
+import SectionObserver from "@/components/opportunity-form/SectionObserver";
 
 import { OpportunityFormProvider } from "@/context/OpportunityFormContext";
 
 export default function NewOpportunityPage() {
   return (
     <OpportunityFormProvider>
+      <SectionObserver />
 
       <main className="min-h-screen bg-slate-50">
 
@@ -43,7 +45,6 @@ export default function NewOpportunityPage() {
           <OpportunityForm />
 
           <ProgressSidebar
-            completedSections={[]}
           />
 
         </section>
