@@ -16,7 +16,7 @@ export const opportunityFormSections: OpportunityFormSection[] = [
     title: "Description du projet",
   },
   {
-    id: "sectors",
+    id: "needs",
     number: 3,
     title: "Secteurs et besoins",
   },
@@ -26,7 +26,7 @@ export const opportunityFormSections: OpportunityFormSection[] = [
     title: "Informations commerciales",
   },
   {
-    id: "location",
+    id: "markets",
     number: 5,
     title: "Marché et localisation",
   },

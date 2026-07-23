@@ -1,90 +1,103 @@
 "use client";
 
 import { opportunityFormSections } from "@/data/opportunityFormSections";
-import { useOpportunityForm } from "@/hooks/useOpportunityForm";
+import { useOpportunityForm } from "@/context/OpportunityFormContext";
 
 type ProgressSidebarProps = {
-  currentSection?: string;
   completedSections?: string[];
 };
 
 export default function ProgressSidebar({
-  currentSection = "general",
   completedSections = [],
 }: ProgressSidebarProps) {
-  const { scrollToSection } = useOpportunityForm();
-  const progress = Math.round(
-    (completedSections.length / opportunityFormSections.length) * 100
-  );
+  const {
+    activeSection,
+    setActiveSection,
+  } = useOpportunityForm();
+
+  const progress =
+    ((completedSections.length + 1) / opportunityFormSections.length) * 100;
+
+  const handleClick = (id: string) => {
+    setActiveSection(id);
+
+    const element = document.getElementById(id);
+
+    if (!element) return;
+
+    const navbarHeight = 64;
+    const margin = 24;
+
+    const y =
+      element.getBoundingClientRect().top +
+      window.scrollY -
+      navbarHeight -
+      margin;
+
+    window.scrollTo({
+      top: y,
+      behavior: "smooth",
+    });
+  };
 
   return (
-    <aside className="sticky top-20 self-start">
+    <aside className="sticky top-24 rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
 
-      <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+      <h3 className="mb-6 text-lg font-semibold text-slate-900">
+        Progression
+      </h3>
 
-        <h3 className="text-xl font-bold">
-          Progression
-        </h3>
+      <div className="mb-6 h-2 overflow-hidden rounded-full bg-slate-200">
+        <div
+          className="h-full rounded-full bg-violet-600 transition-all duration-500"
+          style={{ width: `${progress}%` }}
+        />
+      </div>
 
-        <div className="mt-2 h-2 overflow-hidden rounded-full bg-slate-200">
+      <div className="space-y-2">
 
-          <div
-            className="h-full rounded-full bg-violet-600 transition-all duration-500"
-            style={{ width: `${progress}%` }}
-          />
+        {opportunityFormSections.map((section) => {
 
-        </div>
+          const isActive = section.id === activeSection;
+          const isCompleted = completedSections.includes(section.id);
 
-        <p className="mt-1 text-sm text-slate-500">
-          {progress}% complété
-        </p>
-
-        <div className="mt-3 space-y-1">
-
-          {opportunityFormSections.map((section) => {
-
-            const completed = completedSections.includes(section.id);
-
-            const active = section.id === currentSection;
-
-            return (
-              <button
-                key={section.id}
-                onClick={() => scrollToSection(section.id)}
-                className={`flex w-full items-center gap-2 rounded-xl px-3 py-2 text-left transition-all
-
+          return (
+            <button
+              key={section.id}
+              onClick={() => handleClick(section.id)}
+              className={`flex w-full items-center gap-3 rounded-xl px-3 py-3 text-left transition-all duration-200
                 ${
-                  completed
-                    ? "bg-green-50"
-                    : active
+                  isActive
                     ? "bg-violet-50"
                     : "hover:bg-slate-50"
                 }`}
-              >
-
-                <div
-                  className={`flex h-9 w-9 items-center justify-center rounded-full text-sm font-bold
-
+            >
+              <div
+                className={`flex h-8 w-8 items-center justify-center rounded-full text-sm font-bold
                   ${
-                    completed
-                      ? "bg-green-600 text-white"
-                      : active
+                    isActive
                       ? "bg-violet-600 text-white"
+                      : isCompleted
+                      ? "bg-emerald-600 text-white"
                       : "bg-slate-200 text-slate-600"
                   }`}
-                >
-                  {completed ? "✓" : section.number}
-                </div>
+              >
+                {section.number}
+              </div>
 
-                <span className="font-medium">
-                  {section.title}
-                </span>
-
-              </button>
-            );
-          })}
-
-        </div>
+              <span
+                className={`text-sm font-medium
+                  ${
+                    isActive
+                      ? "text-violet-700"
+                      : "text-slate-700"
+                  }`}
+              >
+                {section.title}
+              </span>
+            </button>
+          );
+        })}
 
       </div>
 
