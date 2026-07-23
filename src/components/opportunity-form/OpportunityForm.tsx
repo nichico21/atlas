@@ -15,6 +15,7 @@ export default function OpportunityForm() {
 
       <FormSection
         number={1}
+        id="general"
         title="Informations générales"
       >
 
@@ -92,6 +93,7 @@ export default function OpportunityForm() {
       </FormSection>
 
       <FormSection
+      id="description"
   number={2}
   title="Description du projet"
 >
@@ -136,6 +138,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+  id="needs"
   number={3}
   title="Secteurs et besoins"
 >
@@ -213,6 +216,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+ id="commercial"
   number={4}
   title="Informations commerciales"
 >
@@ -304,6 +308,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+ id="markets"
   number={5}
   title="Marchés et localisation"
 >
@@ -361,6 +366,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+  id="criteria"
   number={6}
   title="Exigences et critères de sélection"
 >
@@ -420,6 +426,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+id="financing"
   number={7}
   title="Financement et bailleurs"
 >
@@ -480,6 +487,7 @@ export default function OpportunityForm() {
 </FormSection>
 
 <FormSection
+id="documents"
   number={8}
   title="Documents et pièces jointes"
 >

@@ -1,4 +1,7 @@
+"use client";
+
 import { opportunityFormSections } from "@/data/opportunityFormSections";
+import { useOpportunityForm } from "@/hooks/useOpportunityForm";
 
 type ProgressSidebarProps = {
   currentSection?: string;
@@ -9,6 +12,7 @@ export default function ProgressSidebar({
   currentSection = "general",
   completedSections = [],
 }: ProgressSidebarProps) {
+  const { scrollToSection } = useOpportunityForm();
   const progress = Math.round(
     (completedSections.length / opportunityFormSections.length) * 100
   );
@@ -46,6 +50,7 @@ export default function ProgressSidebar({
             return (
               <button
                 key={section.id}
+                onClick={() => scrollToSection(section.id)}
                 className={`flex w-full items-center gap-2 rounded-xl px-3 py-2 text-left transition-all
 
                 ${

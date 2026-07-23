@@ -1,20 +1,24 @@
 import { ReactNode } from "react";
 
 type FormSectionProps = {
+  id: string;
   number: number;
   title: string;
-  icon?: ReactNode;
-  children: ReactNode;
+  icon?: React.ReactNode;
+  children: React.ReactNode;
 };
 
 export default function FormSection({
+  id,
   number,
   title,
   icon,
   children,
 }: FormSectionProps) {
   return (
-    <section className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
+    <section 
+    id={id}
+    className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
 
       <div className="mb-3 flex items-center gap-4">
 
