@@ -1,4 +1,4 @@
-import FormSection from "./FormSection";
+import FormSection from "../shared/FormSection";
 
 import FormGrid from "@/components/shared/FormGrid";
 import TextField from "@/components/shared/TextField";

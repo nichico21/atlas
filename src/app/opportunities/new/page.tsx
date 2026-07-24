@@ -1,6 +1,7 @@
 import OpportunityForm from "@/components/opportunity-form/OpportunityForm";
 import ProgressSidebar from "@/components/opportunity-form/ProgressSidebar";
 import SectionObserver from "@/components/opportunity-form/SectionObserver";
+import StickyActions from "@/components/shared/StickyActions";
 
 import { OpportunityFormProvider } from "@/context/OpportunityFormContext";
 
@@ -27,13 +28,7 @@ export default function NewOpportunityPage() {
 
             <div className="flex gap-4">
 
-              <button className="w-72 rounded-2xl border border-slate-200 bg-white px-4 py-2 text-lg font-semibold text-slate-700 shadow-sm transition-all duration-200 hover:border-slate-300 hover:bg-slate-50 hover:shadow-md">
-                Enregistrer comme brouillon
-              </button>
-
-              <button className="w-72 rounded-2xl bg-violet-600 px-4 py-2 text-lg font-semibold text-white shadow-sm transition-all duration-200 hover:bg-violet-700 hover:shadow-lg">
-                Publier l'opportunité
-              </button>
+             
 
             </div>
 
@@ -44,8 +39,13 @@ export default function NewOpportunityPage() {
 
           <OpportunityForm />
 
-          <ProgressSidebar
-          />
+         <div className="sticky top-24 space-y-5">
+
+  <StickyActions color="violet" publishLabel="Publier l'opportunité" />
+
+  <ProgressSidebar />
+
+</div>
 
         </section>
 
