@@ -2,11 +2,18 @@
 
 import { useState } from "react";
 
+import Link from "next/link";
+
 import { Sparkles, Search } from "lucide-react";
 
 import SuggestionChips from "./SuggestionChips";
 
+import { useRouter } from "next/navigation";
+
 export default function SmartSearchCard() {
+
+  const router = useRouter();
+
   const [prompt, setPrompt] = useState("");
 
   return (
@@ -73,34 +80,29 @@ d'opérateurs publics serait un atout.`}
 
       <div className="mt-10 flex justify-center">
 
-        <button
-          className="
-            inline-flex
-            items-center
-            gap-3
-            rounded-2xl
-            bg-blue-600
-            px-8
-            py-4
-            text-lg
-            font-semibold
-            text-white
-            shadow-sm
-            transition-all
-            duration-200
-            hover:bg-blue-700
-            hover:shadow-lg
-          "
-        >
-
-          <Search
-            size={20}
-            strokeWidth={2}
-          />
-
-          Lancer la recherche
-
-        </button>
+        <Link
+  href="/search/results"
+  className="
+    inline-flex
+    items-center
+    gap-3
+    rounded-2xl
+    bg-blue-600
+    px-8
+    py-4
+    text-lg
+    font-semibold
+    text-white
+    shadow-sm
+    transition-all
+    duration-200
+    hover:bg-blue-700
+    hover:shadow-lg
+  "
+>
+    <Search size={20} />
+    Lancer la recherche
+</Link>
 
       </div>
 
