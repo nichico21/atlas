@@ -41,11 +41,9 @@ export default function SmartSearchCard() {
 
 Je recherche des fournisseurs français capables de moderniser un réseau
 électrique national.
-
 Les entreprises recherchées doivent disposer d'une expertise en postes
 électriques, réseaux intelligents (smart grids), systèmes SCADA et
 cybersécurité industrielle.
-
 Une expérience sur des projets d'infrastructures au Moyen-Orient ou auprès
 d'opérateurs publics serait un atout.`}
         className="
@@ -100,7 +98,7 @@ d'opérateurs publics serait un atout.`}
             strokeWidth={2}
           />
 
-          Identifier les meilleurs fournisseurs
+          Lancer la recherche
 
         </button>
 

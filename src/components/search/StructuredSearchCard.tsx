@@ -29,7 +29,7 @@ export default function StructuredSearchCard() {
       <div className="mt-8 flex justify-center">
 
         <button className="rounded-2xl bg-blue-600 px-8 py-4 text-lg font-semibold text-white transition hover:bg-blue-700">
-          🔍 Lancer la recherche
+          Lancer la recherche
         </button>
 
       </div>

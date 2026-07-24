@@ -24,31 +24,31 @@ const suggestions: Suggestion[] = [
     label: "Énergie",
     icon: Zap,
     prompt:
-      "Looking for French companies specialized in power generation, electrical grids, substations, HV equipment, SCADA and smart energy solutions.",
+      "Je recherche des entreprises françaises capables d'intervenir sur un projet de modernisation d'un réseau électrique national. Les fournisseurs recherchés doivent disposer d'une expertise reconnue en postes électriques haute tension, réseaux intelligents (smart grids), systèmes SCADA, postes numériques et cybersécurité des infrastructures critiques. Une expérience sur des projets financés par des bailleurs internationaux ou réalisés au Moyen-Orient constituerait un atout.",
   },
   {
     label: "Transport",
     icon: Train,
     prompt:
-      "Looking for French suppliers specialized in rail, metro, signalling, mobility infrastructure and rolling stock.",
+      "Je souhaite identifier des fournisseurs français spécialisés dans les infrastructures de transport ferroviaire et urbain. Les entreprises recherchées doivent proposer des solutions couvrant notamment les systèmes de signalisation, le matériel roulant, les équipements de voie, les métros, tramways et les solutions de mobilité intelligente. Une expérience dans des projets de métro, de train à grande vitesse ou de modernisation de réseaux ferroviaires serait appréciée.",
   },
   {
     label: "Défense",
     icon: Shield,
     prompt:
-      "Looking for French companies active in defence, cybersecurity, surveillance and critical infrastructures.",
+      "Je recherche des industriels français intervenant dans les secteurs de la défense et de la sécurité. Les compétences attendues concernent notamment les systèmes de surveillance, la cybersécurité, la protection des infrastructures critiques, les équipements de défense ainsi que les solutions de commandement et de contrôle.",
   },
   {
     label: "Eau",
     icon: Droplets,
     prompt:
-      "Looking for French suppliers specialized in water treatment, desalination and wastewater management.",
+      "Je recherche des entreprises françaises disposant d'une expertise dans les infrastructures hydrauliques et le traitement de l'eau. Les fournisseurs recherchés doivent proposer des solutions de dessalement, de production d'eau potable, de traitement des eaux usées, de réutilisation des eaux et d'optimisation des réseaux.",
   },
   {
     label: "Numérique",
     icon: Laptop,
     prompt:
-      "Looking for French companies specialized in digital solutions, AI, software, cloud and cybersecurity.",
+      "Je souhaite identifier des entreprises françaises spécialisées dans les technologies numériques. Les fournisseurs recherchés doivent proposer des solutions en intelligence artificielle, logiciels métiers, cloud computing, cybersécurité, gestion des données et transformation digitale des organisations.",
   },
   {
     label: "Tous les secteurs",
