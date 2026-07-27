@@ -61,7 +61,7 @@ export default function SuggestionChips({
   onSelect,
 }: SuggestionChipsProps) {
   return (
-    <div className="mt-6">
+    <div className="mt-4">
 
       <p className="mb-3 text-sm font-medium text-slate-500">
         Suggestions populaires

@@ -7,20 +7,22 @@ import "maplibre-gl/dist/maplibre-gl.css";
 
 import { loadSources } from "@/lib/map/sources";
 import { loadLayers } from "@/lib/map/layers";
-import { regions } from "@/data/map/regions";
+import type { Region } from "@/types/region";
 
 import {
   FRANCE_BOUNDS,
   FRANCE_CENTER,
 } from "@/lib/map/config";
 
-type InteractiveMapProps = {
-  accentColor?: "blue" | "violet";
+type FranceMapProps = {
+  regions: Region[];
+  onRegionClick?: (region: Region) => void;
 };
 
-export default function InteractiveMap({
-  accentColor = "blue",
-}: InteractiveMapProps) {
+export default function FranceMap({
+  regions,
+  onRegionClick,
+}: FranceMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -72,6 +74,12 @@ export default function InteractiveMap({
       ${region.companyCount}
     </div>
   `;
+
+  marker.style.cursor = "pointer";
+
+  marker.addEventListener("click", () => {
+    onRegionClick?.(region);
+  });
 
   new maplibregl.Marker({
     element: marker,

@@ -42,6 +42,7 @@ export default function QuickActions() {
         />
 
         <QuickActionCard
+          href="/suppliers/new"
           icon={<PlusCircle className="h-6 w-6" />}
           title="Saisir une nouvelle entreprise française"
           color="bg-orange-500"

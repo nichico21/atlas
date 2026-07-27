@@ -34,7 +34,13 @@ export default function SupplierMatchCard({
 }: SupplierMatchCardProps) {
 
     const [openScore, setOpenScore] = useState(false);
-    
+    const level =
+  matchLevel === "Strong Match"
+    ? "strong"
+    : matchLevel === "Potential Match"
+    ? "potential"
+    : "related";
+
   return (
     <div className="rounded-3xl border border-slate-200 bg-white px-8 py-6 shadow-sm transition-all duration-200 hover:shadow-md">
 
@@ -83,12 +89,12 @@ export default function SupplierMatchCard({
         ========================== */}
 
         <div
-  className="flex cursor-pointer flex-col items-center transition-transform duration-200 hover:scale-105"
+  className="cursor-pointer transition-transform duration-200 hover:scale-105"
   onClick={() => setOpenScore(true)}
 >
   <MatchScore
     score={score}
-    level="strong"
+    level={level}
   />
 </div>
 
@@ -164,6 +170,13 @@ export default function SupplierMatchCard({
       </div>
 
       <ScoreDetailsModal
+  open={openScore}
+  onClose={() => setOpenScore(false)}
+  company={company}
+  score={score}
+/>
+
+<ScoreDetailsModal
   open={openScore}
   onClose={() => setOpenScore(false)}
   company={company}
