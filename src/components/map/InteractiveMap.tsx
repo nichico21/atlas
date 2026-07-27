@@ -14,12 +14,14 @@ import {
   FRANCE_CENTER,
 } from "@/lib/map/config";
 
+import type { Region } from "@/types/region";
+
 type InteractiveMapProps = {
-  accentColor?: "blue" | "violet";
+  onRegionClick?: (region: Region) => void;
 };
 
 export default function InteractiveMap({
-  accentColor = "blue",
+  onRegionClick,
 }: InteractiveMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
 
@@ -73,6 +75,12 @@ export default function InteractiveMap({
     </div>
   `;
 
+marker.style.cursor = "pointer";
+
+marker.addEventListener("click", () => {
+  onRegionClick?.(region);
+});
+
   new maplibregl.Marker({
     element: marker,
   })
@@ -99,7 +107,7 @@ export default function InteractiveMap({
     });
 
     return () => map.remove();
-  }, []);
+  }, [onRegionClick]);
 
   return (
     <div
