@@ -9,6 +9,7 @@ import SupplierStats from "@/components/supplier/SupplierStats";
 import SupplierFilters from "@/components/supplier/SupplierFilters";
 import SupplierPlaceholder from "@/components/supplier/SupplierPlaceholder";
 import InteractiveMap from "@/components/map/InteractiveMap";
+import MapExplorer from "@/components/map/MapExplorer";
 
 import { RotateCcw } from "lucide-react";
 
@@ -49,7 +50,7 @@ export default function SuppliersPage() {
 
             <SupplierStats />
 
-            <InteractiveMap />
+            <MapExplorer />
 
           </section>
 
