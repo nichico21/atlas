@@ -4,6 +4,20 @@ import { useEffect, useState } from "react";
 
 import type { Region } from "@/types/region";
 
+import {
+  Building2,
+  Globe2,
+  Layers3,
+  TrendingUp,
+  Zap,
+  Factory,
+  Train,
+  Cpu,
+  Leaf,
+  Heart,
+  ChevronRight,
+} from "lucide-react";
+
 type SectorBreakdownProps = {
   region: Region;
 };
@@ -53,72 +67,89 @@ export default function SectorBreakdown({
       cancelAnimationFrame(animationFrame);
   }, [region]);
 
+
+  const sectorIcons: Record<string, any> = {
+  energy: Zap,
+  industry: Factory,
+  transport: Train,
+  digital: Cpu,
+  environment: Leaf,
+  health: Heart,
+
+  defense: Factory,
+  mobility: Train,
+  aerospace: Cpu,
+  maritime: Leaf,
+  construction: Factory,
+};
+
+
   return (
-    <section className="space-y-6">
+    <section className="space-y-2">
 
       <div>
 
-        <h3 className="text-lg font-semibold text-slate-900">
+        <h3 className="text-base font-semibold text-slate-900">
           Répartition sectorielle
         </h3>
 
-        <p className="mt-1 text-sm text-slate-500">
-          Répartition des entreprises par secteur
-          d'activité.
-        </p>
-
+       
       </div>
 
-      <div className="space-y-5">
+      <div className="space-y-3">
 
-        {sectors.map((sector, index) => (
+        {sectors.map((sector, index) => {
+
+  const Icon =
+    sectorIcons[sector.id] ?? Factory;
+
+  return (
+
+          
 
           <div
-            key={sector.id}
-            className="space-y-2"
-          >
+  key={sector.id}
+  className="grid grid-cols-[140px_1fr_40px] items-center gap-4"
+>
 
-            <div className="flex items-center justify-between">
+  {/* Colonne gauche */}
 
-              <div>
+  <div className="flex items-center gap-3">
 
-                <div className="font-medium text-slate-800">
-                  {sector.name}
-                </div>
+    <Icon
+      size={18}
+      className="text-blue-600"
+    />
 
-                <div className="text-sm text-slate-500">
-                  {sector.companyCount} entreprises
-                </div>
+    <span className="text-sm font-medium text-slate-700">
+      {sector.name}
+    </span>
 
-              </div>
+  </div>
 
-              <div className="text-sm font-semibold text-slate-700">
-                {sector.percentage} %
-              </div>
+  {/* Barre */}
 
-            </div>
+  <div className="h-2 overflow-hidden rounded-full bg-slate-100">
 
-            <div className="h-3 overflow-hidden rounded-full bg-slate-200">
+    <div
+      className="h-full rounded-full bg-blue-600 transition-[width] duration-700"
+      style={{
+        width: `${animatedValues[index] ?? 0}%`,
+      }}
+    />
 
-              <div
-                className="
-                  h-full
-                  rounded-full
-                  bg-gradient-to-r
-                  from-blue-500
-                  to-blue-700
-                  transition-[width]
-                "
-                style={{
-                  width: `${animatedValues[index] ?? 0}%`,
-                }}
-              />
+  </div>
 
-            </div>
+  {/* Pourcentage */}
 
-          </div>
+  <div className="text-right text-sm font-semibold text-slate-700">
+    {sector.percentage} %
+  </div>
 
-        ))}
+</div>
+
+  );
+})}
 
       </div>
 

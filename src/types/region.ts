@@ -18,13 +18,15 @@ export interface Region {
 
   name: string;
 
+ logo: string; 
+
   latitude: number;
   longitude: number;
 
   companyCount: number;
-  newCompanies: number;
-  countriesCovered: number;
-  sectorCount: number;
+ exportingCompanyRate: number;
+    averageExportRate: number;
+    countriesCovered: number;
 
   description: string;
 

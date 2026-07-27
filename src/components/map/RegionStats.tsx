@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 
 import type { Region } from "@/types/region";
+import { ColorType } from "maplibre-gl";
 
 type RegionStatsProps = {
   region: Region;
@@ -19,73 +20,72 @@ export default function RegionStats({
   const stats = [
     {
       title: "Entreprises",
-      value: region.companyCount,
+      value: `${region.companyCount}`,
       icon: Building2,
-      color: "bg-blue-100 text-blue-600",
+      bg: "bg-blue-100",
+      iconColor: "text-blue-600",
     },
     {
-      title: "Nouveautés",
-      value: region.newCompanies,
+      title: "Entreprises exportatrices",
+      value: `${region.exportingCompanyRate} %`,
       icon: TrendingUp,
-      color: "bg-emerald-100 text-emerald-600",
+      bg: "bg-emerald-100",
+      iconColor: "text-emerald-600",
+    },
+    {
+      title: "Taux d'export",
+      value: `${region.averageExportRate} %`,
+      icon: Layers3,
+      bg: "bg-amber-100",
+      iconColor: "text-amber-600",
     },
     {
       title: "Pays couverts",
-      value: region.countriesCovered,
+      value: `${region.countriesCovered}`,
       icon: Globe2,
-      color: "bg-violet-100 text-violet-600",
-    },
-    {
-      title: "Secteurs",
-      value: region.sectorCount,
-      icon: Layers3,
-      color: "bg-amber-100 text-amber-600",
+      bg: "bg-violet-100",
+      iconColor: "text-violet-600",
     },
   ];
 
   return (
-    <section className="grid grid-cols-2 gap-4">
+    <section className="grid grid-cols-4 gap-2">
       {stats.map((stat) => {
         const Icon = stat.icon;
 
         return (
           <article
             key={stat.title}
-            className="
-              group
-              rounded-2xl
+            className={`
+            h-[120px]  
+            rounded-3xl
               border
-              border-slate-200
-              bg-white
-              p-5
+              border-slate-100
+                            pt-3 pb-2 px-4
               shadow-sm
               transition-all
               duration-200
               hover:-translate-y-1
-              hover:shadow-lg
-            "
+              hover:shadow-base
+              ${stat.bg}
+            `}
           >
-            <div className="flex items-center justify-between">
-              <div
-                className={`
-                  flex
-                  h-12
-                  w-12
-                  items-center
-                  justify-center
-                  rounded-xl
-                  ${stat.color}
-                `}
-              >
-                <Icon size={22} />
-              </div>
-
-              <span className="text-3xl font-bold text-slate-900">
-                {stat.value}
-              </span>
+            <div
+              className={`
+                mb-2
+                flex
+                justify-center
+                                
+              `}
+            >
+              <Icon size={28} className={stat.iconColor}/>  
             </div>
 
-            <p className="mt-4 text-sm font-medium text-slate-500">
+            <p className="text-center text-xl font-bold text-slate-900">
+              {stat.value}
+            </p>
+
+            <p className="mt-1 whitespace-pre-line text-center text-xs font-medium leading-4 text-slate-600">
               {stat.title}
             </p>
           </article>

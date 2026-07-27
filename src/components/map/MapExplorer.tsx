@@ -20,7 +20,21 @@ export default function MapExplorer() {
         />
       </div>
 
-      <div className="w-full xl:w-[430px] shrink-0">
+      <div
+  className={`
+    overflow-hidden
+    transition-all
+    duration-500
+    ease-in-out
+    shrink-0
+    
+    ${
+      selectedRegion
+        ? "w-full xl:w-[430px]"
+        : "w-0"
+    }
+  `}
+>
         <RegionDrawer
           region={selectedRegion}
           onClose={() => setSelectedRegion(null)}

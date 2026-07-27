@@ -2,7 +2,13 @@
 
 import { X } from "lucide-react";
 
-import { Region } from "@/types/region";
+import DrawerHeader from "./DrawerHeader";
+import RegionStats from "./RegionStats";
+import SectorBreakdown from "./SectorBreakdown";
+import FeaturedCompanies from "./FeaturedCompanies";
+import SizeBreakdown from "./SizeBreakdown";
+import type { Region } from "@/types/region";
+import SearchButton from "./SearchButton";
 
 type Props = {
   region: Region | null;
@@ -20,76 +26,33 @@ export default function RegionDrawer({
         duration-500
         ease-in-out
         overflow-hidden
+
         ${
           region
-            ? "w-[420px] opacity-100"
+            ? "w-[430px] opacity-100"
             : "w-0 opacity-0"
         }
       `}
     >
       {region && (
-        <div className="h-full rounded-3xl border border-slate-200 bg-white p-8 shadow-xl">
+        <div className="h-full rounded-3xl border border-slate-200 bg-white shadow-xl">
 
-          <div className="mb-8 flex items-start justify-between">
+          <DrawerHeader
+            region={region}
+            onClose={onClose}
+          />
 
-            <div>
+          <div className="space-y-5 p-4">
 
-              <h2 className="text-2xl font-bold text-slate-900">
-                {region.name}
-              </h2>
+            <RegionStats region={region} />
 
-              <p className="mt-2 text-slate-500">
-                {region.companyCount} entreprises
-              </p>
+            <SectorBreakdown region={region} />
 
-            </div>
+            <SizeBreakdown region={region} />
 
-            <button
-              onClick={onClose}
-              className="rounded-lg p-2 transition hover:bg-slate-100"
-            >
-              <X size={20} />
-            </button>
-
-          </div>
-
-          <div className="space-y-4">
-
-            <div className="rounded-2xl bg-slate-50 p-5">
-
-              <div className="text-3xl font-bold text-blue-600">
-                {region.companyCount}
-              </div>
-
-              <div className="text-sm text-slate-500">
-                Entreprises référencées
-              </div>
-
-            </div>
-
-            <div className="rounded-2xl bg-slate-50 p-5">
-
-              <div className="text-3xl font-bold text-emerald-600">
-                +{region.newCompanies}
-              </div>
-
-              <div className="text-sm text-slate-500">
-                Nouvelles ce mois-ci
-              </div>
-
-            </div>
-
-            <div className="rounded-2xl bg-slate-50 p-5">
-
-              <div className="text-3xl font-bold text-blue-600">
-                {region.countriesCovered}
-              </div>
-
-              <div className="text-sm text-slate-500">
-                Pays couverts
-              </div>
-
-            </div>
+            <SearchButton
+  companyCount={region.companyCount}
+/>
 
           </div>
 

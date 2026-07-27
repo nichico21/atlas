@@ -5,13 +5,15 @@ export const regions: Region[] = [
     id: "idf",
     name: "Île-de-France",
 
+logo: "/regions/logos/idf.jpg",
+
     latitude: 48.8566,
     longitude: 2.3522,
 
     companyCount: 126,
-    newCompanies: 18,
-    countriesCovered: 72,
-    sectorCount: 5,
+    exportingCompanyRate: 84,
+    averageExportRate: 39,
+    countriesCovered: 47,
 
     rank: 1,
 
@@ -79,13 +81,15 @@ export const regions: Region[] = [
     id: "ara",
     name: "Auvergne-Rhône-Alpes",
 
+logo: "/regions/logos/aura.png",
+
     latitude: 45.764,
     longitude: 4.8357,
 
-    companyCount: 94,
-    newCompanies: 8,
-    countriesCovered: 47,
-    sectorCount: 5,
+    companyCount: 92,
+    exportingCompanyRate: 78,
+    averageExportRate: 34,
+    countriesCovered: 35,
 
     rank: 2,
 
@@ -153,13 +157,15 @@ export const regions: Region[] = [
     id: "paca",
     name: "Provence-Alpes-Côte d'Azur",
 
+logo: "/regions/logos/paca.png",
+
     latitude: 43.2965,
     longitude: 5.3698,
 
     companyCount: 61,
-    newCompanies: 5,
-    countriesCovered: 38,
-    sectorCount: 5,
+    exportingCompanyRate: 62,
+    averageExportRate: 29,
+    countriesCovered: 37,
 
     rank: 3,
 
