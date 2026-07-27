@@ -16,6 +16,7 @@ export default function MapExplorer() {
     <div className="flex flex-col gap-6 xl:flex-row">
       <div className="flex-1">
         <InteractiveMap
+          selectedRegion={selectedRegion}
           onRegionClick={setSelectedRegion}
         />
       </div>
