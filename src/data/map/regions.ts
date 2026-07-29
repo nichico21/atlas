@@ -233,7 +233,7 @@ logo: "/regions/logos/paca.png",
   id: "occ",
   name: "Occitanie",
 
-  logo: "/regions/logos/occ.jpg",
+  logo: "/regions/logos/occitanie.png",
 
   latitude: 43.6047,
   longitude: 1.4442,
@@ -309,7 +309,7 @@ logo: "/regions/logos/paca.png",
   id: "ges",
   name: "Grand Est",
 
-  logo: "/regions/logos/ges.jpg",
+  logo: "/regions/logos/grand-est.webp",
 
   latitude: 48.5734,
   longitude: 7.7521,
@@ -385,7 +385,7 @@ logo: "/regions/logos/paca.png",
   id: "naq",
   name: "Nouvelle-Aquitaine",
 
-  logo: "/regions/logos/naq.jpg",
+  logo: "/regions/logos/nouvelle-aquitaine.webp",
 
   latitude: 44.8378,
   longitude: -0.5792,
@@ -461,7 +461,7 @@ logo: "/regions/logos/paca.png",
   id: "bre",
   name: "Bretagne",
 
-  logo: "/regions/logos/bre.jpg",
+  logo: "/regions/logos/bretagne.png",
 
   latitude: 48.1173,
   longitude: -1.6778,
@@ -537,7 +537,7 @@ logo: "/regions/logos/paca.png",
   id: "pdl",
   name: "Pays de la Loire",
 
-  logo: "/regions/logos/pdl.jpg",
+  logo: "/regions/logos/pays-de-la-loire.png",
 
   latitude: 47.2184,
   longitude: -1.5536,
@@ -613,7 +613,7 @@ logo: "/regions/logos/paca.png",
   id: "nor",
   name: "Normandie",
 
-  logo: "/regions/logos/nor.jpg",
+  logo: "/regions/logos/normandie.jpg",
 
   latitude: 49.1829,
   longitude: -0.3707,
@@ -689,7 +689,7 @@ logo: "/regions/logos/paca.png",
   id: "hdf",
   name: "Hauts-de-France",
 
-  logo: "/regions/logos/hdf.jpg",
+  logo: "/regions/logos/hdf.png",
 
   latitude: 50.6292,
   longitude: 3.0573,
@@ -765,7 +765,7 @@ logo: "/regions/logos/paca.png",
   id: "cvl",
   name: "Centre-Val de Loire",
 
-  logo: "/regions/logos/cvl.jpg",
+  logo: "/regions/logos/centre.png",
 
   latitude: 47.9029,
   longitude: 1.9093,
@@ -841,7 +841,7 @@ logo: "/regions/logos/paca.png",
   id: "bfc",
   name: "Bourgogne-Franche-Comté",
 
-  logo: "/regions/logos/bfc.jpg",
+  logo: "/regions/logos/bourgogne.png",
 
   latitude: 47.322,
   longitude: 5.0415,
@@ -917,7 +917,7 @@ logo: "/regions/logos/paca.png",
   id: "cor",
   name: "Corse",
 
-  logo: "/regions/logos/cor.jpg",
+  logo: "/regions/logos/corse.png",
 
   latitude: 41.9192,
   longitude: 8.7386,
