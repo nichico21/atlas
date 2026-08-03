@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "description": "Catégories de sources référencées dans le catalogue.",
+  "values": [
+    {
+      "id": "database",
+      "label": "Base de données"
+    },
+    {
+      "id": "institutional-website",
+      "label": "Site institutionnel"
+    },
+    {
+      "id": "directory",
+      "label": "Annuaire"
+    },
+    {
+      "id": "federation",
+      "label": "Fédération"
+    },
+    {
+      "id": "association",
+      "label": "Association"
+    },
+    {
+      "id": "cluster",
+      "label": "Cluster"
+    },
+    {
+      "id": "competitiveness-cluster",
+      "label": "Pôle de compétitivité"
+    },
+    {
+      "id": "development-agency",
+      "label": "Agence de développement"
+    },
+    {
+      "id": "public-program",
+      "label": "Programme public"
+    },
+    {
+      "id": "label",
+      "label": "Label"
+    },
+    {
+      "id": "trade-show",
+      "label": "Salon professionnel"
+    },
+    {
+      "id": "media",
+      "label": "Média"
+    },
+    {
+      "id": "social-network",
+      "label": "Réseau social"
+    },
+    {
+      "id": "open-data-portal",
+      "label": "Portail Open Data"
+    },
+    {
+      "id": "documentation",
+      "label": "Documentation"
+    },
+    {
+      "id": "api",
+      "label": "API"
+    },
+    {
+      "id": "marketplace",
+      "label": "Marketplace"
+    }
+  ]
+}

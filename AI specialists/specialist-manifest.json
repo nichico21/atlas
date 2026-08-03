@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+
+  "description": "Standard definition shared by every Atlas AI Specialist.",
+
+  "documents": [
+
+    {
+      "id": "knowledge",
+      "path": "../knowledge.md",
+      "required": true
+    },
+
+    {
+      "id": "mission",
+      "path": "mission.md",
+      "required": true
+    },
+
+    {
+      "id": "workflow",
+      "path": "workflow.md",
+      "required": true
+    },
+
+    {
+      "id": "outputs",
+      "path": "outputs.md",
+      "required": true
+    },
+
+    {
+      "id": "prompt",
+      "path": "prompt.md",
+      "required": true
+    }
+
+  ]
+}

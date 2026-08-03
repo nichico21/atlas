@@ -1,0 +1,96 @@
+{
+  "id": "sirene",
+
+  "name": "Système national d'identification et du répertoire des entreprises",
+
+  "acronym": "SIRENE",
+
+  "description": "Répertoire officiel des entreprises, établissements et associations françaises.",
+
+  "whyStrategic": "Référentiel d'identité de toutes les entreprises françaises.",
+  
+  "questionsAnswered": "Permet de répondre à l'identification des entreprises françaises, de retrouver leurs établissements, leurs identifiants officiels et leurs principales caractéristiques administratives.",
+
+  "owner": "INSEE",
+
+  "url": "https://www.insee.fr/fr/information/6751110",
+
+  "comments": "Référentiel national de référence pour l'identification des entreprises françaises.",
+
+  "sourceCategory": "public-national-sources",
+
+  "role": [
+    "company-reference"
+  ],
+
+  "mainObject": "company",
+
+  "dataTypes": [
+    "companies",
+    "establishments",
+    "identifiers",
+    "business-sectors",
+    "employees"
+  ],
+
+  "sourceType": "database",
+
+  "geographicScope": "national",
+
+  "status": "ready",
+
+  "primarySectors": [
+    "transverse"
+  ],
+
+  "estimatedCompanies": 11000000,
+
+  "updateFrequency": "daily",
+
+  "lastVerified": "2026-08-01",
+
+  "accessMethod": [
+    "api",
+    "open-data",
+    "csv",
+    "website"
+  ],
+
+  "collectionDifficulty": "low",
+
+  "license": "open-license",
+
+  "lastSourceUpdate": "2026-08-01",
+
+  "evaluation": {
+
+    "strategicValue": 30,
+
+    "reliability": 15,
+
+    "informationRichness": 14,
+
+    "coverage": 15,
+
+    "exploitability": 20
+
+  },
+
+  "fsipScore": 94,
+
+  "sourceConnector": true,
+
+  "developmentPriority": "critical",
+
+  "intrgrationPriority": 5
+
+
+
+
+
+
+
+  
+
+
+}

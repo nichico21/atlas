@@ -1,0 +1,636 @@
+[
+  {
+    "id": "name",
+    "label": "Nom de la source",
+    "section": "identity",
+    "order": 1,
+    "type": "text",
+    "required": true,
+    "description": "Nom complet de la source.",
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": true
+    }
+  },
+  {
+    "id": "acronym",
+    "label": "Acronyme",
+    "section": "identity",
+    "order": 2,
+    "type": "text",
+    "required": false,
+    "description": "Sigle ou acronyme de la source.",
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": true
+    }
+  },
+  {
+    "id": "description",
+    "label": "Description",
+    "section": "identity",
+    "order": 3,
+    "type": "long-text",
+    "required": true,
+    "description": "Présentation synthétique de la source.",
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  {
+    "id": "whyStrategic",
+    "label": "Pourquoi cette source est stratégique ?",
+    "section": "identity",
+    "order": 4,
+    "type": "long-text",
+    "required": true,
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  {
+    "id": "questionsAnswered",
+    "label": "Questions auxquelles cette source répond",
+    "section": "identity",
+    "order": 5,
+    "type": "long-text",
+    "required": true,
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  {
+    "id": "owner",
+    "label": "Organisme propriétaire",
+    "section": "identity",
+    "order": 6,
+    "type": "text",
+    "required": true,
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": true
+    }
+  },
+  {
+    "id": "url",
+    "label": "URL",
+    "section": "identity",
+    "order": 7,
+    "type": "url",
+    "required": false,
+
+    "source": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "comments",
+    "label": "Commentaires",
+    "section": "identity",
+    "order": 8,
+    "type": "long-text",
+    "required": false,
+
+    "source": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+
+  {
+    "id": "sourceCategory",
+    "label": "Famille",
+    "section": "classification",
+    "order": 1,
+    "type": "single-select",
+    "required": true,
+    "description": "Grande famille à laquelle appartient la source.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "source-categories"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "role",
+    "label": "Rôle",
+    "section": "classification",
+    "order": 2,
+    "type": "multi-select",
+    "required": true,
+    "description": "Fonction principale de la source dans l'écosystème.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "role"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "mainObject",
+    "label": "Objet principal",
+    "section": "classification",
+    "order": 3,
+    "type": "single-select",
+    "required": true,
+    "description": "Type d'information principalement couvert par la source.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "main-object"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+{
+  "id": "dataTypes",
+  "label": "Types de données",
+  "section": "classification",
+  "order": 4,
+  "type": "multi-select",
+  "required": true,
+  "description": "Types de données pouvant être collectés à partir de cette source.",
+
+  "valueSource": {
+    "type": "vocabulary",
+    "name": "data-types"
+  },
+
+  "ai": {
+    "index": true,
+    "search": true,
+    "summarize": true,
+    "embedding": true
+  }
+},
+
+  {
+    "id": "sourceType",
+    "label": "Type de source",
+    "section": "classification",
+    "order": 5,
+    "type": "single-select",
+    "required": true,
+    "description": "Nature technique de la source.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "source-type"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "geographicScope",
+    "label": "Niveau",
+    "section": "classification",
+    "order": 6,
+    "type": "single-select",
+    "required": true,
+    "description": "Périmètre géographique couvert par la source.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "geographic-scope"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "status",
+    "label": "Statut",
+    "section": "classification",
+    "order": 7,
+    "type": "single-select",
+    "required": true,
+    "description": "Statut actuel de la source dans Atlas.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "statuses"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "primarySectors",
+    "label": "Secteurs",
+    "section": "classification",
+    "order": 8,
+    "type": "multi-select",
+    "required": false,
+    "description": "Secteurs économiques couverts par la source.",
+
+    "source": {
+      "type": "vocabulary",
+      "name": "primary-sectors"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+
+  {
+    "id": "estimatedCompanies",
+    "label": "Nombre estimé d'entreprises",
+    "section": "metadata",
+    "order": 1,
+    "type": "number",
+    "required": false,
+    "description": "Nombre approximatif d'entreprises référencées dans la source.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "updateFrequency",
+    "label": "Fréquence de mise à jour",
+    "section": "metadata",
+    "order": 2,
+    "type": "single-select",
+    "required": true,
+    "description": "Fréquence à laquelle les données de la source sont mises à jour.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "update-frequency"
+    },
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "lastVerified",
+    "label": "Dernière vérification",
+    "section": "metadata",
+    "order": 3,
+    "type": "date",
+    "required": false,
+    "description": "Date de la dernière vérification manuelle de la fiche.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "accessMethod",
+    "label": "Mode d'accès",
+    "section": "metadata",
+    "order": 4,
+    "type": "multi-select",
+    "required": true,
+    "description": "Mode d'accès principal à la source.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "access-method"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "collectionDifficulty",
+    "label": "Difficulté de collecte",
+    "section": "metadata",
+    "order": 5,
+    "type": "single-select",
+    "required": true,
+    "description": "Niveau de difficulté pour collecter automatiquement les données.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "collection-difficulty"
+    },
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "license",
+    "label": "Licence",
+    "section": "metadata",
+    "order": 6,
+    "type": "single-select",
+    "required": false,
+    "description": "Conditions de réutilisation des données.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "licenses"
+    },
+
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "lastSourceUpdate",
+    "label": "Dernière mise à jour de la source",
+    "section": "metadata",
+    "order": 7,
+    "type": "date",
+    "required": false,
+    "description": "Date de la dernière mise à jour des données publiées par le producteur de la source.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  
+  {
+    "id": "strategicValue",
+    "label": "Valeur stratégique",
+    "section": "evaluation",
+    "order": 1,
+    "type": "rating",
+    "required": true,
+    "parent": "evaluation",
+    "description": "Appréciation de l'intérêt stratégique de la source.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "reliability",
+    "label": "Fiabilité",
+    "section": "evaluation",
+    "order": 2,
+    "type": "rating",
+    "required": true,
+    "parent": "evaluation",
+    "description": "Niveau de confiance accordé aux données de la source.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "informationRichness",
+    "label": "Richesse informationnelle",
+    "section": "evaluation",
+    "order": 3,
+    "type": "rating",
+    "required": true,
+    "parent": "evaluation",
+    "description": "Richesse et diversité des informations disponibles.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "coverage",
+    "label": "Couverture",
+    "section": "evaluation",
+    "order": 4,
+    "type": "rating",
+    "required": true,
+    "parent": "evaluation",
+    "description": "Étendue de la couverture sectorielle, géographique ou thématique.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "exploitability",
+    "label": "Exploitabilité",
+    "section": "evaluation",
+    "order": 5,
+    "type": "rating",
+    "required": true,
+    "parent": "evaluation",
+    "description": "Facilité d'exploitation des données par Atlas.",
+
+
+  "rating": {
+    "model": "default-rating"
+  },
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "fsipScore",
+    "label": "Score FSIP",
+    "section": "evaluation",
+    "order": 6,
+    "type": "number",
+    "required": true,
+    "computed": true,
+    "readonly": true,
+    "description": "Score global calculé automatiquement à partir du modèle d'évaluation.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "sourceConnector",
+    "label": "Connecteur prévu",
+    "section": "connector",
+    "order": 1,
+    "type": "boolean",
+    "required": true,
+    "description": "Indique si un connecteur est prévu pour cette source.",
+
+    "valueSource": null,
+
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  
+  {
+    "id": "developmentPriority",
+    "label": "Priorité",
+    "section": "connector",
+    "order": 2,
+    "type": "single-select",
+    "required": false,
+    "description": "Priorité attribuée au développement du connecteur.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "development-priority"
+    },
+
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "integrationPriority",
+    "label": "ROI estimé",
+    "section": "connector",
+    "order": 3,
+    "type": "single-select",
+    "required": false,
+    "description": "Retour sur investissement estimé du développement du connecteur.",
+
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "integration-priority"
+    },
+
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  } 
+]
+

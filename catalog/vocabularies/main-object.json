@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "description": "Principaux objets ou entités décrits par une source.",
+  "values": [
+    {
+      "id": "company",
+      "label": "Entreprise"
+    },
+    {
+      "id": "organization",
+      "label": "Organisation"
+    },
+    {
+      "id": "member",
+      "label": "Membre"
+    },
+    {
+      "id": "project",
+      "label": "Projet"
+    },
+    {
+      "id": "exhibitor",
+      "label": "Exposant"
+    },
+    {
+      "id": "news",
+      "label": "Actualité"
+    },
+    {
+      "id": "patent",
+      "label": "Brevet"
+    },
+    {
+      "id": "label-certification",
+      "label": "Label & Certification"
+    },
+    {
+      "id": "public-program-awardee",
+      "label": "Lauréat de programme public"
+    }
+  ]
+}

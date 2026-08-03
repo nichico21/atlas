@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "description": "Grandes familles auxquelles une source peut appartenir.",
+  "values": [
+    {
+      "id": "national-public-sources",
+      "label": "Sources publiques nationales"
+    },
+    {
+      "id": "export-ecosystem",
+      "label": "Écosystème export"
+    },
+    {
+      "id": "companies",
+      "label": "Entreprises"
+    },
+    {
+      "id": "professional-networks",
+      "label": "Réseaux professionnels"
+    },
+    {
+      "id": "public-programs",
+      "label": "Programmes publics"
+    },
+    {
+      "id": "labels-and-communities",
+      "label": "Labels et communautés"
+    },
+    {
+      "id": "visibility",
+      "label": "Visibilité"
+    },
+    {
+      "id": "territorial-network",
+      "label": "Réseau territorial"
+    },
+    {
+      "id": "specialized-media",
+      "label": "Médias spécialisés"
+    },
+    {
+      "id": "professional-social-networks",
+      "label": "Réseaux sociaux professionnels"
+    }
+  ]
+}

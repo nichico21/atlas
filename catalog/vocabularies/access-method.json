@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "Modes d'accès aux données proposés par une source.",
+  "values":
+
+[
+   { "id": "api", "label": "API" },
+    { "id": "website", "label": "Site web" },
+    { "id": "open-data", "label": "Open Data" },
+    { "id": "csv", "label": "CSV" },
+    { "id": "excel", "label": "Excel" },
+    { "id": "pdf", "label": "PDF" },
+    { "id": "rss", "label": "Flux RSS" },
+    { "id": "authentication", "label": "Authentification" },
+    { "id": "scraping", "label": "Scraping nécessaire" }
+]
+}

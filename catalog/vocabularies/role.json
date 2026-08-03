@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "description": "Principaux usages susceptibles d'être faits d'une source.",
+  "values": [
+    {
+      "id": "company-reference",
+      "label": "Référentiel d'identité des entreprises"
+    },
+    {
+      "id": "data-enrichment",
+      "label": "Enrichissement"
+    },
+    {
+      "id": "discovery",
+      "label": "Découverte"
+    },
+    {
+      "id": "monitoring",
+      "label": "Veille"
+    },
+    {
+      "id": "relationship-mapping",
+      "label": "Cartographie des relations"
+    },
+    {
+      "id": "recognition",
+      "label": "Reconnaissance"
+    },
+    {
+      "id": "economic-signals",
+      "label": "Signaux économiques"
+    },
+    {
+      "id": "international-development",
+      "label": "Développement international"
+    }
+  ]
+}

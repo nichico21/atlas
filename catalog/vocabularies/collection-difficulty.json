@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "description": "Niveaux de difficulté pour collecter les données d'une source.",
+  "values": [
+    {
+      "id": "very-low",
+      "label": "Très faible"
+    },
+    {
+      "id": "low",
+      "label": "Faible"
+    },
+    {
+      "id": "medium",
+      "label": "Moyenne"
+    },
+    {
+      "id": "high",
+      "label": "Élevée"
+    },
+    {
+      "id": "very-high",
+      "label": "Très élevée"
+    }
+  ]
+}

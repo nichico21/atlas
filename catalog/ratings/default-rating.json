@@ -1,0 +1,11 @@
+{
+  "id": "default-rating",
+  "label": "Notation par défaut",
+  "description": "Échelle de notation utilisée pour les évaluations standards d'Atlas.",
+
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "step": 1
+  }
+}

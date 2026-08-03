@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "description": "Niveaux de retour sur investissement estimé pour l'intégration d'une source.",
+  "values": [
+    {
+      "id": "exceptional",
+      "label": "Exceptionnel — À développer dès que possible"
+    },
+    {
+      "id": "very-high",
+      "label": "Très intéressant — Très bon retour sur investissement, mais intégration plus complexe ou plus spécialisée."
+    },
+    {
+      "id": "high",
+      "label": "Intéressant — Apporte une vraie valeur, mais n'est pas prioritaire."
+    },
+    {
+      "id": "low",
+      "label": "Faible ROI — À développer uniquement si un besoin spécifique apparaît."
+    },
+    {
+      "id": "very-low",
+      "label": "Très faible ROI — À éviter ou à repousser."
+    }
+  ]
+}

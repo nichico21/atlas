@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "description": "Niveaux de priorité pour le développement ou l'intégration d'une source.",
+  "values": [
+    {
+      "id": "critical",
+      "label": "Priorité critique"
+    },
+    {
+      "id": "high",
+      "label": "Priorité élevée"
+    },
+    {
+      "id": "medium",
+      "label": "Priorité moyenne"
+    },
+    {
+      "id": "low",
+      "label": "Priorité faible"
+    }
+  ]
+}

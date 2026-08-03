@@ -1,0 +1,124 @@
+{
+  "version": "1.0.0",
+
+  "description": "Functional capabilities offered by an Atlas connector.",
+
+  "values": [
+
+    {
+      "id": "search-company",
+      "label": "Search companies"
+    },
+
+    {
+      "id": "search-organization",
+      "label": "Search organizations"
+    },
+
+    {
+      "id": "search-buyer",
+      "label": "Search buyers"
+    },
+
+    {
+      "id": "search-opportunity",
+      "label": "Search opportunities"
+    },
+
+    {
+      "id": "company-details",
+      "label": "Company details"
+    },
+
+    {
+      "id": "organization-details",
+      "label": "Organization details"
+    },
+
+    {
+      "id": "buyer-details",
+      "label": "Buyer details"
+    },
+
+    {
+      "id": "opportunity-details",
+      "label": "Opportunity details"
+    },
+
+    {
+      "id": "browse-directory",
+      "label": "Browse directory"
+    },
+
+    {
+      "id": "browse-news",
+      "label": "Browse news"
+    },
+
+    {
+      "id": "browse-publications",
+      "label": "Browse publications"
+    },
+
+    {
+      "id": "browse-projects",
+      "label": "Browse projects"
+    },
+
+    {
+      "id": "browse-events",
+      "label": "Browse events"
+    },
+
+    {
+      "id": "download-files",
+      "label": "Download files"
+    },
+
+    {
+      "id": "bulk-download",
+      "label": "Bulk download"
+    },
+
+    {
+      "id": "incremental-sync",
+      "label": "Incremental synchronization"
+    },
+
+    {
+      "id": "monitor-updates",
+      "label": "Monitor updates"
+    },
+
+    {
+      "id": "relationship-mapping",
+      "label": "Relationship mapping"
+    },
+
+    {
+      "id": "entity-discovery",
+      "label": "Entity discovery"
+    },
+
+    {
+      "id": "metadata-extraction",
+      "label": "Metadata extraction"
+    },
+
+    {
+      "id": "content-extraction",
+      "label": "Content extraction"
+    },
+
+    {
+      "id": "export-data",
+      "label": "Export data"
+    },
+
+    {
+      "id": "structured-output",
+      "label": "Structured output"
+    }
+
+  ]
+}

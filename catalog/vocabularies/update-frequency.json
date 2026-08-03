@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "description": "Fréquences de mise à jour des données d'une source.",
+  "values": [
+    {
+      "id": "daily",
+      "label": "Quotidienne"
+    },
+    {
+      "id": "weekly",
+      "label": "Hebdomadaire"
+    },
+    {
+      "id": "monthly",
+      "label": "Mensuelle"
+    },
+    {
+      "id": "quarterly",
+      "label": "Trimestrielle"
+    },
+    {
+      "id": "biannual",
+      "label": "Semestrielle"
+    },
+    {
+      "id": "annual",
+      "label": "Annuelle"
+    },
+    {
+      "id": "unknown",
+      "label": "Inconnue"
+    }
+  ]
+}

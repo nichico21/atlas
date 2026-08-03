@@ -1,0 +1,321 @@
+[
+  {
+    "id": "id",
+    "label": "Identifier",
+    "section": "identity",
+    "order": 1,
+    "type": "text",
+    "required": true,
+    "computed": true,
+    "formula": "source + '-' + accessMethods",
+    "description": "Unique identifier of the connector.",
+    "example": "sirene-api",
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "source",
+    "label": "Source",
+    "section": "identity",
+    "order": 2,
+    "type": "single-select",
+    "required": true,
+    "description": "Source associated with this connector.",
+    "valueSource": {
+      "type": "entity",
+      "name": "sources"
+    },
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "label",
+    "label": "Label",
+    "section": "identity",
+    "order": 3,
+    "type": "text",
+    "required": true,
+    "computed": true,
+    "formula": "Source.label + ' ' + AccessMethod.label",
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  
+  {
+    "id": "version",
+    "label": "Version",
+    "section": "identity",
+    "order": 4,
+    "type": "text",
+    "required": true,
+    "defaultValue": "1.0.0",
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "enabled",
+    "label": "Enabled",
+    "section": "identity",
+    "order": 5,
+    "type": "boolean",
+    "required": true,
+    "defaultValue": true,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "accessMethods",
+    "label": "Access methods",
+    "section": "connection",
+    "order": 10,
+    "type": "multi-select",
+    "required": true,
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "access-method"
+    },
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "Url",
+    "label": "URL",
+    "section": "connection",
+    "order": 11,
+    "type": "url",
+    "required": true,
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "authenticationRequired",
+    "label": "Authentication required",
+    "section": "connection",
+    "order": 12,
+    "type": "boolean",
+    "required": true,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "explorationMode",
+    "label": "Exploration mode",
+    "section": "exploration",
+    "order": 20,
+    "type": "single-select",
+    "required": true,
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "exploration-modes"
+    },
+    "ai": {
+      "index": true,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  
+  {
+    "id": "maxDepth",
+    "label": "Maximum depth",
+    "section": "exploration",
+    "order": 21,
+    "type": "number",
+    "required": true,
+    "defaultValue": 5,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "followInternalLinks",
+    "label": "Follow internal links",
+    "section": "exploration",
+    "order": 22,
+    "type": "boolean",
+    "required": true,
+    "defaultValue": true,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "respectRobotsTxt",
+    "label": "Respect robots.txt",
+    "section": "exploration",
+    "order": 23,
+    "type": "boolean",
+    "required": true,
+    "defaultValue": true,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "useSitemap",
+    "label": "Use sitemap",
+    "section": "exploration",
+    "order": 24,
+    "type": "boolean",
+    "required": true,
+    "defaultValue": true,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "syncFrequency",
+    "label": "Synchronization frequency",
+    "section": "synchronization",
+    "order": 30,
+    "type": "single-select",
+    "required": true,
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "sync-frequencies"
+    },
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "lastSync",
+    "label": "Last synchronization",
+    "section": "synchronization",
+    "order": 31,
+    "type": "date",
+    "required": false,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "lastVerified",
+    "label": "Last verified",
+    "section": "synchronization",
+    "order": 32,
+    "type": "date",
+    "required": false,
+    "ai": {
+      "index": false,
+      "search": false,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+
+  {
+    "id": "capabilities",
+    "label": "Capabilities",
+    "section": "technical",
+    "order": 40,
+    "type": "multi-select",
+    "required": true,
+    "valueSource": {
+      "type": "vocabulary",
+      "name": "connector-capabilities"
+    },
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": false,
+      "embedding": false
+    }
+  },
+  {
+    "id": "notes",
+    "label": "Notes",
+    "section": "technical",
+    "order": 41,
+    "type": "long-text",
+    "required": false,
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  {
+    "id": "knownLimitations",
+    "label": "Known limitations",
+    "section": "technical",
+    "order": 42,
+    "type": "long-text",
+    "required": false,
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  },
+  {
+    "id": "recommendedStrategy",
+    "label": "Recommended strategy",
+    "section": "technical",
+    "order": 43,
+    "type": "long-text",
+    "required": false,
+    "ai": {
+      "index": true,
+      "search": true,
+      "summarize": true,
+      "embedding": true
+    }
+  }
+]

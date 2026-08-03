@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "description": "Strategies used by Atlas to explore a source.",
+
+  "values": [
+
+    {
+      "id": "full-site",
+      "label": "Full site",
+      "description": "Explore the entire website starting from the home page or sitemap."
+    },
+
+    {
+      "id": "api-only",
+      "label": "API only",
+      "description": "Collect data exclusively through the available API."
+    },
+
+    {
+      "id": "rss-only",
+      "label": "RSS only",
+      "description": "Use one or more RSS feeds as the sole exploration source."
+    },
+
+    {
+      "id": "file-download",
+      "label": "File download",
+      "description": "Collect data by downloading published files (CSV, Excel, PDF, etc.)."
+    },
+
+    {
+      "id": "manual",
+      "label": "Manual",
+      "description": "No automated exploration is currently available."
+    }
+
+  ]
+}

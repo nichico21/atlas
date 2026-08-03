@@ -1,0 +1,170 @@
+{
+  "version": "1.0.0",
+  "maxScore": 100,
+  "criteria": [
+    {
+      "id": "strategicValue",
+      "label": "Valeur stratégique",
+      "weight": 30,
+      "description": "Importance stratégique de la source pour FSIP.",
+      "levels": [
+        {
+          "score": 30,
+          "description": "Source fondatrice. FSIP perd une capacité essentielle sans elle."
+        },
+        {
+          "score": 25,
+          "description": "Source majeure couvrant un pan important de l'industrie ou de l'export."
+        },
+        {
+          "score": 20,
+          "description": "Source très utile mais remplaçable par plusieurs autres."
+        },
+        {
+          "score": 10,
+          "description": "Source complémentaire apportant un enrichissement ponctuel."
+        },
+        {
+          "score": 0,
+          "description": "Faible intérêt pour les objectifs de FSIP."
+        }
+      ]
+    },
+    {
+      "id": "informationRichness",
+      "label": "Richesse informationnelle",
+      "weight": 20,
+      "description": "Diversité des informations exploitables.",
+      "levels": [
+        {
+          "score": 20,
+          "description": "Très grande diversité de données couvrant plusieurs dimensions de l'entreprise (identité, produits, technologies, marchés, événements, partenariats, innovation...)."
+        },
+        {
+          "score": 15,
+          "description": "Plusieurs familles de données complémentaires."
+        },
+        {
+          "score": 10,
+          "description": "Une ou deux familles de données bien renseignées."
+        },
+        {
+          "score": 5,
+          "description": "Une seule famille de données."
+        },
+        {
+          "score": 0,
+          "description": "Très peu d'informations exploitables."
+        }
+      ]
+    },
+    {
+      "id": "exploitability",
+      "label": "Exploitabilité",
+      "weight": 20,
+      "description": "Facilité d'accès et d'automatisation.",
+      "levels": [
+        {
+      "score": 20,
+      "description": "API officielle stable, bien documentée et facilement automatisable."
+    },
+    {
+      "score": 15,
+      "description": "Export structuré (CSV, XLSX, JSON...) ou API partielle."
+    },
+    {
+      "score": 10,
+      "description": "Scraping simple ou extraction automatisable avec un effort modéré."
+    },
+    {
+      "score": 5,
+      "description": "Scraping complexe ou nécessitant une forte maintenance."
+    },
+    {
+      "score": 0,
+      "description": "Collecte manuelle uniquement ou données non exploitables automatiquement."
+    }
+  ]
+},
+
+    {
+      "id": "reliability",
+      "label": "Fiabilité",
+      "weight": 15,
+      "description": "Niveau de confiance accordé à la source.",
+      "levels": [
+        {
+          "score": 15,
+          "description": "Source officielle ou faisant autorité, gouvernance claire, données vérifiées et régulièrement mises à jour."
+        },
+        {
+          "score": 12,
+          "description": "Organisme reconnu ou fédération de référence, données généralement fiables avec quelques limites."
+        },
+        {
+          "score": 9,
+          "description": "Source professionnelle crédible, mais sans validation systématique."
+        },
+        {
+          "score": 6,
+          "description": "Source communautaire ou déclarative, nécessitant des recoupements."
+        },
+        {
+          "score": 3,
+          "description": "Source peu contrôlée ou qualité très variable."
+        },
+        {
+          "score": 0,
+          "description": "Source non fiable ou ne pouvant pas être utilisée comme référence."
+        }
+      ]
+    },
+    {
+      "id": "coverage",
+      "label": "Couverture",
+      "weight": 15,
+      "description": "Représentativité et étendue.",
+      "levels": [
+        {
+          "score": 15,
+          "description": "Couverture exhaustive ou quasi exhaustive de son domaine (national ou sectoriel)."
+        },
+        {
+          "score": 12,
+          "description": "Très forte couverture, avec quelques lacunes."
+        },
+        {
+          "score": 9,
+          "description": "Bonne couverture, mais incomplète."
+        },
+        {
+          "score": 6,
+          "description": "Couverture partielle ou ciblée."
+        },
+        {
+          "score": 3,
+          "description": "Couverture limitée ou très spécialisée."
+        },
+        {
+          "score": 0,
+          "description": "Couverture marginale."
+        }
+
+        
+      ]
+    }
+  ],
+
+  "scoring":{
+  "id": "fsipScore",
+
+  "label": "FSIP Score",
+
+ "description": "Score global calculé automatiquement à partir des critères d'évaluation.",
+
+  "method": {
+    "type": "weighted-average",
+    "scale": 100
+  }
+  }
+}

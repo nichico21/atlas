@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "description": "États possibles du cycle de vie d'une source.",
+  "values": [
+    {
+      "id": "to-document",
+      "label": "À documenter"
+    },
+    {
+      "id": "under-review",
+      "label": "En cours d'analyse"
+    },
+    {
+      "id": "ready-to-connect",
+      "label": "Prête à connecter"
+    },
+    {
+      "id": "connected",
+      "label": "Connectée"
+    },
+    {
+      "id": "deprecated",
+      "label": "Obsolète"
+    },
+    {
+      "id": "abandoned",
+      "label": "À abandonner"
+    }
+  ]
+}

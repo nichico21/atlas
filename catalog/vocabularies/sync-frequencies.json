@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "description": "Frequency at which Atlas synchronizes data from a connector.",
+
+  "values": [
+
+    {
+      "id": "real-time",
+      "label": "En temps réel"
+    },
+
+    {
+      "id": "hourly",
+      "label": "Toutes les heures"
+    },
+
+    {
+      "id": "daily",
+      "label": "Quotidienne"
+    },
+
+    {
+      "id": "weekly",
+      "label": "Hebdomadaire"
+    },
+
+    {
+      "id": "monthly",
+      "label": "Mensuelle"
+    },
+
+    {
+      "id": "quarterly",
+      "label": "Trimestrielle"
+    },
+
+    {
+      "id": "manual",
+      "label": "Manuelle"
+    }
+
+  ]
+}

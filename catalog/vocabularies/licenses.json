@@ -1,0 +1,47 @@
+{
+  "id": "licenses",
+  "label": "Licences",
+  "description": "Conditions de réutilisation des données d'une source.",
+  "values": [
+    {
+      "id": "public-domain",
+      "label": "Domaine public",
+      "description": "Les données appartiennent au domaine public et peuvent être réutilisées librement."
+    },
+    {
+      "id": "open-license",
+      "label": "Licence ouverte",
+      "description": "Les données sont publiées sous une licence ouverte (ex. Etalab, Open Data Commons, Creative Commons...)."
+    },
+    {
+      "id": "attribution-required",
+      "label": "Attribution requise",
+      "description": "La réutilisation est autorisée sous réserve de citer la source."
+    },
+    {
+      "id": "non-commercial",
+      "label": "Usage non commercial",
+      "description": "La réutilisation est limitée à des usages non commerciaux."
+    },
+    {
+      "id": "restricted",
+      "label": "Licence restrictive",
+      "description": "La réutilisation est soumise à des restrictions importantes ou à une autorisation préalable."
+    },
+    {
+      "id": "proprietary",
+      "label": "Propriétaire",
+      "description": "Les données sont protégées par une licence propriétaire."
+    },
+    {
+      "id": "contractual",
+      "label": "Sous contrat",
+      "description": "L'accès et la réutilisation sont définis par un contrat ou une convention."
+    },
+    {
+      "id": "unknown",
+      "label": "Inconnue",
+      "description": "Les conditions de réutilisation ne sont pas connues."
+    }
+  ]
+}

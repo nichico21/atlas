@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "description": "Échelle géographique couverte par la source considérée.",
+  "values": [
+    {
+      "id": "international",
+      "label": "International"
+    },
+    {
+      "id": "european",
+      "label": "Européen"
+    },
+    {
+      "id": "national",
+      "label": "National"
+    },
+    {
+      "id": "regional",
+      "label": "Régional"
+    },
+    {
+      "id": "local",
+      "label": "Local"
+    }
+  ]
+}
