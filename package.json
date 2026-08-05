@@ -8,15 +8,19 @@
     "start": "next start",
     "lint": "eslint",
     "validate": "tsx scripts/validate-catalog.ts",
+    "deliver": "tsx scripts/deliver.ts",
     "sync-airtable": "tsx scripts/sync-airtable.ts",
     "test:loaders": "tsx scripts/tests/test-loaders.ts",
     "test:validation": "tsx scripts/tests/test-validation.ts",
     "test:catalog": "tsx scripts/tests/test-catalog.ts",
     "test:openai": "tsx scripts/tests/test-openai.ts",
-    "specialist": "tsx scripts/run-specialist.ts"
+    "specialist": "tsx scripts/run-specialist.ts",
+    "company-finder": "tsx scripts/run-company-finder.ts"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
     "dotenv": "^17.4.2",
+    "jsdom": "^29.1.1",
     "lucide-react": "^1.25.0",
     "maplibre-gl": "^5.24.0",
     "next": "16.2.10",
@@ -27,6 +31,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/jsdom": "^28.0.3",
     "@types/maplibre-gl": "^1.13.2",
     "@types/node": "^20",
     "@types/react": "^19",

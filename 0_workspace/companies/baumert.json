@@ -1,0 +1,31 @@
+{
+  "name": "BAUMERT",
+  "commercialName": "BAUMERT",
+  "siren": "",
+  "shortDescription": "Entreprise de Schaeffersheim spécialisée dans la conception et la fabrication de portes sécuritaires pour centrales nucléaires et sites sensibles.",
+  "detailedDescription": "L’entreprise est présentée dans l’annuaire du Club ETI Grand Est avec l’activité suivante : conception et fabrication de portes sécuritaires pour centrales nucléaires et sites sensibles. La page mentionne un effectif de 105 personnes.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "nuclear",
+    "defense-and-security",
+    "construction",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Concevoir et fabriquer des portes sécuritaires destinées aux centrales nucléaires et aux sites sensibles.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/baumert/"
+}

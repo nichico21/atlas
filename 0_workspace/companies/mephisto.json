@@ -1,0 +1,23 @@
+{
+  "siren": "mephisto",
+  "name": "MEPHISTO",
+  "shortDescription": "Entreprise de Sarrebourg active dans la fabrication de chaussures.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

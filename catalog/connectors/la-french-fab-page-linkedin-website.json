@@ -1,0 +1,30 @@
+{
+  "id": "la-french-fab-page-linkedin-website",
+  "label": "La French Fab — Page LinkedIn Site web",
+  "source": "la-french-fab-linkedin",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.linkedin.com/company/la-french-fab/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 3,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": false,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "relationship-mapping",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à surveiller la page publique LinkedIn de La French Fab et à extraire les métadonnées de profil ainsi que les publications visibles : texte des posts, dates relatives ou absolues lorsqu’elles sont disponibles, entreprises mentionnées, liens sortants, hashtags, thématiques industrielles et signaux économiques.",
+  "knownLimitations": "LinkedIn applique des restrictions fortes d’accès, de pagination, d’authentification et d’automatisation. Les contenus visibles sans connexion peuvent être partiels. Les dates affichées peuvent être relatives. Les interactions, la liste complète des employés et certaines publications peuvent nécessiter une session authentifiée ou être indisponibles selon le contexte d’accès. La réutilisation doit respecter les conditions d’utilisation de LinkedIn.",
+  "recommendedStrategy": "Privilégier une exploration prudente de la page publique, respectant robots.txt et les limitations de LinkedIn. Extraire uniquement les contenus publiquement visibles, normaliser les dates lorsque possible, détecter les entreprises et signaux économiques cités dans les posts, puis recouper les informations importantes avec des sources officielles ou ouvertes avant intégration comme faits qualifiés."
+}

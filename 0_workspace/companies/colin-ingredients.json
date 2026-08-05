@@ -1,0 +1,30 @@
+{
+  "name": "COLIN INGREDIENTS",
+  "commercialName": "COLIN INGREDIENTS",
+  "siren": "",
+  "website": "https://www.colin-ingredients.com/",
+  "shortDescription": "Entreprise fournissant des ingrédients pour l’agroalimentaire.",
+  "detailedDescription": "Colin Ingrédients présente une activité centrée sur les ingrédients et solutions alimentaires. L’entreprise indique accompagner ses clients depuis six décennies avec des solutions sur mesure, des ingrédients performants et une expertise terrain reconnue. Elle met en avant des nouveautés liées à des tendances de consommation comme le piquant, le fumé et les saveurs asiatiques.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "other",
+    "research-development",
+    "studies-consulting"
+  ],
+  "valueProposition": "Fourniture d'ingrédients pour l'industrie agroalimentaire.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

@@ -7,7 +7,7 @@
     "type": "text",
     "required": true,
     "computed": true,
-    "formula": "source + '-' + accessMethods",
+    "formula": "source + '-' + primaryAccessMethod",
     "description": "Unique identifier of the connector.",
     "example": "sirene-api",
     "ai": {
@@ -44,7 +44,7 @@
     "type": "text",
     "required": true,
     "computed": true,
-    "formula": "Source.label + ' ' + AccessMethod.label",
+    "formula": "Source.label + ' ' + primaryAccessMethod.label",
     "ai": {
       "index": true,
       "search": true,
@@ -85,11 +85,11 @@
   },
 
   {
-    "id": "accessMethods",
-    "label": "Access methods",
+    "id": "primaryAccessMethod",
+    "label": "Primary access methods",
     "section": "connection",
     "order": 10,
-    "type": "multi-select",
+    "type": "single-select",
     "required": true,
     "valueSource": {
       "type": "vocabulary",
@@ -103,7 +103,7 @@
     }
   },
   {
-    "id": "Url",
+    "id": "url",
     "label": "URL",
     "section": "connection",
     "order": 11,

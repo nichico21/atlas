@@ -1,0 +1,26 @@
+{
+  "name": "EXACOMPTA CLAIREFONTAINE",
+  "commercialName": "EXACOMPTA CLAIREFONTAINE",
+  "siren": "",
+  "shortDescription": "Entreprise d’Étival-Clairefontaine active dans les papiers et articles de papeterie.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "materials",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de papiers et articles de papeterie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

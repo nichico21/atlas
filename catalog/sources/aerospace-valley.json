@@ -1,0 +1,60 @@
+{
+  "id": "aerospace-valley",
+  "name": "Aerospace Valley",
+  "acronym": null,
+  "description": "Aerospace Valley est un pôle de compétitivité dédié aux filières aéronautique, spatial et drones. La source présente le pôle, son parcours d’accompagnement à l’innovation, la recherche de financements publics et privés, la labellisation de projets, l’accompagnement entrepreneurial, le développement européen et international, ainsi que le réseau de ses membres composé de grands groupes, PME, start-ups, laboratoires de recherche, acteurs publics, académiques et centres de formation.",
+  "whyStrategic": "Cette source est stratégique pour Atlas car elle donne accès à un écosystème structuré de la filière aérospatiale française, incluant des entreprises, laboratoires, acteurs publics et projets d’innovation. Elle permet d’identifier des membres qualifiés, des dynamiques d’innovation, des dispositifs de labellisation et des signaux de développement dans un secteur industriel fortement exportateur.",
+  "questionsAnswered": "Quels acteurs appartiennent au réseau Aerospace Valley ? Quels types d’organisations composent l’écosystème aéronautique, spatial et drones du pôle ? Quels dispositifs d’accompagnement à l’innovation, de labellisation, de financement et de développement international sont proposés ? Quels projets, événements ou actualités peuvent signaler une dynamique d’innovation ou de croissance dans la filière ?",
+  "owner": "Aerospace Valley",
+  "url": "https://www.aerospace-valley.com",
+  "comments": "La page fournie mentionne explicitement le parcours d’innovation, la labellisation de projets, la recherche de financements publics et privés, l’accompagnement entrepreneurial, les projets européens et le réseau des membres du pôle. Le nombre exact de membres n’est pas indiqué dans l’extrait fourni et n’est donc pas renseigné.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "relationship-mapping",
+    "recognition",
+    "international-development"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "members",
+    "business-sectors",
+    "projects",
+    "funding",
+    "innovation",
+    "labels",
+    "events",
+    "news"
+  ],
+  "sourceType": "competitiveness-cluster",
+  "geographicScope": "regional",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "aerospace",
+    "space",
+    "defense-and-security"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "high",
+  "integrationPriority": "very-high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 69
+}

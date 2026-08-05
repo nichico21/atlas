@@ -1,0 +1,28 @@
+{
+  "name": "Victor Heinrich Molsheim SA",
+  "commercialName": "VHm groupe",
+  "siren": "",
+  "shortDescription": "VHm groupe (Victor Heinrich Molsheim SA) est une entreprise française basée à Molsheim, active dans le transport de l’eau, l’aménagement urbain et la fonderie industrielle.",
+  "detailedDescription": "La fiche annuaire indique que VHm groupe (Victor Heinrich Molsheim SA) intervient dans les secteurs du transport de l’eau, de l’aménagement urbain et de la fonderie industrielle. Elle mentionne un effectif de 250 personnes et un chiffre d’affaires de 55, sans préciser l’unité.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "water",
+    "building-and-public-works",
+    "metallurgy"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Un acteur industriel combinant fonderie, solutions pour le transport de l’eau et aménagement urbain.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/vhm-groupe-victor-heinrich-molsheim-sa/"
+}

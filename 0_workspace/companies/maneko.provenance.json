@@ -1,0 +1,135 @@
+{
+  "companyId": "maneko",
+  "fields": {
+    "name": [
+      {
+        "value": "Maneko",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "MANEKO",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 2020,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Maneko est une entreprise française centrée sur le remanufacturing et la rénovation de matériels de voirie, intervenant selon les catégories de matériels en sous-traitance pour Noremat ou directement auprès des utilisateurs.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Créée en 2020 et installée sur un site industriel en reconversion, Maneko centre son activité sur le remanufacturing et la rénovation de matériels de voirie. Selon les catégories de matériels, les opérations sont menées soit en sous-traitance pour Noremat, soit en direct auprès des utilisateurs.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "industrial-machinery",
+          "environment",
+          "circular-economy",
+          "industrial-services"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "services-maintenance",
+          "equipment-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Maneko prolonge la durée de vie des matériels de voirie par des activités de remanufacturing et de rénovation.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ]
+  }
+}

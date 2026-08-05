@@ -1,0 +1,137 @@
+{
+  "siren": "heintz-immobilier-hotellerie",
+  "fields": {
+    "name": [
+      {
+        "value": "Heintz immobilier & hôtellerie",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "Groupe Heintz",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 2010,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Heintz immobilier & hôtellerie est une branche du groupe Heintz spécialisée dans l’immobilier d’entreprise, la promotion immobilière et l’hôtellerie, avec une activité centrée sur le montage d’opérations investisseurs/locataires, la gestion d’actifs et le développement/gestion d’hôtels dans le Grand Est.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Implanté depuis plus de 60 ans dans le Grand Est comme leader du transport de marchandises et de la logistique, le groupe Heintz a créé Heintz immobilier & hôtellerie en 2010. La société associe expertise immobilière et hôtelière pour développer des projets sur mesure, en privilégiant la durabilité et la qualité. Elle est spécialisée dans le montage d’opérations investisseurs/locataires et la gestion d’actifs en immobilier d’entreprise. Depuis 2013, elle développe et gère également des hôtels. Elle gère environ 20 000 m² en immobilier d’entreprise et 11 hôtels sous franchises Accor, Louvres et B&B, majoritairement situés en Moselle et dans le Grand Est. En 2023, son architecture de marque s’organise autour de trois branches : Heintz foncière immobilière, Heintz promotion immobilière et Heintz hôtellerie. L’entreprise indique un engagement RSE, notamment via l’utilisation de matériaux durables, les filières locales et la participation à des projets sociaux et environnementaux.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "building-and-public-works",
+          "industrial-services"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "project-management",
+          "studies-consulting",
+          "logistics-supply-chain"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "labels": [
+      {
+        "value": [
+          "rse-esg"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Associer expertise immobilière et hôtelière pour développer et gérer des projets durables et sur mesure en immobilier d’entreprise et hôtellerie dans le Grand Est.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ]
+  }
+}

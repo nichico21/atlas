@@ -1,0 +1,24 @@
+{
+  "siren": "piscines-waterair",
+  "name": "PISCINES WATERAIR",
+  "shortDescription": "Entreprise de Seppois-le-Bas active dans la fabrication et la commercialisation de piscines et accessoires.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

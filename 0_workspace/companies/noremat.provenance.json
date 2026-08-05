@@ -1,0 +1,126 @@
+{
+  "companyId": "noremat",
+  "fields": {
+    "name": [
+      {
+        "value": "Noremat",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 1981,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Noremat est décrite comme l’entreprise à l’origine du groupe Actibac, spécialisée initialement dans les pièces de rechange et le service après-vente pour l’entretien des accotements routiers, puis dans la conception de pièces, matériels de fauchage et véhicules dédiés à l’entretien de l’environnement routier.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Créée en 1981, Noremat a d’abord fourni des pièces de rechange et du service après-vente aux acteurs de l’entretien des accotements routiers. L’entreprise a ensuite progressivement conçu ses propres pièces de rechange, des matériels de fauchage à partir de 1989, puis un véhicule pensé et conçu pour l’entretien de l’environnement routier, capable de collecter l’herbe des accotements en vue de sa valorisation.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "industrial-machinery",
+          "environment",
+          "industrial-services"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "equipment-manufacturing",
+          "services-maintenance",
+          "engineering"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Noremat développe des pièces, services, matériels de fauchage et véhicules spécialisés pour l’entretien et la valorisation de l’environnement routier.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ]
+  }
+}

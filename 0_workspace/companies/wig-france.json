@@ -1,0 +1,27 @@
+{
+  "name": "WIG FRANCE",
+  "commercialName": "WIG FRANCE",
+  "siren": "",
+  "shortDescription": "Entreprise de Toul active dans la dépollution et la construction.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "environment",
+    "construction"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "project-management"
+  ],
+  "valueProposition": "Services de dépollution et de construction.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "global-industrie-website",
+  "label": "Global Industrie Site web",
+  "source": "global-industrie",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.global-industrie.com/fr",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-directory",
+    "browse-news",
+    "browse-events",
+    "company-details",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "monitor-updates",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer les pages publiques du site Global Industrie : présentation du salon, actualités, thématiques, programme, pages exposants si elles sont accessibles publiquement, et contenus événementiels.",
+  "knownLimitations": "Les fonctionnalités de mise en relation avec exposants et visiteurs peuvent dépendre d’une application ou d’un espace authentifié. Les coordonnées détaillées, contacts individuels et données de networking ne doivent pas être considérés comme accessibles tant qu’un accès public ou contractuel n’est pas vérifié.",
+  "recommendedStrategy": "Commencer par le sitemap et les rubriques publiques du site. Prioriser l’extraction des pages exposants, actualités, programme, conférences et thématiques. Normaliser les entités exposantes avec les référentiels d’entreprises existants, puis planifier une synchronisation plus fréquente à l’approche et pendant la période du salon."
+}

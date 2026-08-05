@@ -49,6 +49,38 @@ export function validateCatalog(
 
   }
 
+for (const [connectorId, connector] of Object.entries(catalog.connectors)) {
+
+  mergeValidationResults(
+
+    result,
+
+    validateStructure(
+      connector,
+      "connector",
+      connectorId,
+      catalog.connectorFields
+    ),
+
+    validateReferences(
+      connector,
+      "connector",
+      connectorId,
+      catalog.connectorFields,
+      catalog
+    ),
+
+    validateBusiness(
+      connector,
+      "connector",
+      connectorId,
+      catalog
+    )
+
+  );
+
+}
+
   mergeValidationResults(
 
     result,

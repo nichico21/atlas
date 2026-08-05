@@ -1,0 +1,33 @@
+{
+  "siren": "guillet-s-a",
+  "name": "Guillet S.A",
+  "website": "https://www.guillet.tm.fr/",
+  "shortDescription": "Industrie artisanale spécialisée dans la sous-traitance industrielle, transformant l’inox, l’acier et l’aluminium pour réaliser des pièces et équipements sur mesure.",
+  "detailedDescription": "Guillet S.A est une entreprise industrielle familiale spécialisée dans la sous-traitance industrielle. Elle transforme l’inox, l’acier et l’aluminium pour produire des pièces et équipements sur mesure, notamment pour les domaines agroalimentaire, ferroviaire, pharmaceutique, assainissement, événementiel et architecture. L’entreprise met en avant la formation des jeunes, le travail manuel, le Made in France, un ancrage local depuis 1970 et la création de deux marques, MovingStage et TractoVigne, avec une ambition internationale et une fabrication locale.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industry",
+    "mechanics",
+    "metallurgy",
+    "rail",
+    "pharmaceuticals",
+    "agriculture-and-food",
+    "water"
+  ],
+  "offerType": [
+    "service",
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Réaliser localement des pièces et équipements industriels sur mesure en inox, acier et aluminium, avec un savoir-faire familial et Made in France.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/groupe-guillet/"
+}

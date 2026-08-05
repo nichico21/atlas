@@ -1,0 +1,24 @@
+{
+  "name": "Visconti",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith mentionnée comme intervenant dans les travaux publics.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "building-and-public-works",
+    "construction"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "other"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

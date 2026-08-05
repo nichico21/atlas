@@ -1,0 +1,45 @@
+{
+  "name": "KARDHAM",
+  "commercialName": "KARDHAM",
+  "siren": "",
+  "foundingYear": 1992,
+  "website": "https://www.kardham.com/",
+  "shortDescription": "Entreprise de Strasbourg intervenant en architecture, architecture d’intérieur, ingénierie et conseil en immobilier.",
+  "detailedDescription": "Fondé en 1992, Kardham accompagne en France, en Europe et en Afrique les utilisateurs et grands professionnels de l’immobilier, de la genèse stratégique des projets jusqu’à leur livraison complète. Le groupe réunit plus de 600 talents — consultants, architectes, ingénieurs, designers, sociologues — et revendique des expertises en conduite de projets, accompagnement transversal, qualité, recherche et développement.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction",
+    "smart-buildings",
+    "digital"
+  ],
+  "offerType": [
+    "engineering-studies",
+    "service"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "studies-consulting",
+    "project-management",
+    "research-development"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe",
+    "africa"
+  ],
+  "certifications": [
+    "iso-9001"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Architecture, ingénierie et conseil immobilier.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/kardham/"
+}

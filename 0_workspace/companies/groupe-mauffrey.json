@@ -1,0 +1,32 @@
+{
+  "name": "Groupe Mauffrey",
+  "siren": "",
+  "foundingYear": 1964,
+  "shortDescription": "Groupe Mauffrey est une entreprise familiale française de transport de marchandises et de logistique, proposant des prestations routières, fluviales et ferroviaires en France et en Europe.",
+  "detailedDescription": "Créé en 1964, le Groupe Mauffrey se présente comme l’un des leaders des transporteurs routiers français de marchandises. L’entreprise apporte des solutions de transport et de logistique avec des prestations routières, fluviales ou ferroviaires. Elle dispose d’un réseau de plus de 50 filiales/sites, emploie plus de 5 000 collaborateurs, est implantée dans 5 pays et indique réaliser plus de 600 M€ de chiffre d’affaires.",
+  "headcountRange": "5000-plus",
+  "primarySectors": [
+    "mobility",
+    "rail",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe"
+  ],
+  "valueProposition": "Accompagner la croissance des clients avec des solutions de transport et de logistique adaptées, routières, fluviales et ferroviaires, en France et en Europe.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/mauffrey/"
+}

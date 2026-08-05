@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Nature de l'offre proposée par l'entreprise.",
+  "values": [
+    { "id": "product-equipment", "label": "Produit / Équipement" },
+    { "id": "service", "label": "Service" },
+    { "id": "software-digital-solution", "label": "Logiciel / Solution numérique" },
+    { "id": "engineering-studies", "label": "Ingénierie / Études" },
+    { "id": "systems-integration", "label": "Intégration de systèmes" },
+    { "id": "training", "label": "Formation" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

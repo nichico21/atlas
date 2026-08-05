@@ -1,0 +1,31 @@
+{
+  "id": "france-industrie-website",
+  "label": "France Industrie Site web",
+  "source": "france-industrie",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.franceindustrie.org/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-events",
+    "browse-publications",
+    "metadata-extraction",
+    "content-extraction",
+    "monitor-updates",
+    "entity-discovery",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à explorer le site institutionnel, les pages d’actualités, l’agenda, les contenus médias et les publications accessibles publiquement.",
+  "knownLimitations": "Absence d’API publique identifiée. Les données sont principalement éditoriales et institutionnelles ; elles ne constituent pas un référentiel exhaustif d’entreprises. La structure des pages peut nécessiter une maintenance si le site évolue.",
+  "recommendedStrategy": "Utiliser le sitemap lorsqu’il est disponible, puis explorer prioritairement les rubriques Actualités, Agenda, Dans les médias et Publications/Rapports. Extraire les métadonnées standard des contenus éditoriaux : titre, date, catégorie, résumé, URL, type de contenu et texte principal."
+}

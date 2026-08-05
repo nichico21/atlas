@@ -1,0 +1,30 @@
+{
+  "id": "polyvia-website",
+  "label": "Polyvia Site web",
+  "source": "polyvia",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.polyvia.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-events",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer les pages publiques du site Polyvia, notamment les actualités, les événements et les pages institutionnelles relatives à la filière plasturgie et composites.",
+  "knownLimitations": "Certaines rubriques semblent réservées aux utilisateurs disposant de droits suffisants. Le connecteur public ne devra pas tenter d’accéder aux contenus authentifiés sans autorisation. Aucune API ou export structuré n’est identifié à partir des informations disponibles.",
+  "recommendedStrategy": "Utiliser l’exploration du site public avec respect du robots.txt et du sitemap si disponible. Prioriser les sections actualités, événements et pages de présentation sectorielle. Extraire les métadonnées visibles : titre, catégorie, date, type de contenu, lieu d’événement lorsqu’il est présent, URL canonique et résumé textuel."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "polyvia",
+  "name": "Polyvia",
+  "acronym": null,
+  "description": "Polyvia est le syndicat national des industriels de la plasturgie et des composites. Le site présente l’organisation, la filière française de la plasturgie et des composites, ainsi que des contenus publics de type actualités sectorielles et événements.",
+  "whyStrategic": "Polyvia constitue une source sectorielle de référence pour suivre l’industrie française de la plasturgie et des composites : prises de position professionnelles, enjeux réglementaires, recyclabilité, emballages, performance durable et événements de filière. Pour Atlas, elle apporte une vision qualifiée d’un secteur industriel important, principalement composé de PME, mais ne semble pas constituer un référentiel public exhaustif d’entreprises.",
+  "questionsAnswered": "Quels sont les grands sujets suivis par la filière française de la plasturgie et des composites ? Quelles actualités sectorielles, réglementaires ou institutionnelles concernent cette industrie ? Quels événements Polyvia organise ou relaie ? Quelle est la structuration générale de la représentation professionnelle du secteur ?",
+  "owner": "Polyvia",
+  "url": "https://www.polyvia.fr/",
+  "comments": "Le contenu fourni indique que certaines rubriques nécessitent des droits d’accès, ce qui limite l’exploitation automatique des contenus réservés aux adhérents.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "monitoring",
+    "discovery",
+    "data-enrichment"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "business-sectors",
+    "news",
+    "events"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "industry",
+    "materials",
+    "chemicals-and-materials",
+    "circular-economy"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping",
+    "authentication"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": "2026-06-29",
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 10,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 64
+}

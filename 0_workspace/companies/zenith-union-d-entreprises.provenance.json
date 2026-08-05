@@ -1,0 +1,114 @@
+{
+  "companyId": "zenith-union-d-entreprises",
+  "fields": {
+    "name": [
+      {
+        "value": "Zénith Union d’entreprises",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "Zénith",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Zénith est une union de petites et moyennes entreprises indépendantes, composée d’entrepreneurs autonomes intervenant notamment dans les travaux publics, le gros œuvre, la déconstruction, le désamiantage, la dépollution des sols et le chauffage.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Zénith se présente comme une union de PME indépendantes réunissant 10 entreprises autour de métiers liés aux travaux publics, au gros œuvre, à la déconstruction, au désamiantage, à la dépollution des sols et au chauffage. Le groupe met en avant une stratégie de long terme fondée sur le capital humain, l’autonomie entrepreneuriale, l’unité entre dirigeants et actionnaires, le respect de l’environnement via le recyclage et la réutilisation des matériaux, ainsi que l’innovation.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "1-9",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "building-and-public-works",
+          "environment",
+          "circular-economy"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "L’entreprise qui vous permet d’entreprendre.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ]
+  }
+}

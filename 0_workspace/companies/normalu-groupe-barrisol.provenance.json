@@ -1,0 +1,177 @@
+{
+  "siren": "normalu-groupe-barrisol",
+  "fields": {
+    "name": [
+      {
+        "value": "NORMALU SAS GROUPE BARRISOL",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "NORMALU SAS GROUPE BARRISOL",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Entreprise de Kembs spécialisée dans les travaux et revêtements des murs et plafonds.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Kembs dans le Haut-Rhin, active dans les travaux et revêtements des murs et plafonds.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "building-and-public-works"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "construction",
+          "materials"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "equipment-manufacturing",
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "NORMALU SAS GROUPE BARRISOL",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Solutions et travaux de revêtement pour murs et plafonds.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ]
+  }
+}

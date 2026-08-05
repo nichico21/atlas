@@ -1,0 +1,37 @@
+{
+  "name": "ACTIBAC",
+  "commercialName": "ACTIBAC",
+  "siren": "",
+  "website": "https://www.actibac.fr/",
+  "shortDescription": "Entreprise de Maizières construisant des solutions pour l’entretien des accotements routiers.",
+  "detailedDescription": "Actibac est présenté comme un groupe familial français dirigé par Christophe Bachmann. Le groupe s’adresse aux acteurs de l’entretien de l’environnement routier et des paysages, dont les missions portent sur la sécurité des routes, l’aménagement et la valorisation du territoire. Son origine remonte à la création de Noremat en 1981, d’abord spécialisée dans la fourniture de pièces de rechange et le service après-vente pour l’entretien des accotements routiers, puis dans la conception de pièces, de matériels de fauchage et d’un véhicule conçu pour l’entretien de l’environnement routier. Le contenu mentionne également Maneko, créée en 2020, centrée sur le remanufacturing et la rénovation de matériels de voirie.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "industrial-machinery",
+    "building-and-public-works",
+    "environment",
+    "industrial-services"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "services-maintenance",
+    "engineering",
+    "research-development"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 12,
+  "valueProposition": "Actibac apporte aux acteurs de l’entretien routier et des paysages des solutions innovantes pour sécuriser, aménager et valoriser les territoires en France et à l’international.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/actibac/"
+}

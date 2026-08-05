@@ -1,0 +1,275 @@
+{
+  "siren": "acea",
+  "fields": {
+    "name": [
+      {
+        "value": "ACEA",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "ACEA",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "ACEA",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Entreprise de Gundershoffen spécialisée dans la fabrication de cartes électroniques et l’assemblage de produits finis.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Gundershoffen dans le Bas-Rhin, active dans la fabrication de cartes électroniques et l'assemblage de produits finis.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "ACEA est une entreprise basée à Gundershoffen, spécialisée dans la fabrication de cartes électroniques et l’assemblage de produits finis.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "electronics"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "electronics",
+          "industry"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "electronics",
+          "industry"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "equipment-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "equipment-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "equipment-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "ACEA",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Fabrication électronique et assemblage de produits finis.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "Fabrication et assemblage de cartes électroniques et produits finis pour des applications industrielles.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "website": [
+      {
+        "value": "https://www.acea-ems.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "La fiche annuaire du Club ETI Grand Est présente ACEA comme une entreprise du secteur de la fabrication de cartes électroniques et de l’assemblage de produits finis. Elle indique 70 salariés et un chiffre d’affaires de 19, sans unité précisée dans le contenu fourni.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "GROUPE TILLY",
+  "commercialName": "GROUPE TILLY",
+  "siren": "",
+  "website": "https://www.groupetilly.com/",
+  "shortDescription": "Entreprise de Woippy spécialisée dans la distribution d’engins et d’équipements de levage et de manutention.",
+  "detailedDescription": "Présenté comme un leader trans-régional, le Groupe TILLY intervient dans la définition technique, la mise en route et la maintenance de matériels destinés aux professionnels du BTP, de l’agriculture, de l’industrie, du recyclage et de l’élévation de personnes. L’entreprise s’appuie sur environ 150 collaborateurs et un maillage de 11 agences dans le Grand Est de la France et au Grand-Duché de Luxembourg.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industrial-machinery",
+    "industrial-services",
+    "building-and-public-works",
+    "agriculture-and-food",
+    "industry",
+    "circular-economy"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain",
+    "services-maintenance",
+    "engineering",
+    "installation-commissioning"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe"
+  ],
+  "exportRevenueShare": 3.47,
+  "valueProposition": "Distribution d'équipements de levage et de manutention.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/groupe-tilly/"
+}

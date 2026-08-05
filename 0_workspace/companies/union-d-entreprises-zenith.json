@@ -1,0 +1,37 @@
+{
+  "name": "Union d'entreprises Zénith",
+  "commercialName": "Zénith",
+  "siren": "",
+  "website": "https://ue-zenith.eu/",
+  "shortDescription": "Union régionale de petites et moyennes entreprises indépendantes actives dans les travaux publics, le gros œuvre, la déconstruction, le désamiantage, la dépollution des sols, le chauffage et l’informatique.",
+  "detailedDescription": "Zénith regroupe des entrepreneurs autonomes à la tête de sociétés intervenant notamment dans les travaux publics, le gros œuvre industriel, le génie civil, la déconstruction, le désamiantage, le déplombage, la dépollution des sols, les installations de chauffage et l’informatique. L’ensemble compose un réseau régional de PME capable d’associer ses compétences sur le Grand Est et les régions limitrophes. L’union affiche un effectif cumulé proche de 500 salariés et a fêté ses 20 ans en septembre 2024.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "building-and-public-works",
+    "construction",
+    "environment",
+    "industrial-services",
+    "digital"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "engineering",
+    "studies-consulting",
+    "installation-commissioning",
+    "services-maintenance",
+    "software-digital-solutions"
+  ],
+  "valueProposition": "Fédérer des PME indépendantes pour mutualiser leurs compétences et répondre collectivement à des besoins régionaux dans le BTP, l’environnement, le chauffage et l’informatique.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "NORMALU SAS GROUPE BARRISOL",
+  "commercialName": "NORMALU SAS GROUPE BARRISOL",
+  "siren": "",
+  "shortDescription": "Entreprise de Kembs spécialisée dans les travaux et revêtements des murs et plafonds.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works",
+    "materials"
+  ],
+  "offerType": [
+    "service",
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Solutions et travaux de revêtement pour murs et plafonds.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

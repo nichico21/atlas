@@ -1,0 +1,60 @@
+{
+  "id": "proxinnov",
+  "name": "Proxinnov",
+  "acronym": null,
+  "description": "Proxinnov est un Centre de Ressources Technologiques spécialisé en robotique industrielle. La structure anime la filière de la robotique industrielle et accompagne les industriels manufacturiers dans leurs enjeux liés à l’industrie 4.0, notamment par l’acculturation, les études robotiques, les expérimentations, le prototypage et l’aide à la formalisation de cahiers des charges.",
+  "whyStrategic": "La source est stratégique pour Atlas car elle donne accès à un réseau spécialisé de la robotique industrielle et de l’industrie 4.0, avec plus de 200 adhérents mentionnés et plus de 200 projets réalisés auprès d’industriels. Elle permet d’identifier un écosystème qualifié autour de la robotisation industrielle, des industriels manufacturiers, des offreurs de solutions, des événements et des expertises associées.",
+  "questionsAnswered": "Quels acteurs structurent l’écosystème français de la robotique industrielle ? Quels types d’accompagnement sont proposés aux industriels manufacturiers pour leurs projets de robotisation ? Quels signaux d’activité existent autour de l’industrie 4.0, des événements, webinaires, clubs thématiques, expérimentations et projets robotiques ?",
+  "owner": "Proxinnov",
+  "url": "https://www.proxinnov.com/",
+  "comments": "Analyse fondée sur le contenu fourni : Proxinnov se présente comme un centre de ressources technologiques en robotique industrielle, avec un réseau de plus de 200 adhérents et un accompagnement de projets industriels. La présence effective d’un annuaire public structuré des adhérents doit être vérifiée lors de l’exploration technique.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "monitoring",
+    "relationship-mapping"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "members",
+    "projects",
+    "technologies",
+    "expertise",
+    "services",
+    "events",
+    "webinars",
+    "news",
+    "working-groups"
+  ],
+  "sourceType": "institutional-website",
+  "geographicScope": "national",
+  "status": "under-review",
+  "primarySectors": [
+    "industry",
+    "robotics",
+    "industrial-automation",
+    "industrial-machinery"
+  ],
+  "estimatedCompanies": 200,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 6,
+    "exploitability": 10
+  },
+  "fsipScore": 63
+}

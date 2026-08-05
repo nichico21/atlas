@@ -1,0 +1,26 @@
+{
+  "name": "GROUPE PIERRE SCHMIDT STOFFLER",
+  "commercialName": "GROUPE PIERRE SCHMIDT STOFFLER",
+  "siren": "",
+  "shortDescription": "Entreprise de Weyersheim active dans la charcuterie et le traiteur.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Production agroalimentaire en charcuterie et traiteur.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

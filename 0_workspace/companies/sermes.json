@@ -1,0 +1,28 @@
+{
+  "name": "SERMES",
+  "commercialName": "SERMES",
+  "siren": "",
+  "shortDescription": "Entreprise de Dachstein présentée comme multi-spécialiste et concepteur de solutions électriques.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "energy",
+    "electronics"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Conception de solutions électriques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

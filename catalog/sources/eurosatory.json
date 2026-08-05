@@ -1,0 +1,73 @@
+{
+  "id": "eurosatory",
+  "name": "Eurosatory",
+  "acronym": null,
+  "description": "Eurosatory est un salon professionnel international consacré à la défense et à la sécurité. Le site officiel présente l’événement, ses thématiques, ses conférences, ses actualités, ses intervenants, les délégations et les informations destinées aux exposants et visiteurs professionnels.",
+  "whyStrategic": "Cette source est stratégique pour Atlas car elle donne accès à un point de rassemblement mondial des acteurs de la défense et de la sécurité : industriels, start-ups, experts, institutions, délégations officielles et décideurs publics. Elle permet d’identifier des signaux de visibilité internationale, des tendances technologiques et opérationnelles, ainsi que des acteurs positionnés sur des enjeux tels que la cybersécurité, l’espace, l’IA, la manœuvre terrestre, l’aéromobilité, la sécurité globale et la résilience industrielle.",
+  "questionsAnswered": "Quels acteurs participent à un salon international majeur de la défense et de la sécurité ? Quelles thématiques structurent l’édition 2026 ? Quels intervenants institutionnels et experts sont annoncés ? Quels événements, conférences et actualités sont associés au salon ? Quels signaux de visibilité internationale peuvent être détectés dans l’écosystème défense-sécurité ?",
+  "owner": "COGES EVENTS",
+  "url": "https://www.eurosatory.com/",
+  "comments": "La page analysée concerne l’édition 2026 et met en avant les raisons de participer, les thématiques du salon, des conférenciers annoncés et des chiffres de l’édition. Certains compteurs numériques visibles dans l’extrait fourni apparaissent à 0, probablement en raison d’un rendu dynamique non capturé ; ils ne sont donc pas utilisés comme données vérifiées.",
+  "sourceCategory": "visibility",
+  "role": [
+    "discovery",
+    "monitoring",
+    "recognition",
+    "relationship-mapping",
+    "international-development"
+  ],
+  "mainObject": "exhibitor",
+  "dataTypes": [
+    "companies",
+    "contact-details",
+    "business-sectors",
+    "products",
+    "services",
+    "technologies",
+    "expertise",
+    "export-countries",
+    "partners",
+    "exhibitors",
+    "events",
+    "trade-shows",
+    "conferences",
+    "news",
+    "press-releases",
+    "innovation"
+  ],
+  "sourceType": "trade-show",
+  "geographicScope": "international",
+  "status": "under-review",
+  "primarySectors": [
+    "defense-and-security",
+    "aerospace",
+    "space",
+    "cybersecurity",
+    "digital",
+    "electronics",
+    "robotics",
+    "industrial-automation",
+    "industrial-services"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 25,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 74
+}

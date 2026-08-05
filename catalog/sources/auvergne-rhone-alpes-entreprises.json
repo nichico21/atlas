@@ -1,0 +1,61 @@
+{
+  "id": "auvergne-rhone-alpes-entreprises",
+  "name": "Auvergne-Rhône-Alpes Entreprises",
+  "acronym": null,
+  "description": "Agence économique régionale au service de l’industrie en Auvergne-Rhône-Alpes. La source présente les dispositifs d’accompagnement gratuits et personnalisés proposés aux entreprises industrielles et de services à l’industrie implantées dans la région : innovation, développement, relocalisation, financements européens, ressources humaines, export et international. Le site met également en avant les antennes territoriales, les événements, les actualités et les services de l’agence.",
+  "whyStrategic": "Cette source est stratégique pour Atlas car elle représente un point d’entrée territorial officiel vers l’écosystème industriel d’Auvergne-Rhône-Alpes, l’une des principales régions industrielles françaises. Elle permet d’identifier les dispositifs régionaux d’accompagnement, les événements business, les actions export/international et les signaux liés aux projets industriels accompagnés. Elle est particulièrement utile pour enrichir la connaissance des acteurs industriels régionaux et des réseaux publics d’appui au développement économique.",
+  "questionsAnswered": "Quels services d’accompagnement sont proposés aux entreprises industrielles en Auvergne-Rhône-Alpes ? Quels dispositifs concernent l’innovation, le développement, la relocalisation, les financements européens, les ressources humaines ou l’export ? Quels événements économiques régionaux sont organisés ? Quels contacts territoriaux ou antennes peuvent accompagner les entreprises ? Quels signaux publics indiquent l’activité de l’écosystème industriel régional ?",
+  "owner": "Auvergne-Rhône-Alpes Entreprises",
+  "url": "https://www.auvergnerhonealpes-entreprises.fr/",
+  "comments": "Analyse fondée sur le contenu fourni décrivant l’agence économique régionale au service de l’industrie, ses 11 antennes régionales, son accompagnement gratuit et personnalisé, ainsi que des indicateurs publics tels que 1 164 entreprises adhérentes, 121,6 M€ d’aides publiques obtenues et 350 événements.",
+  "sourceCategory": "territorial-network",
+  "role": [
+    "discovery",
+    "monitoring",
+    "data-enrichment",
+    "international-development"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "companies",
+    "members",
+    "contact-details",
+    "services",
+    "projects",
+    "funding",
+    "grants",
+    "events",
+    "news",
+    "territories",
+    "publications"
+  ],
+  "sourceType": "development-agency",
+  "geographicScope": "regional",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "industry",
+    "industrial-services",
+    "cross-sector"
+  ],
+  "estimatedCompanies": 1164,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 15,
+    "informationRichness": 15,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 69
+}

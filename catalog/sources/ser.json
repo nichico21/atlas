@@ -1,0 +1,60 @@
+{
+  "id": "ser",
+  "name": "Syndicat des énergies renouvelables",
+  "acronym": "SER",
+  "description": "Le Syndicat des énergies renouvelables est l’organisation professionnelle française représentant les acteurs des énergies renouvelables. Son site présente l’organisation, ses positions, ses événements et un annuaire de plus de 500 adhérents, incluant énergéticiens, acteurs locaux, PME et ETI du secteur.",
+  "whyStrategic": "Le SER constitue une source de référence pour identifier et suivre l’écosystème français des énergies renouvelables. Son annuaire d’adhérents permet de repérer des entreprises qualifiées par leur appartenance à la fédération sectorielle, tandis que les événements et contenus institutionnels donnent des signaux utiles sur les thématiques, priorités et dynamiques collectives de la filière.",
+  "questionsAnswered": "Quelles entreprises sont membres du SER ? Quels acteurs français structurent la filière des énergies renouvelables ? Quels événements professionnels rassemblent les acteurs du secteur ? Quelles thématiques et positions collectives sont portées par la profession ? Quels nouveaux adhérents rejoignent l’écosystème ?",
+  "owner": "Syndicat des énergies renouvelables",
+  "url": "https://www.syndicat-energies-renouvelables.fr/",
+  "comments": "La page mentionne un annuaire des adhérents comprenant plus de 500 membres, ainsi que des événements organisés par le SER. Les conditions précises de réutilisation des données de l’annuaire ne sont pas documentées ici.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "monitoring",
+    "relationship-mapping",
+    "recognition",
+    "international-development"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "contact-details",
+    "business-sectors",
+    "members",
+    "events",
+    "conferences",
+    "news",
+    "publications"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "energy",
+    "renewable-energy",
+    "hydrogen",
+    "energy-storage"
+  ],
+  "estimatedCompanies": 500,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "high",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 25,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 74
+}

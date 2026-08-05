@@ -1,0 +1,26 @@
+{
+  "name": "Pierre Schmidt",
+  "siren": "",
+  "foundingYear": 1911,
+  "shortDescription": "Pierre Schmidt est une entreprise alsacienne de gastronomie et de produits cuisinés, revendiquant un savoir-faire familial depuis 1911, une fabrication locale et un engagement pour une alimentation de qualité.",
+  "detailedDescription": "L’histoire de Pierre Schmidt commence en 1911 avec l’ouverture d’une petite boutique au cœur de Strasbourg. L’entreprise met en avant la gastronomie alsacienne, des produits cuisinés avec soin, une exigence transmise de génération en génération, des produits finement sélectionnés et une fabrication locale au service du dynamisme régional alsacien.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Faire rayonner la gastronomie alsacienne grâce à des produits cuisinés de qualité, issus d’un savoir-faire familial centenaire et d’une fabrication locale.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

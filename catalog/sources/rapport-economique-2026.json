@@ -1,0 +1,45 @@
+{
+  "id": "rapport-economique-2026",
+  "name": "Rapport économique 2026",
+  "acronym": null,
+  "description": "Source non cartographiable à ce stade : l’entrée fournie ne contient pas d’URL officielle permettant de vérifier l’organisme propriétaire, la nature exacte de la source, son contenu, ses modalités d’accès ou ses conditions de réutilisation.",
+  "whyStrategic": "Impossible à évaluer sans URL officielle ni élément vérifiable sur le contenu du rapport, son éditeur et son périmètre.",
+  "questionsAnswered": "Non déterminé. Une URL officielle est nécessaire pour identifier les questions couvertes par cette source.",
+  "owner": "Non déterminé",
+  "url": null,
+  "comments": "Mission Atlas Source Cartographer incomplète : l’entrée attendue est une URL. Merci de fournir l’URL de la page officielle du Rapport économique 2026 afin de produire une SourceDefinition et une ConnectorDefinition validables.",
+  "sourceCategory": "specialized-media",
+  "role": [
+    "monitoring"
+  ],
+  "mainObject": "news",
+  "dataTypes": [
+    "reports"
+  ],
+  "sourceType": "documentation",
+  "geographicScope": "national",
+  "status": "to-document",
+  "primarySectors": [
+    "cross-sector"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": null,
+  "accessMethod": [
+    "website"
+  ],
+  "collectionDifficulty": "very-high",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": false,
+  "developmentPriority": "low",
+  "integrationPriority": "very-low",
+  "evaluation": {
+    "strategicValue": 0,
+    "reliability": 0,
+    "informationRichness": 0,
+    "coverage": 0,
+    "exploitability": 0
+  },
+  "fsipScore": 0
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Labels ou agréments mentionnés pour l'entreprise.",
+  "values": [
+    { "id": "origine-france-garantie", "label": "Origine France Garantie" },
+    { "id": "ecovadis", "label": "Ecovadis" },
+    { "id": "french-fab", "label": "French Fab" },
+    { "id": "rse-esg", "label": "RSE / ESG" },
+    { "id": "innovative-company", "label": "Entreprise Innovante" },
+    { "id": "pea-pme-eti", "label": "PEA / PME / ETI" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

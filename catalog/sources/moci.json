@@ -1,0 +1,56 @@
+{
+  "id": "moci",
+  "name": "Le Moci – Moniteur du Commerce International",
+  "acronym": "MOCI",
+  "description": "Le Moci est un média français spécialisé dans le commerce international. Il publie des actualités en ligne, un magazine, des dossiers, analyses, guides pratiques, informations réglementaires, contenus sur les aides à l’export et sujets liés aux carrières internationales à destination des entrepreneurs, conseillers et professionnels de l’international.",
+  "whyStrategic": "La source est stratégique pour Atlas car elle fournit une veille éditoriale spécialisée sur l’export, les réglementations, les marchés internationaux, les dispositifs d’aide et les tendances du commerce international. Elle permet d’enrichir la compréhension du contexte export des entreprises françaises et de détecter des signaux économiques ou réglementaires utiles au développement international.",
+  "questionsAnswered": "Quelles sont les actualités importantes du commerce international ? Quelles réglementations, aides export, analyses de marché ou guides pratiques concernent les exportateurs français ? Quels signaux sectoriels, géographiques ou institutionnels peuvent influencer les stratégies internationales des entreprises ?",
+  "owner": "Le Moci",
+  "url": "https://www.lemoci.com/",
+  "comments": "Source éditoriale spécialisée. Les contenus relèvent principalement de la veille et de l’analyse ; ils ne constituent pas un référentiel structuré d’entreprises.",
+  "sourceCategory": "specialized-media",
+  "role": [
+    "monitoring",
+    "data-enrichment",
+    "economic-signals",
+    "international-development"
+  ],
+  "mainObject": "news",
+  "dataTypes": [
+    "news",
+    "publications",
+    "reports",
+    "studies",
+    "funding",
+    "recruitment",
+    "export-countries",
+    "business-sectors"
+  ],
+  "sourceType": "media",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "cross-sector"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "daily",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "proprietary",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 9,
+    "informationRichness": 15,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 63
+}

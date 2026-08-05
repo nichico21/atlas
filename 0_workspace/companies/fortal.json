@@ -1,0 +1,29 @@
+{
+  "name": "FORTAL",
+  "commercialName": "FORTAL",
+  "siren": "",
+  "shortDescription": "Entreprise de Barr spécialisée dans la conception et la fabrication de systèmes d’accès en hauteur sécurisés.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industrial-machinery",
+    "defense-and-security",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Systèmes sécurisés d'accès en hauteur conçus et fabriqués en Grand Est.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

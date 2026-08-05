@@ -1,0 +1,54 @@
+{
+  "id": "ser",
+  "name": "Syndicat des énergies renouvelables",
+  "acronym": "SER",
+  "description": "Le Syndicat des énergies renouvelables est une organisation professionnelle française représentant les acteurs des énergies renouvelables. La source met notamment à disposition un annuaire des adhérents, des informations sur les nouveaux adhérents et des événements organisés par le SER autour des filières renouvelables.",
+  "whyStrategic": "La source est stratégique pour Atlas car elle donne accès à un réseau sectoriel reconnu de plus de 500 adhérents actifs dans les énergies renouvelables, incluant des énergéticiens, des acteurs locaux, des PME et des ETI. Elle permet d’identifier des entreprises françaises ou implantées en France positionnées sur un secteur prioritaire pour l’industrie, la transition énergétique et le développement international.",
+  "questionsAnswered": "Quels sont les adhérents du SER ? Quelles entreprises et organisations appartiennent à l’écosystème français des énergies renouvelables ? Quels nouveaux acteurs rejoignent la fédération ? Quels événements sectoriels rassemblent les décideurs et professionnels des énergies renouvelables ?",
+  "owner": "Syndicat des énergies renouvelables",
+  "url": "https://www.syndicat-energies-renouvelables.fr/",
+  "comments": "La fiche est établie à partir des informations visibles dans l’extrait fourni : annuaire des adhérents, plus de 500 adhérents, nouveaux adhérents, événements du SER et accompagnement au déploiement international.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "relationship-mapping",
+    "international-development"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "members",
+    "contact-details",
+    "business-sectors",
+    "events",
+    "conferences",
+    "news"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "energy",
+    "renewable-energy"
+  ],
+  "estimatedCompanies": 500,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-03",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "strategicValue": 25,
+  "reliability": 12,
+  "informationRichness": 15,
+  "coverage": 9,
+  "exploitability": 10,
+  "sourceConnector": true,
+  "developmentPriority": "high",
+  "integrationPriority": "very-high",
+  "fsipScore": 71
+}

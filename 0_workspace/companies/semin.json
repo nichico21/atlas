@@ -1,0 +1,27 @@
+{
+  "name": "SEMIN",
+  "commercialName": "SEMIN",
+  "siren": "",
+  "shortDescription": "Entreprise de Kédange-sur-Canner fabriquant des enduits et colles pour le bâtiment.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "chemicals-and-materials",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication d'enduits et colles pour le bâtiment.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

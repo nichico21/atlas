@@ -1,0 +1,28 @@
+{
+  "name": "SOPREMA",
+  "commercialName": "SOPREMA",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg active dans l’étanchéité et l’isolation.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "installation-commissioning"
+  ],
+  "valueProposition": "Solutions d'étanchéité et d'isolation pour le bâtiment.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

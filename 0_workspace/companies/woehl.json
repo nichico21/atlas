@@ -1,0 +1,26 @@
+{
+  "name": "WOEHL",
+  "commercialName": "WOEHL",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg proposant des solutions de transport et de logistique.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "mobility",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "valueProposition": "Solutions de transport et logistique.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

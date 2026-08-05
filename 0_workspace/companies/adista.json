@@ -1,0 +1,29 @@
+{
+  "name": "ADISTA",
+  "commercialName": "ADISTA",
+  "siren": "",
+  "shortDescription": "Entreprise de Maxéville active dans l’informatique.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "digital",
+    "telecommunications",
+    "software"
+  ],
+  "offerType": [
+    "service",
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "software-digital-solutions",
+    "services-maintenance"
+  ],
+  "valueProposition": "Services et solutions informatiques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

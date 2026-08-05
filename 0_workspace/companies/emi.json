@@ -1,0 +1,36 @@
+{
+  "name": "EMI",
+  "commercialName": "EMI",
+  "siren": "",
+  "shortDescription": "Entreprise située à Saint-Louis Neuweg, active dans le moulage et l’injection.",
+  "detailedDescription": "EMI dispose d’un bureau d’études dédié à l’industrialisation et au co-développement de pièces, outillages et process. L’entreprise réalise la conception et l’industrialisation de pièces, ensembles et procédés avec Creo, la conception et mise en plan d’outillages, des études rhéologiques pour optimiser les procédés et la qualité des pièces, ainsi que des études mécaniques pour valider et optimiser les conceptions. Elle produit en grande série des connecteurs électriques, notamment des raccords connecteurs photovoltaïques, avec une technologie de moule cube permettant l’injection simultanée de 128 empreintes, et annonce une capacité de 2 à 3 millions de pièces par semaine. EMI présente également un process complet autour de pièces de structure légères et performantes en organosheet.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industry",
+    "materials",
+    "electronics",
+    "renewable-energy",
+    "automotive",
+    "mechanics"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "engineering",
+    "studies-consulting",
+    "research-development"
+  ],
+  "valueProposition": "EMI combine bureau d’études, industrialisation et production grande série pour fournir des solutions industrielles innovantes et made in France, notamment dans les connecteurs électriques et les pièces de structure allégées.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/emi/"
+}

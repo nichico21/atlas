@@ -1,0 +1,31 @@
+{
+  "id": "mecallians-website",
+  "label": "Mecallians Site web",
+  "source": "mecallians",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.mecallians.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "organization-details",
+    "browse-news",
+    "browse-publications",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer les pages institutionnelles de Mecallians et à extraire les informations décrivant l’écosystème, les organisations fondatrices, les publications et les actualités éventuellement disponibles.",
+  "knownLimitations": "Aucune API officielle ni export structuré n’a été identifié. La source ne semble pas être un annuaire d’entreprises ; l’extraction doit donc rester centrée sur les contenus institutionnels et les relations entre organisations.",
+  "recommendedStrategy": "Utiliser le sitemap lorsqu’il est disponible, limiter l’exploration aux pages publiques du domaine, extraire les entités organisationnelles citées et surveiller les sections d’actualités ou de publications si elles existent. Respecter robots.txt et éviter toute collecte de données personnelles non nécessaires."
+}

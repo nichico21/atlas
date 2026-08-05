@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "description": "Métiers ou capacités clés de l'entreprise.",
+  "values": [
+    { "id": "engineering", "label": "Ingénierie" },
+    { "id": "studies-consulting", "label": "Études & Conseil" },
+    { "id": "equipment-manufacturing", "label": "Fabrication d'équipements" },
+    { "id": "project-management", "label": "Gestion de projet" },
+    { "id": "systems-integration", "label": "Intégration de systèmes" },
+    { "id": "training", "label": "Formation" },
+    { "id": "software-digital-solutions", "label": "Logiciels & Solutions numériques" },
+    { "id": "research-development", "label": "Recherche & Développement" },
+    { "id": "services-maintenance", "label": "Services & Maintenance" },
+    { "id": "logistics-supply-chain", "label": "Logistique & Supply Chain" },
+    { "id": "installation-commissioning", "label": "Installation & Mise en service" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

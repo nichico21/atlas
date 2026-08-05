@@ -1,0 +1,32 @@
+{
+  "id": "ser-website",
+  "label": "Syndicat des énergies renouvelables Site web",
+  "source": "ser",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.syndicat-energies-renouvelables.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 4,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-03",
+  "capabilities": [
+    "browse-directory",
+    "search-company",
+    "company-details",
+    "browse-events",
+    "browse-news",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Le connecteur doit prioritairement explorer l’annuaire des adhérents, les pages de nouveaux adhérents et les pages événements du SER.",
+  "knownLimitations": "Aucune API ou export structuré n’a été identifié dans les informations fournies. La collecte dépendra donc de la structure HTML du site et de l’accessibilité de l’annuaire public.",
+  "recommendedStrategy": "Démarrer par le sitemap et les rubriques publiques liées à l’annuaire des adhérents, aux nouveaux adhérents et aux événements. Extraire les entités membres, leurs éventuelles coordonnées publiques et leurs secteurs d’activité, puis rapprocher les entreprises avec des référentiels d’identité comme SIRENE lorsque des identifiants ne sont pas publiés."
+}

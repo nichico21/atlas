@@ -1,0 +1,31 @@
+{
+  "id": "communaute-du-coq-vert-website",
+  "label": "Communauté du Coq Vert Site web",
+  "source": "coq-vert",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://lecoqvert.bpifrance.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-publications",
+    "company-details",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "monitor-updates",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer les pages publiques de la Communauté du Coq Vert : page d’accueil, manifeste, articles, éventuelles pages de communauté ou d’annuaire si elles sont accessibles publiquement. Les articles contiennent des métadonnées utiles telles que thématiques, date de publication, durée de lecture, auteur et entreprises citées.",
+  "knownLimitations": "Aucune API officielle n’a été identifiée. Les données semblent éditoriales et peuvent ne pas représenter l’ensemble des membres de la communauté. Les informations sur les entreprises doivent être recoupées avec des référentiels d’identité comme Sirene avant intégration comme données de référence.",
+  "recommendedStrategy": "Crawler le site public en respectant robots.txt et le sitemap. Prioriser l’extraction des articles et pages structurantes de la communauté, puis détecter les noms d’entreprises, secteurs, thématiques environnementales, dates et auteurs. Normaliser les entreprises détectées par rapprochement externe avec Sirene et qualifier les signaux comme données de reconnaissance ou de veille plutôt que comme référentiel exhaustif."
+}

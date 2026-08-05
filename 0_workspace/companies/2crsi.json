@@ -1,0 +1,26 @@
+{
+  "name": "2CRSI SA",
+  "commercialName": "2CRSI",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg spécialisée dans la fabrication de serveurs informatiques.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "electronics",
+    "digital"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de serveurs informatiques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

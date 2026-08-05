@@ -1,0 +1,26 @@
+{
+  "name": "DIVALTO",
+  "commercialName": "DIVALTO",
+  "siren": "",
+  "shortDescription": "Entreprise d’Entzheim éditrice de logiciels.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "software",
+    "digital"
+  ],
+  "offerType": [
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "software-digital-solutions"
+  ],
+  "valueProposition": "Édition de solutions logicielles.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/divalto/"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "R-GDS",
+  "commercialName": "R-GDS",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg Cedex active dans la distribution de gaz naturel.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "energy",
+    "oil-and-gas"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain",
+    "services-maintenance",
+    "installation-commissioning"
+  ],
+  "valueProposition": "Distribution de gaz naturel.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

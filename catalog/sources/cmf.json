@@ -1,0 +1,63 @@
+{
+  "id": "cmf",
+  "name": "Cluster Maritime Français",
+  "acronym": "CMF",
+  "description": "Le Cluster Maritime Français est un réseau créé en 2006 qui rassemble les acteurs français de l’écosystème maritime : entreprises de toutes tailles, pôles de compétitivité, fédérations, associations, laboratoires, centres de recherche, écoles, organismes de formation, collectivités, acteurs économiques locaux et Marine nationale. Le site présente le cluster, ses actions, son annuaire de membres, ses actualités et son agenda maritime.",
+  "whyStrategic": "Cette source est stratégique pour identifier et suivre les acteurs de l’économie maritime française. L’annuaire des membres constitue un point d’entrée sectoriel utile pour repérer des entreprises, organisations, réseaux, centres de recherche et acteurs territoriaux liés aux activités maritimes, avec un potentiel d’enrichissement sur les projets, événements, partenariats et dynamiques d’innovation du secteur.",
+  "questionsAnswered": "Quels sont les membres du Cluster Maritime Français ? Quels acteurs structurent l’écosystème maritime en France ? Quelles actualités, événements, initiatives collectives et partenariats animent la filière maritime française ? Quels types d’organisations participent au développement durable, responsable et international des activités maritimes françaises ?",
+  "owner": "Cluster Maritime Français",
+  "url": "https://www.cluster-maritime.fr/",
+  "comments": "L’extrait analysé mentionne près de 500 entités membres et l’existence d’un annuaire public permettant de découvrir les membres du CMF. La qualification fine des champs disponibles dans les fiches membres devra être confirmée lors de l’exploration technique du site.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "monitoring",
+    "relationship-mapping",
+    "international-development"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "members",
+    "business-sectors",
+    "contact-details",
+    "projects",
+    "partners",
+    "events",
+    "news",
+    "publications",
+    "reports"
+  ],
+  "sourceType": "cluster",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "naval",
+    "renewable-energy",
+    "water",
+    "defense-and-security",
+    "industry"
+  ],
+  "estimatedCompanies": 500,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": "2026-07-10",
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 66
+}

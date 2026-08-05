@@ -1,0 +1,35 @@
+{
+  "siren": "groupe-oci",
+  "name": "Groupe OCI",
+  "commercialName": "OCI",
+  "shortDescription": "OCI accompagne les PME-PMI comme prestataire informatique et fournisseur de solutions digitales, avec des services informatiques et digitaux innovants portés par des techniciens, ingénieurs et consultants certifiés.",
+  "detailedDescription": "Le contenu présente OCI comme un acteur du digital proposant aux PME-PMI des prestations informatiques et des solutions digitales. L’entreprise met en avant 40 années de solutions innovantes, des milliers de clients, des équipes et datacenters Made in France, un service client et des experts certifiés.",
+  "headcountRange": "10-49",
+  "primarySectors": [
+    "digital",
+    "software",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service",
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "software-digital-solutions",
+    "studies-consulting",
+    "services-maintenance"
+  ],
+  "certifications": [
+    "other"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "OCI aide les PME-PMI à relever leurs défis grâce au digital en modernisant leur système d’information avec des services innovants Made in France.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

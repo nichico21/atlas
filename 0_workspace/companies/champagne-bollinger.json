@@ -1,0 +1,26 @@
+{
+  "name": "CHAMPAGNE BOLLINGER",
+  "commercialName": "CHAMPAGNE BOLLINGER",
+  "siren": "",
+  "shortDescription": "Entreprise d’Aÿ active dans la fabrication de vins effervescents.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food",
+    "luxury"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de vins effervescents.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

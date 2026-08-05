@@ -1,0 +1,23 @@
+{
+  "siren": "lk-kunegel",
+  "name": "LK KUNEGEL",
+  "shortDescription": "Entreprise de Colmar active dans le transport routier de voyageurs.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "mobility"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

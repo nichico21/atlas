@@ -1,0 +1,376 @@
+[
+  {
+    "id": "name",
+    "label": "Raison sociale",
+    "section": "identity",
+    "order": 1,
+    "type": "text",
+    "required": true,
+    "aiFillable": true,
+    "description": "Nom légal complet de l'entreprise.",
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": true }
+  },
+  {
+    "id": "commercialName",
+    "label": "Nom commercial",
+    "section": "identity",
+    "order": 2,
+    "type": "text",
+    "required": false,
+    "aiFillable": true,
+    "description": "Nom d'usage, s'il diffère de la raison sociale.",
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": true }
+  },
+  {
+    "id": "siren",
+    "label": "SIREN / SIRET",
+    "section": "identity",
+    "order": 3,
+    "type": "text",
+    "required": true,
+    "aiFillable": true,
+    "description": "Identifiant officiel de l'entreprise. Clé de rapprochement entre sources — à recouper avec SIRENE dès que possible.",
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "nafCode",
+    "label": "Code NAF",
+    "section": "identity",
+    "order": 4,
+    "type": "text",
+    "required": false,
+    "aiFillable": false,
+    "description": "Code d'activité principale. Fiabilisé via SIRENE plutôt qu'extrait par IA.",
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "foundingYear",
+    "label": "Année de création",
+    "section": "identity",
+    "order": 5,
+    "type": "number",
+    "required": false,
+    "aiFillable": true,
+    "description": "Année de création de l'entreprise, si mentionnée dans le contenu source.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "website",
+    "label": "Site web",
+    "section": "identity",
+    "order": 6,
+    "type": "url",
+    "required": false,
+    "aiFillable": true,
+    "description": "Site web officiel de l'entreprise.",
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "section": "identity",
+    "order": 7,
+    "type": "url",
+    "required": false,
+    "aiFillable": true,
+    "description": "Page LinkedIn de l'entreprise, si mentionnée.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "shortDescription",
+    "label": "Présentation courte",
+    "section": "identity",
+    "order": 8,
+    "type": "long-text",
+    "required": true,
+    "aiFillable": true,
+    "description": "Description synthétique de l'activité, du positionnement et des atouts clés de l'entreprise.",
+    "ai": { "index": true, "search": true, "summarize": true, "embedding": true }
+  },
+  {
+    "id": "detailedDescription",
+    "label": "Description détaillée",
+    "section": "identity",
+    "order": 9,
+    "type": "long-text",
+    "required": false,
+    "aiFillable": true,
+    "description": "Description plus complète de l'entreprise et de ses activités.",
+    "ai": { "index": true, "search": true, "summarize": true, "embedding": true }
+  },
+  {
+    "id": "headcountRange",
+    "label": "Effectif total",
+    "section": "identity",
+    "order": 10,
+    "type": "single-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Tranche d'effectif, si mentionnée dans le contenu source.",
+    "valueSource": { "type": "vocabulary", "name": "companies/headcount-range" },
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "revenueRange",
+    "label": "Chiffre d'affaires",
+    "section": "identity",
+    "order": 11,
+    "type": "single-select",
+    "required": false,
+    "aiFillable": false,
+    "description": "Tranche de chiffre d'affaires. Donnée sensible, laissée à la saisie humaine.",
+    "valueSource": { "type": "vocabulary", "name": "companies/revenue-range" },
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "primarySectors",
+    "label": "Secteur(s) d'activité",
+    "section": "activity",
+    "order": 20,
+    "type": "multi-select",
+    "required": true,
+    "aiFillable": true,
+    "description": "Secteurs d'activité principaux de l'entreprise.",
+    "valueSource": { "type": "vocabulary", "name": "primary-sectors" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "offerType",
+    "label": "Type d'offre",
+    "section": "activity",
+    "order": 21,
+    "type": "multi-select",
+    "required": true,
+    "aiFillable": true,
+    "description": "Nature de l'offre : produit, service, ingénierie, logiciel...",
+    "valueSource": { "type": "vocabulary", "name": "companies/offer-type" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "keyCapabilities",
+    "label": "Métiers / Capacités clés",
+    "section": "activity",
+    "order": 22,
+    "type": "multi-select",
+    "required": true,
+    "aiFillable": true,
+    "description": "Métiers ou capacités clés de l'entreprise (fabrication, ingénierie, intégration...).",
+    "valueSource": { "type": "vocabulary", "name": "companies/key-capabilities" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "internationalExperience",
+    "label": "Expérience internationale",
+    "section": "references",
+    "order": 30,
+    "type": "boolean",
+    "required": false,
+    "aiFillable": true,
+    "description": "Indique si l'entreprise a une expérience à l'international, si mentionné explicitement.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "consortiumCapacity",
+    "label": "Capacité à travailler en consortium",
+    "section": "references",
+    "order": 31,
+    "type": "boolean",
+    "required": false,
+    "aiFillable": false,
+    "description": "Information rarement explicite dans le contenu source, laissée à la saisie humaine.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "exportCountries",
+    "label": "Pays d'export principaux",
+    "section": "markets",
+    "order": 40,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Pays vers lesquels l'entreprise exporte, si mentionnés.",
+    "valueSource": { "type": "vocabulary", "name": "companies/countries" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "geographicZones",
+    "label": "Zones géographiques d'intervention",
+    "section": "markets",
+    "order": 41,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Grandes zones géographiques d'intervention de l'entreprise.",
+    "valueSource": { "type": "vocabulary", "name": "companies/geographic-zones" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "workingLanguages",
+    "label": "Langues de travail",
+    "section": "markets",
+    "order": 42,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Langues de travail de l'entreprise, si mentionnées.",
+    "valueSource": { "type": "vocabulary", "name": "companies/languages" },
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+  "id": "exportRevenueShare",
+  "label": "Pourcentage du CA réalisé à l'étranger",
+  "section": "markets",
+  "order": 43,
+  "type": "number",
+  "required": false,
+  "aiFillable": true,
+  "description": "Part du chiffre d'affaires réalisée à l'international, en pourcentage, si mentionnée explicitement.",
+  "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+},
+
+  {
+    "id": "certifications",
+    "label": "Certifications",
+    "section": "certifications",
+    "order": 50,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Certifications mentionnées (ISO 9001, ISO 14001...).",
+    "valueSource": { "type": "vocabulary", "name": "companies/certifications" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "labels",
+    "label": "Labels / Agréments",
+    "section": "certifications",
+    "order": 51,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Labels ou agréments mentionnés (Origine France Garantie, French Fab, RSE/ESG...).",
+    "valueSource": { "type": "vocabulary", "name": "companies/labels" },
+    "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "valueProposition",
+    "label": "Proposition de valeur clé",
+    "section": "commercial",
+    "order": 60,
+    "type": "long-text",
+    "required": false,
+    "aiFillable": true,
+    "description": "Proposition de valeur résumée en une phrase, si déductible du contenu source.",
+    "ai": { "index": true, "search": true, "summarize": true, "embedding": true }
+  },
+  {
+    "id": "contactName",
+    "label": "Contact principal",
+    "section": "commercial",
+    "order": 61,
+    "type": "text",
+    "required": false,
+    "aiFillable": false,
+    "description": "Donnée personnelle, laissée à la saisie humaine.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "contactEmail",
+    "label": "Email",
+    "section": "commercial",
+    "order": 62,
+    "type": "text",
+    "required": false,
+    "aiFillable": false,
+    "description": "Donnée personnelle, laissée à la saisie humaine.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "contactPhone",
+    "label": "Téléphone",
+    "section": "commercial",
+    "order": 63,
+    "type": "text",
+    "required": false,
+    "aiFillable": false,
+    "description": "Donnée personnelle, laissée à la saisie humaine.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "headquartersCountry",
+    "label": "Pays",
+    "section": "administrative",
+    "order": 70,
+    "type": "text",
+    "required": false,
+    "aiFillable": true,
+    "description": "Pays du siège social, généralement la France.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "headquartersAddress",
+    "label": "Siège social",
+    "section": "administrative",
+    "order": 71,
+    "type": "text",
+    "required": false,
+    "aiFillable": false,
+    "description": "Adresse complète. Risque d'erreur trop élevé pour une extraction IA fiable, laissée à la saisie humaine.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "sourceUrl",
+    "label": "URL source",
+    "section": "provenance",
+    "order": 80,
+    "type": "url",
+    "required": true,
+    "aiFillable": true,
+    "description": "Page exacte d'où l'information a été extraite.",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "sourceId",
+    "label": "Source d'origine",
+    "section": "provenance",
+    "order": 81,
+    "type": "single-select",
+    "required": true,
+    "aiFillable": true,
+    "description": "Source Atlas ayant permis de découvrir cette entreprise.",
+    "valueSource": { "type": "entity", "name": "sources" },
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+  {
+    "id": "completionStatus",
+    "label": "Statut de complétion",
+    "section": "provenance",
+    "order": 82,
+    "type": "single-select",
+    "required": true,
+    "aiFillable": true,
+    "defaultValue": "ai-draft",
+    "description": "État de la fiche : générée par IA, enrichie par un humain, ou validée.",
+    "valueSource": { "type": "vocabulary", "name": "companies/completion-status" },
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+  "id": "lastUpdated",
+  "label": "Dernière actualisation",
+  "section": "provenance",
+  "order": 83,
+  "type": "date",
+  "required": true,
+  "aiFillable": false,
+  "description": "Date de la dernière génération ou mise à jour de cette fiche par un agent Atlas.",
+  "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+}
+]

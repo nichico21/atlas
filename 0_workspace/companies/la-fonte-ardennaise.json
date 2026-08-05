@@ -1,0 +1,26 @@
+{
+  "name": "LA FONTE ARDENNAISE",
+  "commercialName": "LA FONTE ARDENNAISE",
+  "siren": "",
+  "shortDescription": "Entreprise de Vivier-au-Court active dans la fonderie.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "metallurgy",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Savoir-faire industriel en fonderie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

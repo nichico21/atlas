@@ -1,0 +1,55 @@
+{
+  "id": "club-eti-ile-de-france",
+  "name": "Club ETI Île-de-France",
+  "acronym": null,
+  "description": "Le Club ETI Île-de-France est un réseau régional créé en 2018 qui rassemble des Entreprises de Taille Intermédiaire franciliennes. Il fédère, accompagne et valorise ses membres afin de renforcer la place des ETI dans la stratégie économique régionale et nationale. La source présente la mission du club, les caractéristiques des ETI, des chiffres agrégés sur les ETI franciliennes, l’ETI Act signé avec la Région Île-de-France, ainsi que des événements du réseau.",
+  "whyStrategic": "Cette source est utile pour identifier et suivre un réseau qualifié d’ETI franciliennes, segment stratégique pour le développement international, l’innovation, l’emploi industriel et la structuration territoriale. Elle permet de repérer un écosystème régional d’entreprises de taille intermédiaire, souvent leaders dans leur secteur, et d’observer les actions collectives menées avec la Région Île-de-France autour de l’innovation, de la compétitivité, de la transition écologique et du recrutement.",
+  "questionsAnswered": "Qu’est-ce que le Club ETI Île-de-France ? Combien d’ETI rassemble-t-il ? Quel est son rôle auprès des entreprises de taille intermédiaire franciliennes ? Quels sont les objectifs de l’ETI Act 2024-2027 ? Quels événements sont organisés par le club ? Quelle place occupent les ETI dans l’économie francilienne ?",
+  "owner": "Club ETI Île-de-France",
+  "url": "https://clubeti-idf.fr/",
+  "comments": "La page analysée indique 160 entreprises membres, 247 000 emplois cumulés et 47 Md€ de chiffre d’affaires représentés par le club. L’existence d’un annuaire public détaillé des membres n’est pas confirmée dans l’extrait fourni ; la collecte devra vérifier les pages disponibles publiquement.",
+  "sourceCategory": "territorial-network",
+  "role": [
+    "discovery",
+    "relationship-mapping",
+    "monitoring",
+    "economic-signals"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "members",
+    "territories",
+    "events",
+    "business-sectors",
+    "revenue",
+    "employees"
+  ],
+  "sourceType": "association",
+  "geographicScope": "regional",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "cross-sector"
+  ],
+  "estimatedCompanies": 160,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 10,
+    "coverage": 6,
+    "exploitability": 10
+  },
+  "fsipScore": 58
+}

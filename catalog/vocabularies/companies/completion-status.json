@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "État de complétion d'une fiche entreprise.",
+  "values": [
+    { "id": "ai-draft", "label": "Brouillon généré par IA" },
+    { "id": "human-enriched", "label": "Enrichie par un humain" },
+    { "id": "validated", "label": "Validée" }
+  ]
+}

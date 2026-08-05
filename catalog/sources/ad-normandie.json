@@ -1,0 +1,56 @@
+{
+  "id": "ad-normandie",
+  "name": "Agence de Développement pour la Normandie",
+  "acronym": "AD Normandie",
+  "description": "Site institutionnel de l’Agence de Développement pour la Normandie, organisme régional d’accompagnement des entreprises. La source présente les missions de l’agence, les solutions d’accompagnement proposées aux entreprises, l’attractivité du territoire normand, ainsi que des actualités et dispositifs régionaux comme Normandie Carbone ou le relais normand du réseau Enterprise Europe Network.",
+  "whyStrategic": "Cette source est stratégique pour Atlas car elle documente l’écosystème régional d’accompagnement économique en Normandie : dispositifs d’aide, accompagnement de projets d’entreprise, implantation, décarbonation, internationalisation des PME et actualités économiques territoriales. Elle permet d’identifier les programmes publics et signaux territoriaux utiles à l’analyse du développement international et industriel des entreprises normandes.",
+  "questionsAnswered": "Quels dispositifs et solutions l’AD Normandie propose-t-elle aux entreprises ? Quels projets ou programmes régionaux sont mis en avant ? Quelles actualités économiques concernent l’écosystème normand ? Quels services d’accompagnement existent pour l’implantation, la décarbonation ou l’internationalisation des entreprises en Normandie ?",
+  "owner": "Agence de Développement pour la Normandie",
+  "url": "https://adnormandie.fr/",
+  "comments": "La source ne semble pas être un annuaire exhaustif d’entreprises ; elle est principalement utile pour la veille territoriale, l’identification de dispositifs d’accompagnement et la compréhension de l’écosystème économique normand.",
+  "sourceCategory": "territorial-network",
+  "role": [
+    "data-enrichment",
+    "discovery",
+    "monitoring",
+    "international-development"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "services",
+    "projects",
+    "territories",
+    "calls-for-projects",
+    "funding",
+    "innovation",
+    "events",
+    "news"
+  ],
+  "sourceType": "development-agency",
+  "geographicScope": "regional",
+  "status": "under-review",
+  "primarySectors": [
+    "cross-sector"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 66
+}

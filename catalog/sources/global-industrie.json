@@ -1,0 +1,67 @@
+{
+  "id": "global-industrie",
+  "name": "Global Industrie",
+  "acronym": null,
+  "description": "Global Industrie est un salon professionnel international consacré à l’écosystème industriel. La source présente l’événement, ses thématiques, ses actualités, ses exposants et les contenus associés au salon : keynotes, prises de parole, filières industrielles, innovations, machines et robots en fonctionnement.",
+  "whyStrategic": "La source est stratégique pour Atlas car Global Industrie rassemble un volume important d’acteurs industriels : 60 000 industriels, 2 500 sociétés exposantes, plus de 100 startups, plus de 50 filières industrielles et 91 pays représentés selon les informations publiées. Elle permet d’identifier des entreprises industrielles visibles, actives dans l’innovation, l’export, la robotique, l’IA, la transition énergétique et les procédés avancés.",
+  "questionsAnswered": "Quelles entreprises exposent à Global Industrie ? Quelles filières industrielles sont représentées ? Quels acteurs industriels sont visibles sur les thématiques de souveraineté, transition énergétique, IA, robotique et procédés avancés ? Quelles actualités et prises de parole structurent l’écosystème industriel autour du salon ? Quels signaux d’internationalisation ou de développement export sont associés à l’événement ?",
+  "owner": "GL events",
+  "url": "https://www.global-industrie.com/fr",
+  "comments": "Analyse fondée sur la page de présentation fournie : chiffres clés du salon, thématiques, actualités et mention d’une connexion aux exposants et visiteurs. Les données détaillées d’exposants peuvent dépendre des pages publiques disponibles ou d’un accès applicatif séparé.",
+  "sourceCategory": "visibility",
+  "role": [
+    "discovery",
+    "monitoring",
+    "relationship-mapping",
+    "international-development"
+  ],
+  "mainObject": "exhibitor",
+  "dataTypes": [
+    "companies",
+    "business-sectors",
+    "products",
+    "services",
+    "technologies",
+    "expertise",
+    "export-countries",
+    "exhibitors",
+    "events",
+    "trade-shows",
+    "conferences",
+    "news"
+  ],
+  "sourceType": "trade-show",
+  "geographicScope": "international",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "cross-sector",
+    "industry",
+    "industrial-machinery",
+    "robotics",
+    "industrial-automation",
+    "digital",
+    "energy",
+    "defense-and-security"
+  ],
+  "estimatedCompanies": 2500,
+  "updateFrequency": "annual",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "high",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 25,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 74
+}

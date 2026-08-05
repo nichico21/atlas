@@ -1,0 +1,28 @@
+{
+  "name": "ALMOND",
+  "commercialName": "ALMOND",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg spécialisée en cybersécurité.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "cybersecurity",
+    "digital"
+  ],
+  "offerType": [
+    "service",
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "software-digital-solutions",
+    "studies-consulting"
+  ],
+  "valueProposition": "Services et solutions de cybersécurité.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

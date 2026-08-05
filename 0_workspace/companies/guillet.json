@@ -1,0 +1,40 @@
+{
+  "siren": "guillet",
+  "name": "GUILLET",
+  "foundingYear": 1970,
+  "shortDescription": "GUILLET est une entreprise industrielle française spécialisée dans la sous-traitance industrielle, la transformation du métal et l’intégration de métiers allant de la conception à l’installation sur site.",
+  "detailedDescription": "GUILLET transforme depuis plus de 55 ans des métaux techniques — inox, acier, aluminium — pour des clients industriels exigeants. L’entreprise regroupe sur un même site industriel en Alsace des compétences de découpe, usinage, tôlerie, chaudronnerie, mécano-soudure, assemblage et installation sur site. Elle intervient notamment pour l’agroalimentaire, le ferroviaire, l’événementiel, les secteurs pharmaceutique, cosmétique, biotechnologique et cryogénique, l’eau et l’assainissement, l’architecture métallique ainsi que le montage et les travaux industriels.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industry",
+    "metallurgy",
+    "mechanics",
+    "rail",
+    "agriculture-and-food",
+    "pharmaceuticals",
+    "biotechnology",
+    "water",
+    "construction",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies",
+    "systems-integration",
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "studies-consulting",
+    "equipment-manufacturing",
+    "systems-integration",
+    "installation-commissioning"
+  ],
+  "valueProposition": "GUILLET propose une chaîne intégrée de transformation du métal, de la conception à l’installation sur site, pour garantir qualité, traçabilité, réactivité et performance industrielle.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

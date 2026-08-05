@@ -1,0 +1,26 @@
+{
+  "name": "FEHR",
+  "commercialName": "FEHR",
+  "siren": "",
+  "shortDescription": "Entreprise de Reichshoffen spécialisée dans les solutions béton.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Solutions béton pour la construction.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

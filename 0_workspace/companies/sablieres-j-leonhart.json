@@ -1,0 +1,33 @@
+{
+  "name": "SABLIERES J LEONHART",
+  "commercialName": "SABLIERES J LEONHART",
+  "siren": "",
+  "foundingYear": 1920,
+  "website": "https://www.leonhart.fr/",
+  "shortDescription": "Entreprise de Sélestat active dans l’exploitation de gravière et sablière et le béton prêt à l’emploi.",
+  "detailedDescription": "La fiche annuaire indique que Sablières J. Leonhart intervient dans l’exploitation gravière et sablière et le béton prêt à l’emploi. Elle est située à Sélestat et compte 700 effectifs en CDI, avec un chiffre d’affaires indiqué de 120 M€ sur la page source.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "materials",
+    "construction",
+    "building-and-public-works",
+    "circular-economy"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "logistics-supply-chain",
+    "other"
+  ],
+  "valueProposition": "Production de granulats et de béton prêt à l'emploi.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

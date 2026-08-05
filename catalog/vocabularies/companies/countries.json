@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "Pays d'export principaux.",
+  "values": [
+    { "id": "saudi-arabia", "label": "Arabie Saoudite" },
+    { "id": "united-arab-emirates", "label": "Émirats Arabes Unis" },
+    { "id": "qatar", "label": "Qatar" },
+    { "id": "morocco", "label": "Maroc" },
+    { "id": "egypt", "label": "Égypte" },
+    { "id": "united-states", "label": "États-Unis" },
+    { "id": "germany", "label": "Allemagne" },
+    { "id": "india", "label": "Inde" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

@@ -5,6 +5,7 @@ export type ValidationLevel =
 
   export type EntityType =
   | "source"
+  | "connector"
   | "company"
   | "opportunity"
   | "buyer"

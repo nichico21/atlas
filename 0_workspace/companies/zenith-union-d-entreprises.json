@@ -1,0 +1,26 @@
+{
+  "name": "Zénith Union d’entreprises",
+  "commercialName": "Zénith",
+  "siren": "",
+  "shortDescription": "Zénith est une union de petites et moyennes entreprises indépendantes, composée d’entrepreneurs autonomes intervenant notamment dans les travaux publics, le gros œuvre, la déconstruction, le désamiantage, la dépollution des sols et le chauffage.",
+  "detailedDescription": "Zénith se présente comme une union de PME indépendantes réunissant 10 entreprises autour de métiers liés aux travaux publics, au gros œuvre, à la déconstruction, au désamiantage, à la dépollution des sols et au chauffage. Le groupe met en avant une stratégie de long terme fondée sur le capital humain, l’autonomie entrepreneuriale, l’unité entre dirigeants et actionnaires, le respect de l’environnement via le recyclage et la réutilisation des matériaux, ainsi que l’innovation.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works",
+    "environment",
+    "circular-economy"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "other"
+  ],
+  "valueProposition": "L’entreprise qui vous permet d’entreprendre.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

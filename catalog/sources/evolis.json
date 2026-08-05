@@ -1,0 +1,60 @@
+{
+  "id": "evolis",
+  "name": "EVOLIS",
+  "acronym": null,
+  "description": "EVOLIS est une organisation professionnelle française représentant les fournisseurs de biens d’équipements et de solutions industrielles. La source présente l’organisation, ses objectifs, ses actions, les grands secteurs couverts par ses adhérents et des chiffres clés sectoriels, notamment production, exportations et effectifs.",
+  "whyStrategic": "EVOLIS constitue une source sectorielle utile pour cartographier l’écosystème français des machines, équipements et solutions industrielles. Elle apporte un éclairage qualifié sur des familles d’activités importantes pour l’industrie française, notamment les équipements pour le BTP, les équipements fluidiques, la manutention et les machines pour la production industrielle. La source est particulièrement intéressante pour identifier des segments industriels exportateurs et suivre la représentation collective de ces entreprises.",
+  "questionsAnswered": "Quels segments des biens d’équipement industriels sont représentés par EVOLIS ? Quels sont les grands chiffres économiques du secteur : production, part du chiffre d’affaires réalisée à l’export, effectifs ? Quelles missions et actions l’organisation met-elle en avant pour accompagner ses adhérents ? Quels types d’équipements et de solutions industrielles sont couverts par ses adhérents ?",
+  "owner": "EVOLIS",
+  "url": "https://www.evolis.org/",
+  "comments": "Analyse réalisée à partir du contenu fourni décrivant EVOLIS, ses objectifs, ses actions, ses secteurs d’adhérents et ses chiffres clés. L’existence d’un annuaire nominatif complet des entreprises adhérentes n’est pas vérifiée à ce stade.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "monitoring",
+    "economic-signals"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "business-sectors",
+    "members",
+    "reports",
+    "publications",
+    "news",
+    "revenue",
+    "employees"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "under-review",
+  "primarySectors": [
+    "industry",
+    "industrial-machinery",
+    "mechanics",
+    "industrial-automation",
+    "building-and-public-works",
+    "industrial-services"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 10,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 61
+}

@@ -15,7 +15,7 @@ export function writeWorkspaceFile(
 
     process.cwd(),
 
-    "workspace",
+    "0_workspace",
 
     folder
 

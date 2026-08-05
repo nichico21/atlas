@@ -1,0 +1,33 @@
+{
+  "id": "evolis-website",
+  "label": "EVOLIS Site web",
+  "source": "EVOLIS",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.evolis.org/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 4,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "search-organization",
+    "organization-details",
+    "browse-directory",
+    "browse-news",
+    "browse-publications",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer le site institutionnel d’EVOLIS, identifier les pages relatives à l’organisation, aux secteurs représentés, aux adhérents lorsque disponibles, aux publications et actualités.",
+  "knownLimitations": "Aucune API ou export structuré n’est identifié à partir des informations disponibles. La collecte dépendra de la structure HTML du site et de la présence effective de pages d’adhérents ou de publications accessibles publiquement.",
+  "recommendedStrategy": "Démarrer par le sitemap et les rubriques institutionnelles, secteurs, adhérents, publications et actualités. Extraire séparément les chiffres clés sectoriels, les familles d’équipements et les éventuelles entités membres. Prévoir une validation manuelle initiale pour confirmer l’existence et la structure d’un annuaire d’adhérents."
+}

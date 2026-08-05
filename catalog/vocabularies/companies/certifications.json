@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Certifications mentionnées pour l'entreprise.",
+  "values": [
+    { "id": "iso-9001", "label": "ISO 9001" },
+    { "id": "iso-14001", "label": "ISO 14001" },
+    { "id": "iso-45001", "label": "ISO 45001" },
+    { "id": "iso-27001", "label": "ISO 27001" },
+    { "id": "qualiopi", "label": "Qualiopi" },
+    { "id": "ce", "label": "CE" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

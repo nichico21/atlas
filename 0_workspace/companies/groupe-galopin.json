@@ -1,0 +1,27 @@
+{
+  "name": "GROUPE GALOPIN",
+  "commercialName": "GROUPE GALOPIN",
+  "siren": "",
+  "shortDescription": "Entreprise de Mulhouse active dans le bâtiment et les travaux publics.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning"
+  ],
+  "valueProposition": "Prestations de bâtiment et travaux publics.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

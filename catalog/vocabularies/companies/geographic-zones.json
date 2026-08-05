@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "Grandes zones géographiques d'intervention de l'entreprise.",
+  "values": [
+    { "id": "africa", "label": "Afrique" },
+    { "id": "middle-east", "label": "Moyen-Orient" },
+    { "id": "asia", "label": "Asie" },
+    { "id": "europe", "label": "Europe" },
+    { "id": "americas", "label": "Amériques" },
+    { "id": "oceania", "label": "Océanie" }
+  ]
+}

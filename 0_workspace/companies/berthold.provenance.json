@@ -1,0 +1,355 @@
+{
+  "siren": "berthold",
+  "fields": {
+    "name": [
+      {
+        "value": "BERTHOLD",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "BERTHOLD",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "BERTHOLD",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "BERTHOLD",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Entreprise active dans le bâtiment et les travaux publics.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Dieue-sur-Meuse, active dans le bâtiment et les travaux publics.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "BERTHOLD est une entreprise du secteur Bâtiment Travaux Publics, référencée dans l’annuaire du Club ETI Grand Est, avec un effectif indiqué de 264 personnes.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "BERTHOLD est une société implantée en Lorraine, active dans le BTP, disposant de compétences variées et réalisant environ 130 chantiers par an.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "building-and-public-works"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "construction",
+          "building-and-public-works"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "building-and-public-works"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": [
+          "construction",
+          "building-and-public-works"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "project-management",
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "project-management",
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "project-management",
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "France",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "BERTHOLD",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Réalisation de projets de bâtiment et travaux publics.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "Un acteur lorrain du BTP fort de 75 ans d’expérience, de compétences variées et d’un volume important de chantiers annuels.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "website": [
+      {
+        "value": "https://berthold-btp.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "La fiche annuaire présente BERTHOLD comme une entreprise du secteur Bâtiment Travaux Publics. Elle indique un effectif de 264 personnes et renvoie vers le site berthold-btp.com.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "Implantée en Lorraine depuis 1949, BERTHOLD a développé un savoir-faire dans la plupart des secteurs du BTP. Intégrée au Groupe Baudin Châteauneuf depuis 1988, la société compte 270 collaborateurs, indique 70 M€ de chiffre d’affaires et dispose de deux implantations à Dieue-sur-Meuse et Metz.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ]
+  }
+}

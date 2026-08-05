@@ -1,0 +1,33 @@
+{
+  "id": "auvergne-rhone-alpes-entreprises-website",
+  "label": "Auvergne-Rhône-Alpes Entreprises Site web",
+  "source": "auvergne-rhone-alpes-entreprises",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.auvergnerhonealpes-entreprises.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "search-organization",
+    "organization-details",
+    "browse-news",
+    "browse-publications",
+    "browse-events",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer le site institutionnel, les pages de services, les antennes territoriales, les actualités, les événements et les publications disponibles publiquement.",
+  "knownLimitations": "Aucune API officielle ou export structuré n’a été identifié à partir des éléments fournis. Les données relatives aux entreprises adhérentes ou accompagnées peuvent ne pas être publiées sous forme d’annuaire exhaustif. La collecte dépendra de la structure HTML du site, de son moteur de recherche interne éventuel et des règles robots.txt.",
+  "recommendedStrategy": "Démarrer par le sitemap et les rubriques institutionnelles, actualités, événements, accompagnement et contacts territoriaux. Extraire les métadonnées de pages, titres, dates, thématiques, lieux, contacts d’antennes et liens vers documents. Mettre en place une synchronisation hebdomadaire pour détecter les nouveaux événements, actualités et publications."
+}

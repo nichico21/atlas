@@ -1,0 +1,139 @@
+{
+  "siren": "socomec",
+  "fields": {
+    "name": [
+      {
+        "value": "Socomec SAS",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "Socomec",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "website": [
+      {
+        "value": "https://www.socomec.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Socomec est un groupe industriel familial qui conçoit, fabrique et vend des équipements électriques pour la performance des réseaux et installations électriques critiques, avec un positionnement fort sur la transition énergétique, les énergies renouvelables et le stockage d’énergie.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Depuis plus d’un siècle, Socomec conçoit, fabrique et vend des équipements électriques tels que des onduleurs, stations de mesure, solutions de stockage d’énergie, interrupteurs et commutateurs de sources. L’entreprise met en avant une expertise dans les applications critiques et dans l’amélioration de l’efficacité énergétique des installations électriques pour l’industrie, les infrastructures, la santé, les data centers, l’énergie et le bâtiment. Socomec dispose de 12 sites de production, 30 filiales, et ses produits et services sont distribués dans 80 pays par plus de 100 distributeurs.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "1000-4999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "energy",
+          "renewable-energy",
+          "energy-storage",
+          "power-grids",
+          "industry",
+          "industrial-services"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "engineering",
+          "equipment-manufacturing",
+          "research-development"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "internationalExperience": [
+      {
+        "value": true,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 12
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Socomec fournit des solutions électriques innovantes pour rendre l’énergie plus sûre, plus flexible et plus performante dans les installations critiques.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "la-french-fab-page-linkedin",
+  "name": "La French Fab — Page LinkedIn",
+  "acronym": null,
+  "description": "Page LinkedIn officielle de La French Fab, communauté mettant en avant l’industrie française. La page publie des actualités sur des PME, ETI et groupes industriels français, des initiatives de réindustrialisation, d’innovation, d’export, d’attractivité des métiers industriels, de financement et de développement territorial.",
+  "whyStrategic": "Cette source est utile comme canal de veille qualitative sur l’industrie française en mouvement. Elle permet d’identifier des entreprises industrielles mises en avant par La French Fab, des signaux d’innovation, d’investissement, de levées de fonds, de croissance, d’export ou de recrutement, ainsi que des contenus relayés par l’écosystème Bpifrance et les réseaux industriels. Sa valeur reste complémentaire : elle ne constitue pas un référentiel exhaustif d’entreprises, mais un flux éditorial sélectif et visible.",
+  "questionsAnswered": "Quelles entreprises industrielles françaises sont mises en avant par La French Fab ? Quels signaux récents concernent l’innovation, l’export, la réindustrialisation, la défense, l’énergie, l’aéronautique, le spatial ou les territoires industriels ? Quels contenus, rapports, podcasts, événements ou initiatives sont relayés auprès de la communauté industrielle française ? Quels acteurs sont associés aux publications et aux campagnes de visibilité de La French Fab ?",
+  "owner": "La French Fab",
+  "url": "https://www.linkedin.com/company/la-french-fab/",
+  "comments": "La page LinkedIn indique notamment une activité éditoriale récente, plus de 108 000 abonnés, un positionnement de porte-voix de l’industrie française, un siège à Paris et des publications régulières mettant en avant des entreprises et initiatives industrielles. L’accès complet peut dépendre des règles et limitations de LinkedIn.",
+  "sourceCategory": "professional-social-networks",
+  "role": [
+    "monitoring",
+    "discovery",
+    "data-enrichment",
+    "economic-signals"
+  ],
+  "mainObject": "news",
+  "dataTypes": [
+    "companies",
+    "business-sectors",
+    "technologies",
+    "expertise",
+    "export-countries",
+    "partners",
+    "events",
+    "news",
+    "press-releases",
+    "reports",
+    "publications",
+    "investments",
+    "recruitment",
+    "fundraising",
+    "employees",
+    "growth",
+    "innovation"
+  ],
+  "sourceType": "social-network",
+  "geographicScope": "national",
+  "status": "under-review",
+  "primarySectors": [
+    "cross-sector",
+    "industry"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "authentication",
+    "scraping"
+  ],
+  "collectionDifficulty": "high",
+  "license": "restricted",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "low",
+  "integrationPriority": "low",
+  "evaluation": {
+    "strategicValue": 10,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 6,
+    "exploitability": 5
+  },
+  "fsipScore": 48
+}

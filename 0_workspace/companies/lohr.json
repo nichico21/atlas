@@ -1,0 +1,29 @@
+{
+  "name": "LOHR",
+  "commercialName": "LOHR",
+  "siren": "",
+  "shortDescription": "Entreprise de Hangenbieten produisant des équipements de moyenne série pour le transport de biens et de personnes.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "mobility",
+    "industrial-machinery",
+    "automotive",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "engineering"
+  ],
+  "valueProposition": "Équipements de transport pour biens et personnes.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

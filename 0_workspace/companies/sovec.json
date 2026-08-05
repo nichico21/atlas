@@ -1,0 +1,30 @@
+{
+  "name": "SOVEC",
+  "commercialName": "SOVEC",
+  "siren": "",
+  "shortDescription": "Entreprise de Hindisheim spécialisée dans les installations électriques des professionnels.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "energy",
+    "construction",
+    "smart-buildings"
+  ],
+  "offerType": [
+    "service",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "services-maintenance",
+    "systems-integration"
+  ],
+  "valueProposition": "Installations électriques pour les professionnels.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

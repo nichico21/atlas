@@ -1,0 +1,52 @@
+{
+  "id": "mecallians",
+  "name": "Mecallians",
+  "acronym": null,
+  "description": "Mecallians est la bannière commune des industries mécaniques. D’après les informations fournies, elle a été créée à l’initiative de la FIM, du CETIM, de l’UNM, de Sofitech et de Cemeca.",
+  "whyStrategic": "La source est utile pour comprendre l’écosystème institutionnel des industries mécaniques françaises et identifier les organisations structurantes associées à cette filière. Elle peut servir de point d’entrée pour la cartographie des acteurs collectifs, fédérations, organismes techniques et dispositifs liés à la mécanique industrielle.",
+  "questionsAnswered": "Quels organismes portent la bannière Mecallians ? Quel rôle joue Mecallians dans la représentation des industries mécaniques ? Quels contenus institutionnels, actualités ou ressources publiques sont publiés autour de l’écosystème mécanique ?",
+  "owner": "Mecallians, initiative portée par la FIM, le CETIM, l’UNM, Sofitech et Cemeca",
+  "url": "https://www.mecallians.fr/",
+  "comments": "Source institutionnelle centrée sur l’écosystème des industries mécaniques. Elle ne doit pas être considérée comme un référentiel exhaustif d’entreprises.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "relationship-mapping",
+    "monitoring"
+  ],
+  "mainObject": "organization",
+  "dataTypes": [
+    "partners",
+    "business-sectors",
+    "news",
+    "publications"
+  ],
+  "sourceType": "institutional-website",
+  "geographicScope": "national",
+  "status": "under-review",
+  "primarySectors": [
+    "industry",
+    "mechanics"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "low",
+  "integrationPriority": "low",
+  "evaluation": {
+    "strategicValue": 10,
+    "reliability": 12,
+    "informationRichness": 10,
+    "coverage": 6,
+    "exploitability": 10
+  },
+  "fsipScore": 48
+}

@@ -1,0 +1,140 @@
+{
+  "siren": "groupe-oci",
+  "fields": {
+    "name": [
+      {
+        "value": "Groupe OCI",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "OCI",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "OCI accompagne les PME-PMI comme prestataire informatique et fournisseur de solutions digitales, avec des services informatiques et digitaux innovants portés par des techniciens, ingénieurs et consultants certifiés.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Le contenu présente OCI comme un acteur du digital proposant aux PME-PMI des prestations informatiques et des solutions digitales. L’entreprise met en avant 40 années de solutions innovantes, des milliers de clients, des équipes et datacenters Made in France, un service client et des experts certifiés.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "10-49",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "digital",
+          "software",
+          "industrial-services"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service",
+          "software-digital-solution"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "software-digital-solutions",
+          "studies-consulting",
+          "services-maintenance"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "certifications": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "labels": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "OCI aide les PME-PMI à relever leurs défis grâce au digital en modernisant leur système d’information avec des services innovants Made in France.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ]
+  }
+}

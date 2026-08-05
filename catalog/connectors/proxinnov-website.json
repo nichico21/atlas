@@ -1,0 +1,30 @@
+{
+  "id": "proxinnov-website",
+  "label": "Proxinnov Site web",
+  "source": "proxinnov",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.proxinnov.com/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-events",
+    "entity-discovery",
+    "relationship-mapping",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer le site institutionnel de Proxinnov afin d’identifier les pages relatives au réseau, aux adhérents, aux événements, webinaires, clubs thématiques, projets et services d’accompagnement en robotique industrielle.",
+  "knownLimitations": "Aucune API ou export structuré n’est identifié à partir des informations fournies. La disponibilité d’un annuaire public des adhérents n’est pas confirmée et devra être vérifiée. Les données collectées pourront être principalement éditoriales et nécessiter une extraction par scraping.",
+  "recommendedStrategy": "Démarrer par le sitemap et les rubriques institutionnelles du site. Prioriser les pages décrivant le réseau, les adhérents, les événements, webinaires, clubs, actualités et accompagnements. Extraire les entités nommées et relations utiles, puis recouper les entreprises identifiées avec des référentiels officiels avant intégration."
+}

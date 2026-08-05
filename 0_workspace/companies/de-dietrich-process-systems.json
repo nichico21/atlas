@@ -1,0 +1,31 @@
+{
+  "name": "DE DIETRICH PROCESS SYSTEMS",
+  "commercialName": "DE DIETRICH PROCESS SYSTEMS",
+  "siren": "",
+  "shortDescription": "Entreprise de Niederbronn-les-Bains fournissant des équipements et systèmes complets pour l’industrie pharmaceutique, la chimie et la chimie fine.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "industrial-machinery",
+    "pharmaceuticals",
+    "chemicals-and-materials"
+  ],
+  "offerType": [
+    "product-equipment",
+    "systems-integration",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "systems-integration",
+    "engineering"
+  ],
+  "valueProposition": "Équipements et systèmes complets pour procédés pharmaceutiques et chimiques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

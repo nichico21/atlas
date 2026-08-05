@@ -1,0 +1,29 @@
+{
+  "name": "BERTHOLD",
+  "commercialName": "BERTHOLD",
+  "siren": "",
+  "website": "https://berthold-btp.com/",
+  "shortDescription": "Entreprise active dans le bâtiment et les travaux publics.",
+  "detailedDescription": "La fiche annuaire présente BERTHOLD comme une entreprise du secteur Bâtiment Travaux Publics. Elle indique un effectif de 264 personnes et renvoie vers le site berthold-btp.com.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning",
+    "other"
+  ],
+  "valueProposition": "Réalisation de projets de bâtiment et travaux publics.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

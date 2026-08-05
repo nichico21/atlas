@@ -1,0 +1,27 @@
+{
+  "name": "KS GROUPE",
+  "commercialName": "KS GROUPE",
+  "siren": "",
+  "shortDescription": "Entreprise de Bischheim active dans la construction.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning"
+  ],
+  "valueProposition": "Activités de construction.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

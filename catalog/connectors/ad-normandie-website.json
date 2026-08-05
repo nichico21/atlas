@@ -1,0 +1,32 @@
+{
+  "id": "ad-normandie-website",
+  "label": "Agence de Développement pour la Normandie Site web",
+  "source": "ad-normandie",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://adnormandie.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-publications",
+    "browse-projects",
+    "browse-events",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à explorer le site institutionnel de l’AD Normandie, notamment les pages de présentation, dispositifs, accompagnements, actualités et événements.",
+  "knownLimitations": "Aucune API ou export structuré n’a été identifié à partir des informations disponibles. Les données d’entreprise ne semblent pas constituer l’objet principal de la source. L’extraction dépendra de la structure HTML du site et des éventuelles pages d’actualités ou de dispositifs.",
+  "recommendedStrategy": "Explorer le site via le sitemap lorsqu’il est disponible, indexer prioritairement les pages d’actualités, dispositifs, événements, accompagnements et implantation. Extraire les métadonnées de publication, titres, résumés, catégories, dates et liens internes vers les dispositifs ou partenaires mentionnés."
+}

@@ -17,7 +17,7 @@
 
   "comments": "Référentiel national de référence pour l'identification des entreprises françaises.",
 
-  "sourceCategory": "public-national-sources",
+  "sourceCategory": "national-public-sources",
 
   "role": [
     "company-reference"
@@ -37,10 +37,10 @@
 
   "geographicScope": "national",
 
-  "status": "ready",
+  "status": "ready-to-connect",
 
   "primarySectors": [
-    "transverse"
+    "cross-sector"
   ],
 
   "estimatedCompanies": 11000000,
@@ -82,7 +82,7 @@
 
   "developmentPriority": "critical",
 
-  "intrgrationPriority": 5
+  "integrationPriority": "exceptional"
 
 
 

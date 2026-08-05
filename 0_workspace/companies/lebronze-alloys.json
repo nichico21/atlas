@@ -1,0 +1,29 @@
+{
+  "name": "LEBRONZE ALLOYS",
+  "commercialName": "LEBRONZE ALLOYS",
+  "siren": "",
+  "shortDescription": "Entreprise de Suippes spécialisée dans la conception et la transformation d’alliages de haute performance à base de cuivre et de nickel.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "metallurgy",
+    "materials",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Conception et transformation d'alliages cuivre-nickel de haute performance.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

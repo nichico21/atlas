@@ -3,7 +3,7 @@ import path from "path";
 import { banner, success, error } from "./lib/logger";
 import { loadCatalog } from "./lib/loaders/catalog-loader";
 
-import { runValidations } from "./lib/validation/validation-engine";
+import { validateCatalog } from "./lib/validation/validation-engine";
 
 banner("FSIP Catalog Validator");
 
@@ -12,8 +12,7 @@ const catalogPath = path.join(process.cwd(), "catalog");
 console.log("Loading catalog...");
 console.log();
 
-const result = loadCatalog(catalogPath);
-const catalog = result.catalog;
+const catalog = loadCatalog();
 
 const evaluation = catalog.evaluation as any;
 
@@ -31,37 +30,35 @@ console.log();
 console.log("Running validations...");
 
 const validation =
-  runValidations(catalog);
+  validateCatalog (catalog);
 
 console.log();
 
-const errors = [
-  ...result.errors,
-  ...validation.errors,
-];
+const issues = validation.issues;
 
-if (errors.length === 0) {
+if (issues.length === 0) {
 
-  success("No JSON parsing errors");
+  success("No validation issues");
 
 } else {
 
-  for (const errorMessage of validation.errors)
-    error(errorMessage);
-  }
+  for (const issue of issues)
+    error(`[${issue.level}] ${issue.entity}${issue.entityId ? `/${issue.entityId}` : ""}${issue.fieldId ? ` (${issue.fieldId})` : ""} — ${issue.message}`);
+
+}
 
 
 console.log();
 console.log("Summary");
 console.log();
 
-if (errors.length === 0) {
+if (issues.length === 0) {
 
   success("Catalog VALID");
 
 } else {
 
-  error(`${errors.length} error(s)`);
+  error(`${issues.length} error(s)`);
 
   process.exit(1);
 

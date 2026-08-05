@@ -1,0 +1,31 @@
+{
+  "name": "Maneko",
+  "commercialName": "MANEKO",
+  "siren": "",
+  "foundingYear": 2020,
+  "shortDescription": "Maneko est une entreprise française centrée sur le remanufacturing et la rénovation de matériels de voirie, intervenant selon les catégories de matériels en sous-traitance pour Noremat ou directement auprès des utilisateurs.",
+  "detailedDescription": "Créée en 2020 et installée sur un site industriel en reconversion, Maneko centre son activité sur le remanufacturing et la rénovation de matériels de voirie. Selon les catégories de matériels, les opérations sont menées soit en sous-traitance pour Noremat, soit en direct auprès des utilisateurs.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "industrial-machinery",
+    "environment",
+    "circular-economy",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "services-maintenance",
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Maneko prolonge la durée de vie des matériels de voirie par des activités de remanufacturing et de rénovation.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/actibac/"
+}

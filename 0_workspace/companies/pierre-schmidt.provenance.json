@@ -1,0 +1,123 @@
+{
+  "companyId": "pierre-schmidt",
+  "fields": {
+    "name": [
+      {
+        "value": "Pierre Schmidt",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 1911,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Pierre Schmidt est une entreprise alsacienne de gastronomie et de produits cuisinés, revendiquant un savoir-faire familial depuis 1911, une fabrication locale et un engagement pour une alimentation de qualité.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "L’histoire de Pierre Schmidt commence en 1911 avec l’ouverture d’une petite boutique au cœur de Strasbourg. L’entreprise met en avant la gastronomie alsacienne, des produits cuisinés avec soin, une exigence transmise de génération en génération, des produits finement sélectionnés et une fabrication locale au service du dynamisme régional alsacien.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "agriculture-and-food"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "equipment-manufacturing"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "labels": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-05",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Faire rayonner la gastronomie alsacienne grâce à des produits cuisinés de qualité, issus d’un savoir-faire familial centenaire et d’une fabrication locale.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

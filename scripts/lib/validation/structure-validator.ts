@@ -61,7 +61,9 @@ const data = entity as Record<string, unknown>;
     // Required fields
     // -----------------------
 
-    if (field.required && value === undefined) {
+    const isMissing = value === undefined || value === null;
+
+    if (field.required && isMissing) {
 
       result.issues.push({
 
@@ -87,9 +89,10 @@ const data = entity as Record<string, unknown>;
 
     }
 
-    // Champ absent et non obligatoire
+    // Champ absent (undefined) ou explicitement vide (null),
+    // et non obligatoire : on ignore la validation de type.
 
-    if (value === undefined) {
+    if (isMissing) {
 
       continue;
 

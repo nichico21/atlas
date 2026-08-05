@@ -1,0 +1,45 @@
+{
+  "name": "QUIRI",
+  "commercialName": "QUIRI",
+  "siren": "",
+  "website": "https://www.quiri.com/",
+  "shortDescription": "Entreprise de Duttlenheim active dans la métallurgie.",
+  "detailedDescription": "QUIRI est spécialisée dans la conception et la fabrication d’équipements hydrauliques — vérins, groupes hydrauliques, ressorts à gaz, systèmes de bridage, levage ou serrage, amortisseurs, bancs d’essai — ainsi que d’échangeurs de chaleur tubulaires et à calandre, réchauffeurs électriques et réservoirs à pression. L’entreprise s’appuie sur quatre bureaux d’études en mécanique, hydraulique, thermique et automatisme, ainsi que sur des ateliers d’usinage et de chaudronnerie industrielle intégrant qualité, contrôle et essais. Ses compétences couvrent la construction mécanique, le soudage, la chaudronnerie, le service après-vente et la fourniture de pièces détachées. Ses applications sont citées dans l’automobile, l’aéronautique, le nucléaire, le ferroviaire, le génie civil, le pétrole et le gaz.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "metallurgy",
+    "mechanics",
+    "industry",
+    "industrial-machinery",
+    "energy",
+    "mobility",
+    "defense-and-security",
+    "automotive",
+    "aerospace",
+    "nuclear",
+    "rail",
+    "construction",
+    "oil-and-gas"
+  ],
+  "offerType": [
+    "product-equipment",
+    "other",
+    "engineering-studies",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "other",
+    "engineering",
+    "studies-consulting",
+    "services-maintenance"
+  ],
+  "valueProposition": "Savoir-faire industriel en métallurgie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "M-ENERGIES",
+  "commercialName": "M-ENERGIES",
+  "siren": "",
+  "shortDescription": "Entreprise de Ludres active dans le chauffage, la climatisation, le CVC et les énergies renouvelables.",
+  "detailedDescription": "La fiche annuaire indique que M-ENERGIES intervient dans les secteurs du chauffage, de la climatisation, du CVC et des ENR, avec un effectif indiqué de 550 personnes.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "energy",
+    "renewable-energy",
+    "smart-buildings"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "services-maintenance",
+    "engineering"
+  ],
+  "valueProposition": "Services CVC, chauffage, climatisation et énergies renouvelables.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/m-energies/"
+}

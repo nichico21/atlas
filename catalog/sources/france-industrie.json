@@ -1,0 +1,56 @@
+{
+  "id": "france-industrie",
+  "name": "France Industrie",
+  "acronym": null,
+  "description": "Site institutionnel de France Industrie, organisation représentant l’industrie française. La source publie des actualités, prises de position, événements, contenus médias, rapports et indicateurs macroéconomiques relatifs à l’industrie manufacturière en France.",
+  "whyStrategic": "France Industrie constitue une source nationale de référence pour suivre les enjeux de politique industrielle française, les événements structurants de l’écosystème industriel, les rapports publics ou sectoriels et les signaux institutionnels liés à la compétitivité, à l’électrification, à l’emploi, à l’investissement et à la balance commerciale industrielle.",
+  "questionsAnswered": "Quelles sont les actualités récentes de l’industrie française ? Quels événements industriels sont annoncés ? Quels rapports ou prises de position institutionnelles concernent l’industrie ? Quels grands indicateurs économiques sont mis en avant pour l’industrie manufacturière française ? Quels sujets sont relayés par France Industrie dans les médias ?",
+  "owner": "France Industrie",
+  "url": "https://www.franceindustrie.org/",
+  "comments": "La source observée contient notamment des rubriques Actualités, Agenda, Dans les médias et des indicateurs macroéconomiques de l’industrie manufacturière. Aucune API publique n’est identifiée à ce stade.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "monitoring",
+    "economic-signals",
+    "discovery"
+  ],
+  "mainObject": "news",
+  "dataTypes": [
+    "news",
+    "events",
+    "conferences",
+    "trade-shows",
+    "reports",
+    "publications",
+    "studies",
+    "business-sectors"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "industry",
+    "cross-sector"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "weekly",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": "2026-07-24",
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "high",
+  "evaluation": {
+    "strategicValue": 20,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 9,
+    "exploitability": 10
+  },
+  "fsipScore": 66
+}

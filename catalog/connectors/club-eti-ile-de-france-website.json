@@ -1,0 +1,29 @@
+{
+  "id": "club-eti-ile-de-france-website",
+  "label": "Club ETI Île-de-France Site web",
+  "source": "club-eti-ile-de-france",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://clubeti-idf.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 4,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-events",
+    "entity-discovery",
+    "monitor-updates",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer les pages publiques du Club ETI Île-de-France, notamment les pages institutionnelles, les informations relatives à l’ETI Act et les événements publiés. La priorité initiale est l’identification des entités mentionnées et la structuration des informations publiques sur le réseau.",
+  "knownLimitations": "Aucune API ou export structuré n’est identifié à partir des éléments fournis. L’accès aux informations détaillées sur les entreprises membres peut être partiel si aucun annuaire public n’est disponible ou si certaines informations sont réservées aux membres du club.",
+  "recommendedStrategy": "Démarrer par l’exploration du site public et du sitemap lorsqu’il est disponible. Extraire les pages institutionnelles, événements et éventuelles pages de membres. Recouper les entreprises identifiées avec des référentiels officiels avant intégration comme fiches entreprises."
+}

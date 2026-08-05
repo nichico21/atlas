@@ -1,0 +1,27 @@
+{
+  "name": "ESTELEC GROUPE",
+  "commercialName": "ESTELEC GROUPE",
+  "siren": "",
+  "website": "https://www.estelec-groupe.com/",
+  "shortDescription": "Entreprise de Scherwiller spécialisée dans la fabrication de cartes et câbles électroniques.",
+  "detailedDescription": "La fiche annuaire présente ESTELEC groupe comme une entreprise du secteur de la fabrication de cartes et câbles électroniques, avec un effectif indiqué de 130 personnes.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "electronics"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de cartes et câbles électroniques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/estelec-groupe/"
+}

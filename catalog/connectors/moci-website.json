@@ -1,0 +1,30 @@
+{
+  "id": "moci-website",
+  "label": "Le Moci – Moniteur du Commerce International Site web",
+  "source": "le-moci",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.lemoci.com/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "daily",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-news",
+    "browse-publications",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à explorer les rubriques éditoriales du site Le Moci, notamment les actualités, dossiers, analyses et guides pratiques liés au commerce international.",
+  "knownLimitations": "Aucune API publique structurée n’a été identifiée. Les contenus sont éditoriaux et non normalisés ; l’extraction d’entreprises, pays, aides ou réglementations nécessite un traitement NLP et des contrôles de qualité. Certains contenus peuvent être soumis à des restrictions d’accès ou de réutilisation.",
+  "recommendedStrategy": "Utiliser le sitemap et les pages de rubriques comme points d’entrée, collecter les métadonnées d’articles, dates, titres, auteurs, catégories et contenus textuels, puis extraire les entités nommées utiles à Atlas. Mettre en place une synchronisation quotidienne et limiter la réutilisation aux métadonnées, extraits courts et signaux dérivés conformément aux conditions du site."
+}

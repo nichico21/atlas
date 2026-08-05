@@ -8,7 +8,7 @@
     "required": true,
     "description": "Nom complet de la source.",
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -26,7 +26,7 @@
     "required": false,
     "description": "Sigle ou acronyme de la source.",
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -44,7 +44,7 @@
     "required": true,
     "description": "Présentation synthétique de la source.",
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -61,7 +61,7 @@
     "type": "long-text",
     "required": true,
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -78,7 +78,7 @@
     "type": "long-text",
     "required": true,
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -95,7 +95,7 @@
     "type": "text",
     "required": true,
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -112,7 +112,7 @@
     "type": "url",
     "required": false,
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": false,
@@ -129,7 +129,7 @@
     "type": "long-text",
     "required": false,
 
-    "source": null,
+    "valueSource": null,
 
     "ai": {
       "index": true,
@@ -148,7 +148,7 @@
     "required": true,
     "description": "Grande famille à laquelle appartient la source.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "source-categories"
     },
@@ -169,7 +169,7 @@
     "required": true,
     "description": "Fonction principale de la source dans l'écosystème.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "role"
     },
@@ -190,7 +190,7 @@
     "required": true,
     "description": "Type d'information principalement couvert par la source.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "main-object"
     },
@@ -234,7 +234,7 @@
     "required": true,
     "description": "Nature technique de la source.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "source-type"
     },
@@ -255,7 +255,7 @@
     "required": true,
     "description": "Périmètre géographique couvert par la source.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "geographic-scope"
     },
@@ -276,7 +276,7 @@
     "required": true,
     "description": "Statut actuel de la source dans Atlas.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "statuses"
     },
@@ -297,7 +297,7 @@
     "required": false,
     "description": "Secteurs économiques couverts par la source.",
 
-    "source": {
+    "valueSource": {
       "type": "vocabulary",
       "name": "primary-sectors"
     },
@@ -535,11 +535,6 @@
     "required": true,
     "parent": "evaluation",
     "description": "Facilité d'exploitation des données par Atlas.",
-
-
-  "rating": {
-    "model": "default-rating"
-  },
 
     "valueSource": null,
 

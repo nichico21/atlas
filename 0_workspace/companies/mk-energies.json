@@ -1,0 +1,30 @@
+{
+  "name": "MK ENERGIES",
+  "commercialName": "MK ENERGIES",
+  "siren": "",
+  "shortDescription": "Entreprise de Saint-Léonard active dans l’électricité et l’automatisme.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "energy",
+    "industrial-automation"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "installation-commissioning",
+    "systems-integration"
+  ],
+  "valueProposition": "Solutions d'électricité et d'automatisme.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

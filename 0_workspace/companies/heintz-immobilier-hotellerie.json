@@ -1,0 +1,34 @@
+{
+  "siren": "heintz-immobilier-hotellerie",
+  "name": "Heintz immobilier & hôtellerie",
+  "commercialName": "Groupe Heintz",
+  "foundingYear": 2010,
+  "shortDescription": "Heintz immobilier & hôtellerie est une branche du groupe Heintz spécialisée dans l’immobilier d’entreprise, la promotion immobilière et l’hôtellerie, avec une activité centrée sur le montage d’opérations investisseurs/locataires, la gestion d’actifs et le développement/gestion d’hôtels dans le Grand Est.",
+  "detailedDescription": "Implanté depuis plus de 60 ans dans le Grand Est comme leader du transport de marchandises et de la logistique, le groupe Heintz a créé Heintz immobilier & hôtellerie en 2010. La société associe expertise immobilière et hôtelière pour développer des projets sur mesure, en privilégiant la durabilité et la qualité. Elle est spécialisée dans le montage d’opérations investisseurs/locataires et la gestion d’actifs en immobilier d’entreprise. Depuis 2013, elle développe et gère également des hôtels. Elle gère environ 20 000 m² en immobilier d’entreprise et 11 hôtels sous franchises Accor, Louvres et B&B, majoritairement situés en Moselle et dans le Grand Est. En 2023, son architecture de marque s’organise autour de trois branches : Heintz foncière immobilière, Heintz promotion immobilière et Heintz hôtellerie. L’entreprise indique un engagement RSE, notamment via l’utilisation de matériaux durables, les filières locales et la participation à des projets sociaux et environnementaux.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "studies-consulting",
+    "logistics-supply-chain"
+  ],
+  "labels": [
+    "rse-esg"
+  ],
+  "valueProposition": "Associer expertise immobilière et hôtelière pour développer et gérer des projets durables et sur mesure en immobilier d’entreprise et hôtellerie dans le Grand Est.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/groupe-heintz/"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "CHARBONNEAUX BRABANT",
+  "commercialName": "CHARBONNEAUX BRABANT",
+  "siren": "",
+  "shortDescription": "Entreprise de Reims fabriquant moutardes, mayonnaises, vinaigres et sauces, et réalisant la formulation et le conditionnement de produits d’entretien et de bricolage.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food",
+    "chemicals-and-materials"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "research-development"
+  ],
+  "valueProposition": "Fabrication agroalimentaire et formulation-conditionnement de produits d'entretien et bricolage.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "eurosatory-website",
+  "label": "Eurosatory Site web",
+  "source": "eurosatory",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.eurosatory.com/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "weekly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "browse-directory",
+    "browse-news",
+    "browse-events",
+    "monitor-updates",
+    "relationship-mapping",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à explorer le site officiel Eurosatory afin d’identifier les pages relatives au salon, aux exposants, aux conférences, aux intervenants, aux actualités et aux informations de participation.",
+  "knownLimitations": "Le site peut contenir des éléments dynamiques, notamment des compteurs, formulaires ou listes d’exposants, qui peuvent nécessiter un rendu JavaScript ou une stratégie d’extraction spécifique. Les données chiffrées rendues dynamiquement ne doivent pas être intégrées sans vérification.",
+  "recommendedStrategy": "Démarrer par le sitemap et les rubriques structurantes du site, puis isoler les sections exposants, programme, conférences, actualités et informations pratiques. Extraire les entités nommées, dates, thématiques, pays et relations événement-acteur. Recouper les informations critiques avec les pages officielles des exposants ou communiqués associés lorsque disponibles."
+}

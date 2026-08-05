@@ -59,12 +59,12 @@ export interface ConnectorDefinition {
    * Vocabulaire :
    * access-methods.json
    */
-  accessMethod: string;
+  primaryAccessMethod: string;
 
   /**
    * URL principale utilisée par le connecteur.
    */
-  baseUrl: string;
+  url: string;
 
   /**
    * Authentification nécessaire ?

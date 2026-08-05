@@ -1,0 +1,55 @@
+{
+  "id": "club-eti-grand-est",
+  "name": "Club ETI Grand Est",
+  "acronym": null,
+  "description": "Site officiel du Club ETI Grand Est, réseau régional réunissant des ETI et PME de croissance implantées en Région Grand Est. La source présente le club, ses ambitions, ses commissions, un annuaire de membres, des offres d’emploi publiées par les adhérents, un programme et des actualités.",
+  "whyStrategic": "Cette source permet d’identifier des entreprises de taille intermédiaire et PME de croissance ancrées dans le Grand Est, souvent industrielles ou structurantes pour le territoire. Elle est utile pour la découverte d’entreprises régionales qualifiées, la cartographie de réseaux économiques territoriaux et la veille sur les dynamiques de recrutement ou d’actualité des membres. Sa valeur reste ciblée car elle couvre uniquement les adhérents du club et ne constitue pas un référentiel exhaustif des ETI françaises.",
+  "questionsAnswered": "Quelles ETI et PME de croissance sont membres du Club ETI Grand Est ? Quelles entreprises régionales sont mises en avant par ce réseau ? Quels sujets collectifs, commissions ou programmes structurent le club ? Quels membres recrutent ou publient des actualités ?",
+  "owner": "Club ETI Grand Est",
+  "url": "https://www.clubetigrandest.fr/",
+  "comments": "Analyse réalisée à partir du contenu visible de la page d’accueil transmise : navigation Le club, Commissions, Annuaire, Offres d’emploi, Programme, Actualités ; mention explicite des adhérents et des ambitions du club.",
+  "sourceCategory": "territorial-network",
+  "role": [
+    "discovery",
+    "monitoring",
+    "relationship-mapping"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "members",
+    "business-sectors",
+    "committees",
+    "working-groups",
+    "recruitment",
+    "news",
+    "events"
+  ],
+  "sourceType": "association",
+  "geographicScope": "regional",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "cross-sector"
+  ],
+  "estimatedCompanies": null,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-05",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "medium",
+  "integrationPriority": "low",
+  "evaluation": {
+    "strategicValue": 10,
+    "reliability": 12,
+    "informationRichness": 10,
+    "coverage": 6,
+    "exploitability": 10
+  },
+  "fsipScore": 48
+}

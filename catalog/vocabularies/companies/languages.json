@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "Langues de travail de l'entreprise.",
+  "values": [
+    { "id": "french", "label": "Français" },
+    { "id": "english", "label": "Anglais" },
+    { "id": "arabic", "label": "Arabe" },
+    { "id": "spanish", "label": "Espagnol" },
+    { "id": "german", "label": "Allemand" },
+    { "id": "other", "label": "Autre" }
+  ]
+}

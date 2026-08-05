@@ -1,0 +1,33 @@
+{
+  "name": "LAGARDE MEREGNANI",
+  "commercialName": "LAGARDE MEREGNANI",
+  "siren": "",
+  "website": "https://www.lagardemeregnani.fr/",
+  "shortDescription": "Entreprise de Maxéville active dans la finition du bâtiment.",
+  "detailedDescription": "Lagarde Meregnani intervient sur des chantiers de travaux neufs ou de rénovation en peinture et décoration, revêtements de sols et revêtements muraux, ravalement de façade, isolation par l’extérieur, carrelages et faïences. L’entreprise travaille pour les professionnels et les particuliers, gère l’ensemble des corps d’état et coordonne les interventions dans le Grand Est et sur toute la France.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction",
+    "building-and-public-works"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "services-maintenance",
+    "other",
+    "project-management"
+  ],
+  "geographicZones": [
+    "europe"
+  ],
+  "valueProposition": "Lagarde Meregnani prend en charge et coordonne l’ensemble des corps d’état pour des chantiers de finition du bâtiment en neuf comme en rénovation.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft"
+}

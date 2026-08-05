@@ -1,0 +1,26 @@
+{
+  "name": "Céterra",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith active en ingénierie environnementale et en dépollution des sols.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "environment",
+    "industrial-services"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "studies-consulting"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rapport-economique-2026-website",
+  "label": "Rapport économique 2026 Site web",
+  "source": "rapport-economique-2026",
+  "version": "1.0.0",
+  "enabled": false,
+  "primaryAccessMethod": "website",
+  "url": "https://example.invalid",
+  "authenticationRequired": false,
+  "explorationMode": "manual",
+  "maxDepth": 0,
+  "followInternalLinks": false,
+  "respectRobotsTxt": true,
+  "useSitemap": false,
+  "syncFrequency": "manual",
+  "lastSync": null,
+  "lastVerified": null,
+  "capabilities": [
+    "metadata-extraction"
+  ],
+  "notes": "Connecteur non activable : aucune URL officielle n’a été fournie. L’URL placeholder doit être remplacée avant validation Atlas.",
+  "knownLimitations": "Absence d’URL source ; impossibilité de vérifier l’identité de la source, son propriétaire, son contenu, sa licence, sa fréquence de mise à jour et sa structure technique.",
+  "recommendedStrategy": "Demander l’URL officielle de la source, puis relancer la cartographie complète avant création du connecteur."
+}

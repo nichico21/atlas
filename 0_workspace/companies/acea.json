@@ -1,0 +1,29 @@
+{
+  "name": "ACEA",
+  "commercialName": "ACEA",
+  "siren": "",
+  "website": "https://www.acea-ems.com/",
+  "shortDescription": "Entreprise de Gundershoffen spécialisée dans la fabrication de cartes électroniques et l’assemblage de produits finis.",
+  "detailedDescription": "La fiche annuaire du Club ETI Grand Est présente ACEA comme une entreprise du secteur de la fabrication de cartes électroniques et de l’assemblage de produits finis. Elle indique 70 salariés et un chiffre d’affaires de 19, sans unité précisée dans le contenu fourni.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "electronics",
+    "industry"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication électronique et assemblage de produits finis.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/acea/"
+}

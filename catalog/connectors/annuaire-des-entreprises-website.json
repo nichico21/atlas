@@ -1,0 +1,30 @@
+{
+  "id": "annuaire-des-entreprises-website",
+  "label": "Annuaire des Entreprises Site web",
+  "source": "annuaire-des-entreprises",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://annuaire-entreprises.data.gouv.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 5,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-04",
+  "capabilities": [
+    "search-company",
+    "company-details",
+    "browse-directory",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur destiné à exploiter le moteur de recherche public de l’Annuaire des Entreprises et les pages de détail d’entités accessibles sans authentification.",
+  "knownLimitations": "L’accès identifié ici est le site web public. Les modalités exactes de pagination, de recherche avancée, de limitation de requêtes et les éventuels endpoints internes doivent être vérifiés avant automatisation. Certaines données affichées peuvent provenir de référentiels tiers officiels et doivent être rattachées à leur source primaire lorsque c’est nécessaire.",
+  "recommendedStrategy": "Commencer par une exploration contrôlée du site public : recherche par nom, SIREN ou SIRET, extraction des pages de détail, normalisation des identifiants et conservation des liens vers les pages officielles. Respecter robots.txt et limiter la fréquence de collecte. Évaluer ensuite si un accès API public officiel ou un jeu de données open data équivalent permet de remplacer ou compléter le scraping."
+}

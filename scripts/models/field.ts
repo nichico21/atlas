@@ -153,4 +153,6 @@ parent?: string;
    */
   formula?: string;
 
+  aiFillable?: boolean;
+
 }

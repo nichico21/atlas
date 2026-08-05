@@ -1,0 +1,28 @@
+{
+  "name": "Schreiber",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith active dans le gros œuvre industriel, le génie civil et l’entreprise générale.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "building-and-public-works",
+    "construction",
+    "industry"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "engineering",
+    "project-management",
+    "other"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

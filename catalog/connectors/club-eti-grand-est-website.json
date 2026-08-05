@@ -1,0 +1,31 @@
+{
+  "id": "club-eti-grand-est-website",
+  "label": "Club ETI Grand Est Site web",
+  "source": "club-eti-grand-est",
+  "version": "1.0.0",
+  "enabled": true,
+  "primaryAccessMethod": "website",
+  "url": "https://www.clubetigrandest.fr/",
+  "authenticationRequired": false,
+  "explorationMode": "full-site",
+  "maxDepth": 4,
+  "followInternalLinks": true,
+  "respectRobotsTxt": true,
+  "useSitemap": true,
+  "syncFrequency": "monthly",
+  "lastSync": null,
+  "lastVerified": "2026-08-05",
+  "capabilities": [
+    "browse-directory",
+    "browse-news",
+    "browse-events",
+    "monitor-updates",
+    "entity-discovery",
+    "metadata-extraction",
+    "content-extraction",
+    "structured-output"
+  ],
+  "notes": "Connecteur web destiné à explorer prioritairement l’annuaire des adhérents, les pages de présentation du club, les commissions, le programme, les actualités et les offres d’emploi. Les entités découvertes devront être rapprochées ensuite avec SIRENE pour fiabiliser les identifiants et informations administratives.",
+  "knownLimitations": "Aucune API ou export structuré n’a été identifié dans le contenu fourni. Les fiches membres peuvent être limitées à des éléments de présentation ou des logos, et ne fournissent pas nécessairement de SIREN, d’adresse complète ou de données sectorielles normalisées. La couverture est limitée aux adhérents du club et peut ne pas être exhaustive pour les ETI du Grand Est.",
+  "recommendedStrategy": "Démarrer par le sitemap ou la navigation principale, puis crawler les rubriques Annuaire, Actualités, Programme, Commissions et Offres d’emploi. Extraire les noms d’entreprises membres, les liens vers les fiches ou sites externes, les éléments descriptifs et les signaux de recrutement ou d’actualité. Dédupliquer les entreprises par nom, puis enrichir et vérifier via SIRENE avant intégration dans Atlas."
+}

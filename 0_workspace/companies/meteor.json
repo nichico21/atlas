@@ -1,0 +1,25 @@
+{
+  "name": "METEOR",
+  "commercialName": "METEOR",
+  "siren": "",
+  "shortDescription": "Entreprise de Hochfelden active dans la fabrication de bière.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de bière.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

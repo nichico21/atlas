@@ -1,0 +1,24 @@
+{
+  "name": "Edifize",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith mentionnée comme intervenant dans l’informatique.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "digital"
+  ],
+  "offerType": [
+    "service",
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "software-digital-solutions"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

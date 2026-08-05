@@ -1,0 +1,31 @@
+{
+  "name": "Noremat",
+  "siren": "",
+  "foundingYear": 1981,
+  "shortDescription": "Noremat est décrite comme l’entreprise à l’origine du groupe Actibac, spécialisée initialement dans les pièces de rechange et le service après-vente pour l’entretien des accotements routiers, puis dans la conception de pièces, matériels de fauchage et véhicules dédiés à l’entretien de l’environnement routier.",
+  "detailedDescription": "Créée en 1981, Noremat a d’abord fourni des pièces de rechange et du service après-vente aux acteurs de l’entretien des accotements routiers. L’entreprise a ensuite progressivement conçu ses propres pièces de rechange, des matériels de fauchage à partir de 1989, puis un véhicule pensé et conçu pour l’entretien de l’environnement routier, capable de collecter l’herbe des accotements en vue de sa valorisation.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "industrial-machinery",
+    "environment",
+    "industrial-services"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "services-maintenance",
+    "engineering"
+  ],
+  "valueProposition": "Noremat développe des pièces, services, matériels de fauchage et véhicules spécialisés pour l’entretien et la valorisation de l’environnement routier.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/actibac/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gifen",
+  "name": "Groupement des Industriels Français de l'Énergie Nucléaire",
+  "acronym": "GIFEN",
+  "description": "Le GIFEN est le collectif professionnel représentant la filière nucléaire française. Il rassemble des entreprises de toutes tailles, des organisations professionnelles et des associations autour de l’excellence de la filière nucléaire française. Le site présente l’écosystème de la filière, ses chiffres clés, ses membres, ses actualités et ses événements.",
+  "whyStrategic": "Le GIFEN constitue une source de référence pour identifier et qualifier les acteurs industriels de la filière nucléaire française. Pour Atlas, cette source est stratégique car elle permet de cartographier un secteur industriel souverain, fortement exportateur et structurant pour l’économie française, avec des informations directement issues de l’organisation professionnelle représentative du secteur.",
+  "questionsAnswered": "Quels sont les acteurs de la filière nucléaire française ? Quelles entreprises, organisations professionnelles ou associations sont liées au GIFEN ? Quels secteurs, savoir-faire ou expertises industriels sont représentés ? Quelles actualités, événements ou publications concernent la filière nucléaire française ?",
+  "owner": "GIFEN – Groupement des Industriels Français de l'Énergie Nucléaire",
+  "url": "https://www.gifen.fr/",
+  "comments": "La page source indique que la filière nucléaire française représente 2 220 entreprises et 250 000 emplois. L’existence exacte, le périmètre et la structure de l’annuaire doivent être vérifiés lors de l’implémentation du connecteur.",
+  "sourceCategory": "professional-networks",
+  "role": [
+    "discovery",
+    "data-enrichment",
+    "relationship-mapping",
+    "monitoring",
+    "recognition"
+  ],
+  "mainObject": "member",
+  "dataTypes": [
+    "companies",
+    "contact-details",
+    "business-sectors",
+    "services",
+    "expertise",
+    "members",
+    "events",
+    "news",
+    "publications"
+  ],
+  "sourceType": "federation",
+  "geographicScope": "national",
+  "status": "ready-to-connect",
+  "primarySectors": [
+    "nuclear",
+    "energy",
+    "industry",
+    "industrial-services"
+  ],
+  "estimatedCompanies": 2220,
+  "updateFrequency": "unknown",
+  "lastVerified": "2026-08-04",
+  "accessMethod": [
+    "website",
+    "scraping"
+  ],
+  "collectionDifficulty": "medium",
+  "license": "unknown",
+  "lastSourceUpdate": null,
+  "sourceConnector": true,
+  "developmentPriority": "high",
+  "integrationPriority": "very-high",
+  "evaluation": {
+    "strategicValue": 25,
+    "reliability": 12,
+    "informationRichness": 15,
+    "coverage": 12,
+    "exploitability": 10
+  },
+  "fsipScore": 74
+}

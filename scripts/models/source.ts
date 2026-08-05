@@ -48,9 +48,11 @@ export interface Source {
 
     lastVerified: Date; 
 
-    licenses: string; 
+    license?: string; 
 
     connector: SourceConnector; 
+
+    sourceConnector?: boolean;
 
     capabilities: SourceCapabilities;
 

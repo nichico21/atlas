@@ -1,0 +1,29 @@
+{
+  "name": "MATHIS",
+  "commercialName": "MATHIS",
+  "siren": "",
+  "shortDescription": "Entreprise de Muttersholtz active dans la construction bois.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing",
+    "installation-commissioning",
+    "engineering"
+  ],
+  "valueProposition": "Solutions de construction bois.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

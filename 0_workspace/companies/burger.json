@@ -1,0 +1,26 @@
+{
+  "name": "BURGER",
+  "commercialName": "BURGER",
+  "siren": "",
+  "shortDescription": "Entreprise de Lièpvre spécialisée dans la fabrication de charpentes et de menuiserie.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction",
+    "materials"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "equipment-manufacturing"
+  ],
+  "valueProposition": "Fabrication de charpentes et menuiserie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

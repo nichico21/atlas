@@ -1,0 +1,25 @@
+{
+  "name": "Groupe Pierre Schmidt",
+  "siren": "",
+  "website": "https://www.pierre-schmidt.fr/",
+  "shortDescription": "Groupe Pierre Schmidt est une entreprise du secteur de la charcuterie et du traiteur, référencée dans l’annuaire du Club ETI Grand Est.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "other"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/groupe-pierre-schmidt-stoffler/"
+}

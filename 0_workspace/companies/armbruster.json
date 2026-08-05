@@ -1,0 +1,25 @@
+{
+  "name": "ARMBRUSTER",
+  "commercialName": "ARMBRUSTER",
+  "siren": "",
+  "shortDescription": "Entreprise de Colmar active dans l’agriculture, l’approvisionnement et la collecte.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "valueProposition": "Approvisionnement et collecte pour l'agriculture.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-05",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

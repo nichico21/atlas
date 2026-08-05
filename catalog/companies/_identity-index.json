@@ -1,0 +1,464 @@
+{
+  "emi": {
+    "companyId": "emi",
+    "siren": null,
+    "normalizedAliases": [
+      "emi"
+    ]
+  },
+  "senstronic": {
+    "companyId": "senstronic",
+    "siren": null,
+    "normalizedAliases": [
+      "senstronic"
+    ]
+  },
+  "quiri": {
+    "companyId": "quiri",
+    "siren": null,
+    "normalizedAliases": [
+      "quiri"
+    ]
+  },
+  "colin-ingredients": {
+    "companyId": "colin-ingredients",
+    "siren": null,
+    "normalizedAliases": [
+      "colin ingredients"
+    ]
+  },
+  "acea": {
+    "companyId": "acea",
+    "siren": null,
+    "normalizedAliases": [
+      "acea"
+    ]
+  },
+  "lagarde-meregnani": {
+    "companyId": "lagarde-meregnani",
+    "siren": null,
+    "normalizedAliases": [
+      "lagarde meregnani"
+    ]
+  },
+  "berthold": {
+    "companyId": "berthold",
+    "siren": null,
+    "normalizedAliases": [
+      "berthold"
+    ]
+  },
+  "zenith": {
+    "companyId": "zenith",
+    "siren": null,
+    "normalizedAliases": [
+      "zenith"
+    ]
+  },
+  "divalto": {
+    "companyId": "divalto",
+    "siren": null,
+    "normalizedAliases": [
+      "divalto"
+    ]
+  },
+  "vhm-groupe-victor-heinrich-molsheim": {
+    "companyId": "vhm-groupe-victor-heinrich-molsheim",
+    "siren": null,
+    "normalizedAliases": [
+      "vhm groupe victor heinrich molsheim"
+    ]
+  },
+  "mauffrey": {
+    "companyId": "mauffrey",
+    "siren": null,
+    "normalizedAliases": [
+      "mauffrey"
+    ]
+  },
+  "m-energies": {
+    "companyId": "m-energies",
+    "siren": null,
+    "normalizedAliases": [
+      "m energies"
+    ]
+  },
+  "derrey": {
+    "companyId": "derrey",
+    "siren": null,
+    "normalizedAliases": [
+      "derrey"
+    ]
+  },
+  "baumert": {
+    "companyId": "baumert",
+    "siren": null,
+    "normalizedAliases": [
+      "baumert"
+    ]
+  },
+  "lk-kunegel": {
+    "companyId": "lk-kunegel",
+    "siren": null,
+    "normalizedAliases": [
+      "lk kunegel"
+    ]
+  },
+  "groupe-tilly": {
+    "companyId": "groupe-tilly",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe tilly"
+    ]
+  },
+  "sablieres-j-leonhart": {
+    "companyId": "sablieres-j-leonhart",
+    "siren": null,
+    "normalizedAliases": [
+      "sablieres j leonhart"
+    ]
+  },
+  "kardham": {
+    "companyId": "kardham",
+    "siren": null,
+    "normalizedAliases": [
+      "kardham"
+    ]
+  },
+  "estelec-groupe": {
+    "companyId": "estelec-groupe",
+    "siren": null,
+    "normalizedAliases": [
+      "estelec groupe"
+    ]
+  },
+  "actibac": {
+    "companyId": "actibac",
+    "siren": null,
+    "normalizedAliases": [
+      "actibac"
+    ]
+  },
+  "groupe-pierre-schmidt-stoffler": {
+    "companyId": "groupe-pierre-schmidt-stoffler",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe pierre schmidt stoffler"
+    ]
+  },
+  "scierie-ernest-weber": {
+    "companyId": "scierie-ernest-weber",
+    "siren": null,
+    "normalizedAliases": [
+      "scierie ernest weber"
+    ]
+  },
+  "normalu-groupe-barrisol": {
+    "companyId": "normalu-groupe-barrisol",
+    "siren": null,
+    "normalizedAliases": [
+      "normalu groupe barrisol"
+    ]
+  },
+  "ks-groupe": {
+    "companyId": "ks-groupe",
+    "siren": null,
+    "normalizedAliases": [
+      "ks groupe"
+    ]
+  },
+  "siat": {
+    "companyId": "siat",
+    "siren": null,
+    "normalizedAliases": [
+      "siat"
+    ]
+  },
+  "mk-energies": {
+    "companyId": "mk-energies",
+    "siren": null,
+    "normalizedAliases": [
+      "mk energies"
+    ]
+  },
+  "groupe-galopin": {
+    "companyId": "groupe-galopin",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe galopin"
+    ]
+  },
+  "de-dietrich-process-systems": {
+    "companyId": "de-dietrich-process-systems",
+    "siren": null,
+    "normalizedAliases": [
+      "de dietrich process systems"
+    ]
+  },
+  "charbonneaux-brabant": {
+    "companyId": "charbonneaux-brabant",
+    "siren": null,
+    "normalizedAliases": [
+      "charbonneaux brabant"
+    ]
+  },
+  "woehl": {
+    "companyId": "woehl",
+    "siren": null,
+    "normalizedAliases": [
+      "woehl"
+    ]
+  },
+  "fehr": {
+    "companyId": "fehr",
+    "siren": null,
+    "normalizedAliases": [
+      "fehr"
+    ]
+  },
+  "soprema": {
+    "companyId": "soprema",
+    "siren": null,
+    "normalizedAliases": [
+      "soprema"
+    ]
+  },
+  "almond": {
+    "companyId": "almond",
+    "siren": null,
+    "normalizedAliases": [
+      "almond"
+    ]
+  },
+  "2crsi": {
+    "companyId": "2crsi",
+    "siren": null,
+    "normalizedAliases": [
+      "2crsi"
+    ]
+  },
+  "armbruster": {
+    "companyId": "armbruster",
+    "siren": null,
+    "normalizedAliases": [
+      "armbruster"
+    ]
+  },
+  "energys": {
+    "companyId": "energys",
+    "siren": null,
+    "normalizedAliases": [
+      "energys"
+    ]
+  },
+  "fortal": {
+    "companyId": "fortal",
+    "siren": null,
+    "normalizedAliases": [
+      "fortal"
+    ]
+  },
+  "wig-france": {
+    "companyId": "wig-france",
+    "siren": null,
+    "normalizedAliases": [
+      "wig france"
+    ]
+  },
+  "meteor": {
+    "companyId": "meteor",
+    "siren": null,
+    "normalizedAliases": [
+      "meteor"
+    ]
+  },
+  "mephisto": {
+    "companyId": "mephisto",
+    "siren": null,
+    "normalizedAliases": [
+      "mephisto"
+    ]
+  },
+  "lebronze-alloys": {
+    "companyId": "lebronze-alloys",
+    "siren": null,
+    "normalizedAliases": [
+      "lebronze alloys"
+    ]
+  },
+  "sermes": {
+    "companyId": "sermes",
+    "siren": null,
+    "normalizedAliases": [
+      "sermes"
+    ]
+  },
+  "la-fonte-ardennaise": {
+    "companyId": "la-fonte-ardennaise",
+    "siren": null,
+    "normalizedAliases": [
+      "la fonte ardennaise"
+    ]
+  },
+  "champagne-bollinger": {
+    "companyId": "champagne-bollinger",
+    "siren": null,
+    "normalizedAliases": [
+      "champagne bollinger"
+    ]
+  },
+  "piscines-waterair": {
+    "companyId": "piscines-waterair",
+    "siren": null,
+    "normalizedAliases": [
+      "piscines waterair"
+    ]
+  },
+  "mathis": {
+    "companyId": "mathis",
+    "siren": null,
+    "normalizedAliases": [
+      "mathis"
+    ]
+  },
+  "lohr": {
+    "companyId": "lohr",
+    "siren": null,
+    "normalizedAliases": [
+      "lohr"
+    ]
+  },
+  "fm-logistic": {
+    "companyId": "fm-logistic",
+    "siren": null,
+    "normalizedAliases": [
+      "fm logistic"
+    ]
+  },
+  "demathieu-bard": {
+    "companyId": "demathieu-bard",
+    "siren": null,
+    "normalizedAliases": [
+      "demathieu bard"
+    ]
+  },
+  "rector-lesage": {
+    "companyId": "rector-lesage",
+    "siren": null,
+    "normalizedAliases": [
+      "rector lesage"
+    ]
+  },
+  "sovec": {
+    "companyId": "sovec",
+    "siren": null,
+    "normalizedAliases": [
+      "sovec"
+    ]
+  },
+  "heppner": {
+    "companyId": "heppner",
+    "siren": null,
+    "normalizedAliases": [
+      "heppner"
+    ]
+  },
+  "semin": {
+    "companyId": "semin",
+    "siren": null,
+    "normalizedAliases": [
+      "semin"
+    ]
+  },
+  "groupe-esaris-industrie": {
+    "companyId": "groupe-esaris-industrie",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe esaris industrie"
+    ]
+  },
+  "r-gds": {
+    "companyId": "r-gds",
+    "siren": null,
+    "normalizedAliases": [
+      "r gds"
+    ]
+  },
+  "exacompta-clairefontaine": {
+    "companyId": "exacompta-clairefontaine",
+    "siren": null,
+    "normalizedAliases": [
+      "exacompta clairefontaine"
+    ]
+  },
+  "burger": {
+    "companyId": "burger",
+    "siren": null,
+    "normalizedAliases": [
+      "burger"
+    ]
+  },
+  "axon-cables": {
+    "companyId": "axon-cables",
+    "siren": null,
+    "normalizedAliases": [
+      "axon cables"
+    ]
+  },
+  "lingenheld": {
+    "companyId": "lingenheld",
+    "siren": null,
+    "normalizedAliases": [
+      "lingenheld"
+    ]
+  },
+  "adista": {
+    "companyId": "adista",
+    "siren": null,
+    "normalizedAliases": [
+      "adista"
+    ]
+  },
+  "alsapan": {
+    "companyId": "alsapan",
+    "siren": null,
+    "normalizedAliases": [
+      "alsapan"
+    ]
+  },
+  "heintz-immobilier-hotellerie": {
+    "companyId": "heintz-immobilier-hotellerie",
+    "siren": null,
+    "normalizedAliases": [
+      "heintz immobilier hotellerie"
+    ]
+  },
+  "guillet-s-a": {
+    "companyId": "guillet-s-a",
+    "siren": null,
+    "normalizedAliases": [
+      "guillet s a"
+    ]
+  },
+  "guillet": {
+    "companyId": "guillet",
+    "siren": null,
+    "normalizedAliases": [
+      "guillet"
+    ]
+  },
+  "socomec": {
+    "companyId": "socomec",
+    "siren": null,
+    "normalizedAliases": [
+      "socomec"
+    ]
+  },
+  "groupe-oci": {
+    "companyId": "groupe-oci",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe oci"
+    ]
+  }
+}

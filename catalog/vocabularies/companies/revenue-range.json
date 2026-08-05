@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "Tranches de chiffre d'affaires annuel.",
+  "values": [
+    { "id": "under-1m", "label": "Moins de 1 M€" },
+    { "id": "1m-10m", "label": "1 à 10 M€" },
+    { "id": "10m-50m", "label": "10 à 50 M€" },
+    { "id": "50m-250m", "label": "50 à 250 M€" },
+    { "id": "250m-1b", "label": "250 M€ à 1 Md€" },
+    { "id": "over-1b", "label": "Plus de 1 Md€" }
+  ]
+}
