@@ -17,6 +17,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "GROUPE PIERRE SCHMIDT STOFFLER",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -35,6 +43,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Weyersheim (Bas-Rhin), active dans la charcuterie et le traiteur.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -52,6 +68,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -74,6 +98,16 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "agriculture-and-food"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -98,6 +132,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -119,6 +164,16 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -158,6 +213,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -167,6 +230,18 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "agri-industrie-viande"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ]

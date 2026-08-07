@@ -6,7 +6,12 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "energy",
-    "industrial-automation"
+    "industrial-automation",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "service",
@@ -16,14 +21,19 @@
   "keyCapabilities": [
     "engineering",
     "installation-commissioning",
-    "systems-integration"
+    "systems-integration",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
   ],
   "valueProposition": "Solutions d'électricité et d'automatisme.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

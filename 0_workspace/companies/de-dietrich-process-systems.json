@@ -7,7 +7,12 @@
   "primarySectors": [
     "industrial-machinery",
     "pharmaceuticals",
-    "chemicals-and-materials"
+    "chemicals-and-materials",
+    "healthcare"
+  ],
+  "subSectors": [
+    "chimie-chimie",
+    "sante-industrie-pharmaceutique"
   ],
   "offerType": [
     "product-equipment",
@@ -17,14 +22,19 @@
   "keyCapabilities": [
     "equipment-manufacturing",
     "systems-integration",
-    "engineering"
+    "engineering",
+    "serial-manufacturing"
   ],
-  "valueProposition": "Équipements et systèmes complets pour procédés pharmaceutiques et chimiques.",
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "system-integrator"
+  ],
+  "valueProposition": "Fournir des équipements et systèmes complets pour les industries pharmaceutique, chimique et de chimie fine.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

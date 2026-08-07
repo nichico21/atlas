@@ -17,6 +17,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "VHM GROUPE VICTOR HEINRICH MOLSHEIM SA",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -35,6 +43,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Molsheim, active dans le transport de l’eau, l’aménagement urbain et la fonderie industrielle.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -52,6 +68,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -81,6 +105,18 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "water",
+          "construction",
+          "mining-and-metallurgy"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -105,6 +141,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -128,6 +175,17 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "serial-manufacturing",
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -157,6 +215,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "VHM",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "siren": [
@@ -167,6 +233,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -176,6 +250,33 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "eau-equipements",
+          "construction-infrastructures",
+          "mines-fonderie-forges"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "component-manufacturer",
+          "service-provider"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ]

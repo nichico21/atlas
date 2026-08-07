@@ -7,18 +7,25 @@
   "primarySectors": [
     "agriculture-and-food"
   ],
+  "subSectors": [
+    "agri-grandes-cultures"
+  ],
   "offerType": [
     "service"
   ],
   "keyCapabilities": [
     "logistics-supply-chain"
   ],
+  "supplyChainPosition": [
+    "service-provider",
+    "raw-material-supplier"
+  ],
   "valueProposition": "Approvisionnement et collecte pour l'agriculture.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

@@ -9,20 +9,24 @@
     "building-and-public-works",
     "materials"
   ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
   "offerType": [
     "service",
     "product-equipment"
   ],
   "keyCapabilities": [
     "installation-commissioning",
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
   ],
   "valueProposition": "Solutions et travaux de revêtement pour murs et plafonds.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

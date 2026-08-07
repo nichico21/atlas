@@ -6,20 +6,28 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "metallurgy",
-    "industry"
+    "industry",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "mines-fonderie-forges"
   ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "valueProposition": "Savoir-faire industriel en fonderie.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

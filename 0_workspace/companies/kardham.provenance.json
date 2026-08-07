@@ -25,6 +25,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "KARDHAM",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -50,6 +58,14 @@
         "sourceReliability": 12,
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Strasbourg (Bas-Rhin), active comme architecte, architecte d’intérieur, et dans l’ingénierie et le conseil en immobilier.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
         "confidence": 12
       }
     ],
@@ -77,6 +93,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "primarySectors": [
@@ -113,6 +137,16 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -147,6 +181,17 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "engineering-studies",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -185,6 +230,18 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "design-engineering",
+          "consulting-studies",
+          "project-management"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -239,6 +296,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -335,6 +400,30 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-batiments-tp"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "service-provider"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ]
   }

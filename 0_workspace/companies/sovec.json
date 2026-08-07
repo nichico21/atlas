@@ -9,6 +9,10 @@
     "construction",
     "smart-buildings"
   ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "construction-batiments-tp"
+  ],
   "offerType": [
     "service",
     "systems-integration"
@@ -16,14 +20,19 @@
   "keyCapabilities": [
     "installation-commissioning",
     "services-maintenance",
-    "systems-integration"
+    "systems-integration",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
   ],
   "valueProposition": "Installations électriques pour les professionnels.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

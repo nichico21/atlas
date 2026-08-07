@@ -110,6 +110,7 @@
     "valueSource": { "type": "vocabulary", "name": "companies/headcount-range" },
     "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
   },
+  
   {
     "id": "revenueRange",
     "label": "Chiffre d'affaires",
@@ -117,8 +118,20 @@
     "order": 11,
     "type": "single-select",
     "required": false,
-    "aiFillable": false,
-    "description": "Tranche de chiffre d'affaires. Donnée sensible, laissée à la saisie humaine.",
+    "aiFillable": true,
+    "description": "Tranche de revenus annuels. A déduire du revenu annuel tel qu'il apparaît explicitement dans le contenu — ne jamais recomposer ou inventer",
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+  {
+    "id": "annualRevenue",
+    "label": "Chiffre d'affaires",
+    "section": "identity",
+    "order": 11,
+    "type": "number",
+    "required": false,
+    "aiFillable": true,
+    "description": "Chiffre d'affaires annuel. Chiffre copié telle qu'il apparaît explicitement dans le contenu — ne jamais recomposer ou inventer",
     "valueSource": { "type": "vocabulary", "name": "companies/revenue-range" },
     "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
   },
@@ -135,6 +148,20 @@
     "valueSource": { "type": "vocabulary", "name": "primary-sectors" },
     "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
   },
+
+{
+  "id": "subSectors",
+  "label": "Sous-secteur(s) d'activité",
+  "section": "activity",
+  "order": 20.5,
+  "type": "multi-select",
+  "required": false,
+  "aiFillable": true,
+  "description": "Sous-secteurs d'activité, cohérents avec le(s) secteur(s) sélectionné(s) dans primarySectors.",
+  "valueSource": { "type": "vocabulary", "name": "companies/sub-sectors" },
+  "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+},
+
   {
     "id": "offerType",
     "label": "Type d'offre",
@@ -159,6 +186,19 @@
     "valueSource": { "type": "vocabulary", "name": "companies/key-capabilities" },
     "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
   },
+
+  {
+  "id": "supplyChainPosition",
+  "label": "Position dans la chaîne de valeur",
+  "section": "activity",
+  "order": 22.5,
+  "type": "multi-select",
+  "required": false,
+  "aiFillable": true,
+  "description": "Rôle(s) que joue l'entreprise dans la chaîne de valeur de son secteur — peut être multiple si l'entreprise intervient à plusieurs niveaux selon les projets.",
+  "valueSource": { "type": "vocabulary", "name": "companies/supply-chain-position" },
+  "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
+},
 
   {
     "id": "internationalExperience",
@@ -207,24 +247,12 @@
     "valueSource": { "type": "vocabulary", "name": "companies/geographic-zones" },
     "ai": { "index": true, "search": true, "summarize": false, "embedding": false }
   },
-  {
-    "id": "workingLanguages",
-    "label": "Langues de travail",
-    "section": "markets",
-    "order": 42,
-    "type": "multi-select",
-    "required": false,
-    "aiFillable": true,
-    "description": "Langues de travail de l'entreprise, si mentionnées.",
-    "valueSource": { "type": "vocabulary", "name": "companies/languages" },
-    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
-  },
 
-  {
+   {
   "id": "exportRevenueShare",
   "label": "Pourcentage du CA réalisé à l'étranger",
   "section": "markets",
-  "order": 43,
+  "order": 42,
   "type": "number",
   "required": false,
   "aiFillable": true,
@@ -233,6 +261,19 @@
 },
 
   {
+    "id": "workingLanguages",
+    "label": "Langues de travail",
+    "section": "markets",
+    "order": 43,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": true,
+    "description": "Langues de travail de l'entreprise, si mentionnées.",
+    "valueSource": { "type": "vocabulary", "name": "companies/languages" },
+    "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
+  },
+
+   {
     "id": "certifications",
     "label": "Certifications",
     "section": "certifications",
@@ -320,8 +361,8 @@
     "order": 71,
     "type": "text",
     "required": false,
-    "aiFillable": false,
-    "description": "Adresse complète. Risque d'erreur trop élevé pour une extraction IA fiable, laissée à la saisie humaine.",
+    "aiFillable": true,
+    "description": "Adresse complète. Adresse copiée telle qu'elle apparaît explicitement dans le contenu — ne jamais recomposer ou compléter une adresse partielle",
     "ai": { "index": false, "search": false, "summarize": false, "embedding": false }
   },
 
@@ -348,6 +389,20 @@
     "valueSource": { "type": "entity", "name": "sources" },
     "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
   },
+
+  {
+    "id": "sourceIds",
+    "label": "Sources contributrices",
+    "section": "provenance",
+    "order": 81.5,
+    "type": "multi-select",
+    "required": false,
+    "aiFillable": false,
+    "description": "Ensemble des sources ayant contribué à enrichir cette fiche au fil du temps, calculé automatiquement par le moteur de résolution — jamais rempli directement par l'IA.",
+    "valueSource": { "type": "entity", "name": "sources" },
+    "ai": { "index": true, "search": false, "summarize": false, "embedding": false }
+  },
+  
   {
     "id": "completionStatus",
     "label": "Statut de complétion",

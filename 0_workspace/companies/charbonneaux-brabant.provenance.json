@@ -17,6 +17,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "CHARBONNEAUX BRABANT",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -35,6 +43,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Reims (Marne), active dans la fabrication de moutarde, mayonnaise, vinaigres et sauces, ainsi que dans la formulation et le conditionnement de produits d’entretien et de bricolage.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -52,6 +68,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -77,6 +101,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "agriculture-and-food",
+          "chemicals-and-materials"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -101,6 +136,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -123,6 +169,17 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "serial-manufacturing",
+          "custom-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -162,6 +219,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -171,6 +236,19 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "agri-transformation-vegetaux",
+          "chimie-chimie"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ]

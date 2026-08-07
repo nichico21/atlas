@@ -6,6 +6,7 @@
   "shortDescription": "Entreprise de Duttlenheim active dans la métallurgie.",
   "detailedDescription": "QUIRI est spécialisée dans la conception et la fabrication d’équipements hydrauliques — vérins, groupes hydrauliques, ressorts à gaz, systèmes de bridage, levage ou serrage, amortisseurs, bancs d’essai — ainsi que d’échangeurs de chaleur tubulaires et à calandre, réchauffeurs électriques et réservoirs à pression. L’entreprise s’appuie sur quatre bureaux d’études en mécanique, hydraulique, thermique et automatisme, ainsi que sur des ateliers d’usinage et de chaudronnerie industrielle intégrant qualité, contrôle et essais. Ses compétences couvrent la construction mécanique, le soudage, la chaudronnerie, le service après-vente et la fourniture de pièces détachées. Ses applications sont citées dans l’automobile, l’aéronautique, le nucléaire, le ferroviaire, le génie civil, le pétrole et le gaz.",
   "headcountRange": "50-249",
+  "annualRevenue": 24,
   "primarySectors": [
     "metallurgy",
     "mechanics",
@@ -19,7 +20,18 @@
     "nuclear",
     "rail",
     "construction",
-    "oil-and-gas"
+    "oil-and-gas",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "mines-transformation-recyclage",
+    "energie-reseaux-electriques",
+    "defense-aeronautique-militaire",
+    "auto-equipementiers",
+    "aero-equipementiers",
+    "nucleaire-conception-construction",
+    "ferro-equipements-composants",
+    "construction-infrastructures"
   ],
   "offerType": [
     "product-equipment",
@@ -32,14 +44,25 @@
     "other",
     "engineering",
     "studies-consulting",
-    "services-maintenance"
+    "services-maintenance",
+    "serial-manufacturing",
+    "design-engineering",
+    "custom-manufacturing",
+    "testing-certification",
+    "maintenance-mro",
+    "consulting-studies"
   ],
-  "valueProposition": "Savoir-faire industriel en métallurgie.",
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
+  ],
+  "valueProposition": "QUIRI développe et fabrique des solutions hydrauliques et thermiques sur mesure répondant à des exigences élevées de sécurité, fiabilité et performance industrielle.",
   "headquartersCountry": "France",
+  "headquartersAddress": "6, rue Denis Papin 67120 Duttlenheim",
   "sourceIds": [
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft"
 }

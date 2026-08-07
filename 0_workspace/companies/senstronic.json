@@ -6,25 +6,37 @@
   "shortDescription": "Entreprise de Monswiller spécialisée dans les capteurs et la connectique.",
   "detailedDescription": "Senstronic présente un positionnement associant performance industrielle à l’échelle internationale et engagement environnemental concret. L’entreprise indique concevoir et fabriquer ses solutions selon des principes durables, avec un site de production intégrant l’énergie solaire, et mentionne une démarche de certification environnementale.",
   "headcountRange": "250-999",
+  "annualRevenue": 30,
   "primarySectors": [
     "electronics",
     "industrial-automation",
-    "industry"
+    "industry",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
     "equipment-manufacturing",
-    "engineering"
+    "engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "internationalExperience": true,
   "valueProposition": "Fabrication de capteurs et solutions de connectique.",
   "headquartersCountry": "France",
+  "headquartersAddress": "22, rue des Rustauds 67700 Monswiller",
   "sourceIds": [
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
-  "completionStatus": "ai-draft"
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/senstronic/"
 }

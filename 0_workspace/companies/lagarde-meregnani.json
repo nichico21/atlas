@@ -6,9 +6,13 @@
   "shortDescription": "Entreprise de Maxéville active dans la finition du bâtiment.",
   "detailedDescription": "Lagarde Meregnani intervient sur des chantiers de travaux neufs ou de rénovation en peinture et décoration, revêtements de sols et revêtements muraux, ravalement de façade, isolation par l’extérieur, carrelages et faïences. L’entreprise travaille pour les professionnels et les particuliers, gère l’ensemble des corps d’état et coordonne les interventions dans le Grand Est et sur toute la France.",
   "headcountRange": "250-999",
+  "annualRevenue": 58,
   "primarySectors": [
     "construction",
     "building-and-public-works"
+  ],
+  "subSectors": [
+    "construction-batiments-tp"
   ],
   "offerType": [
     "service"
@@ -19,15 +23,21 @@
     "other",
     "project-management"
   ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
   "geographicZones": [
     "europe"
   ],
   "valueProposition": "Lagarde Meregnani prend en charge et coordonne l’ensemble des corps d’état pour des chantiers de finition du bâtiment en neuf comme en rénovation.",
   "headquartersCountry": "France",
+  "headquartersAddress": "4, rue Albert Einstein ZAC saint Jacques II 54320 Maxeville",
   "sourceIds": [
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
-  "completionStatus": "ai-draft"
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/lagarde-meregnani/"
 }

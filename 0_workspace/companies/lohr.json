@@ -8,21 +8,31 @@
     "mobility",
     "industrial-machinery",
     "automotive",
-    "industry"
+    "industry",
+    "rail"
+  ],
+  "subSectors": [
+    "auto-equipementiers",
+    "ferro-materiel-roulant"
   ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
     "equipment-manufacturing",
-    "engineering"
+    "engineering",
+    "design-engineering",
+    "serial-manufacturing"
   ],
-  "valueProposition": "Équipements de transport pour biens et personnes.",
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "valueProposition": "Produire des équipements de moyenne série pour le transport de biens et de personnes.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

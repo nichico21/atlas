@@ -6,21 +6,30 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "environment",
-    "construction"
+    "construction",
+    "waste-management"
+  ],
+  "subSectors": [
+    "dechets-tri-traitement",
+    "construction-batiments-tp"
   ],
   "offerType": [
     "service"
   ],
   "keyCapabilities": [
     "installation-commissioning",
-    "project-management"
+    "project-management",
+    "decommissioning"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
   ],
   "valueProposition": "Services de dépollution et de construction.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

@@ -81,6 +81,15 @@ for (const [connectorId, connector] of Object.entries(catalog.connectors)) {
 
 }
 
+for (const [companyId, company] of Object.entries(catalog.companies)) {
+  mergeValidationResults(
+    result,
+    validateStructure(company, "company", companyId, catalog.companyFields),
+    validateReferences(company, "company", companyId, catalog.companyFields, catalog),
+    validateBusiness(company, "company", companyId, catalog)
+  );
+}
+
   mergeValidationResults(
 
     result,

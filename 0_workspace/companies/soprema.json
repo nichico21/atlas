@@ -8,20 +8,24 @@
     "construction",
     "materials"
   ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
   "offerType": [
     "product-equipment",
     "service"
   ],
   "keyCapabilities": [
     "equipment-manufacturing",
-    "installation-commissioning"
+    "installation-commissioning",
+    "serial-manufacturing"
   ],
   "valueProposition": "Solutions d'étanchéité et d'isolation pour le bâtiment.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

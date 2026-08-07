@@ -17,6 +17,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "LEBRONZE ALLOYS",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -35,6 +43,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "Entreprise située à Suippes (Marne), active dans la conception et la transformation d’alliages de haute performance à base de cuivre et de nickel.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -52,6 +68,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -78,6 +102,16 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "mining-and-metallurgy"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -102,6 +136,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "engineering-studies"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -125,6 +170,17 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "design-engineering",
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -164,6 +220,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -173,6 +237,39 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "Concevoir et transformer des alliages haute performance à base de cuivre et de nickel.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "mines-metaux-non-ferreux"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "raw-material-supplier",
+          "component-manufacturer"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ]

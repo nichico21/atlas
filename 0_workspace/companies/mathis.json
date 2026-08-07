@@ -6,7 +6,12 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "construction",
-    "materials"
+    "materials",
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-construction",
+    "construction-batiments-tp"
   ],
   "offerType": [
     "product-equipment",
@@ -15,14 +20,20 @@
   "keyCapabilities": [
     "equipment-manufacturing",
     "installation-commissioning",
-    "engineering"
+    "engineering",
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
   ],
   "valueProposition": "Solutions de construction bois.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

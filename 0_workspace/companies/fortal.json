@@ -7,7 +7,12 @@
   "primarySectors": [
     "industrial-machinery",
     "defense-and-security",
-    "industry"
+    "industry",
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux",
+    "defense-electronique"
   ],
   "offerType": [
     "product-equipment",
@@ -15,14 +20,19 @@
   ],
   "keyCapabilities": [
     "engineering",
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "design-engineering",
+    "serial-manufacturing"
   ],
-  "valueProposition": "Systèmes sécurisés d'accès en hauteur conçus et fabriqués en Grand Est.",
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "valueProposition": "Concevoir et fabriquer des systèmes d’accès en hauteur sécurisés.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

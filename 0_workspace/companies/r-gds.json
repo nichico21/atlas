@@ -8,20 +8,27 @@
     "energy",
     "oil-and-gas"
   ],
+  "subSectors": [
+    "energie-reseaux-electriques"
+  ],
   "offerType": [
     "service"
   ],
   "keyCapabilities": [
     "logistics-supply-chain",
     "services-maintenance",
-    "installation-commissioning"
+    "installation-commissioning",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
   ],
   "valueProposition": "Distribution de gaz naturel.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

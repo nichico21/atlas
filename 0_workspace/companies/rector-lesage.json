@@ -8,18 +8,25 @@
     "construction",
     "materials"
   ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "valueProposition": "Préfabrication béton pour la construction.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

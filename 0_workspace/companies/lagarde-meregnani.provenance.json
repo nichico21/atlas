@@ -33,6 +33,22 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "LAGARDE MEREGNANI",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "LAGARDE MEREGNANI",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -67,6 +83,22 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "Entreprise située à Maxéville (Meurthe-et-Moselle), active dans la finition du bâtiment.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "LAGARDE MEREGNANI est une entreprise du secteur de la finition du bâtiment, basée à Maxéville.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -101,6 +133,22 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "primarySectors": [
@@ -147,6 +195,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "offerType": [
@@ -189,6 +257,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -234,6 +322,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "installation-commissioning"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "headquartersCountry": [
@@ -259,6 +367,14 @@
         "sourceReliability": 12,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 7.199999999999999
       }
     ],
@@ -296,6 +412,22 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -314,6 +446,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "Intervenir sur des prestations de finition du bâtiment pour des projets de construction.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "website": [
@@ -323,6 +463,14 @@
         "sourceReliability": 12,
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "https://www.lagardemeregnani.fr/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
         "confidence": 12
       }
     ],
@@ -346,6 +494,60 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-batiments-tp"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "construction-batiments-tp"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "service-provider"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 58,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "headquartersAddress": [
+      {
+        "value": "4, rue Albert Einstein ZAC saint Jacques II 54320 Maxeville",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ]
   }

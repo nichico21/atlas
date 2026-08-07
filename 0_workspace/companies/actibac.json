@@ -10,7 +10,11 @@
     "industrial-machinery",
     "building-and-public-works",
     "environment",
-    "industrial-services"
+    "industrial-services",
+    "construction"
+  ],
+  "subSectors": [
+    "construction-infrastructures"
   ],
   "offerType": [
     "product-equipment",
@@ -21,7 +25,12 @@
     "equipment-manufacturing",
     "services-maintenance",
     "engineering",
-    "research-development"
+    "research-development",
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "internationalExperience": true,
   "exportRevenueShare": 12,
@@ -30,8 +39,8 @@
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
-  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/actibac/"
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

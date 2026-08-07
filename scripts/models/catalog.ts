@@ -3,6 +3,7 @@ import { FieldDefinition } from "./field";
 import { Source } from "./source";
 import { ConnectorDefinition } from "./connector";
 import { Vocabulary } from "./vocabulary";
+import { Company } from "./company";
 
 export interface Catalog {
 
@@ -17,5 +18,9 @@ export interface Catalog {
   sources: Record<string, Source>;
 
   connectors: Record<string, ConnectorDefinition>;
+
+  companyFields: FieldDefinition[];
+  
+  companies: Record<string, Company>;
 
 }

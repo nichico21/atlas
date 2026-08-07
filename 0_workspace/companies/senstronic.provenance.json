@@ -33,6 +33,22 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "SENSTRONIC",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "SENSTRONIC",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -67,6 +83,22 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "Entreprise située à Monswiller (Bas-Rhin), active dans les capteurs et la connectique.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "SENSTRONIC est une entreprise basée à Monswiller, active dans les capteurs et la connectique.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "headcountRange": [
@@ -101,6 +133,22 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "primarySectors": [
@@ -144,6 +192,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "digital-infrastructure"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "digital-infrastructure"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -186,6 +254,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -229,6 +317,26 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "headquartersCountry": [
@@ -247,6 +355,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "commercialName": [
@@ -291,6 +407,22 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -327,6 +459,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "https://www.senstronic.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "detailedDescription": [
@@ -347,6 +487,60 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "digital-electronique-materiels"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "digital-electronique-materiels"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "component-manufacturer"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 30,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "headquartersAddress": [
+      {
+        "value": "22, rue des Rustauds 67700 Monswiller",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ]
   }

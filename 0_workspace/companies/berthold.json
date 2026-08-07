@@ -10,6 +10,9 @@
     "construction",
     "building-and-public-works"
   ],
+  "subSectors": [
+    "construction-batiments-tp"
+  ],
   "offerType": [
     "service"
   ],
@@ -18,12 +21,17 @@
     "installation-commissioning",
     "other"
   ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
   "valueProposition": "Réalisation de projets de bâtiment et travaux publics.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
-  "completionStatus": "ai-draft"
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

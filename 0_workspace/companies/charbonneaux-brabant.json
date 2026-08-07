@@ -8,20 +8,26 @@
     "agriculture-and-food",
     "chemicals-and-materials"
   ],
+  "subSectors": [
+    "agri-transformation-vegetaux",
+    "chimie-chimie"
+  ],
   "offerType": [
     "product-equipment",
     "service"
   ],
   "keyCapabilities": [
     "equipment-manufacturing",
-    "research-development"
+    "research-development",
+    "serial-manufacturing",
+    "custom-manufacturing"
   ],
   "valueProposition": "Fabrication agroalimentaire et formulation-conditionnement de produits d'entretien et bricolage.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

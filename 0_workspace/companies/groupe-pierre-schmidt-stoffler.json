@@ -7,19 +7,23 @@
   "primarySectors": [
     "agriculture-and-food"
   ],
+  "subSectors": [
+    "agri-industrie-viande"
+  ],
   "offerType": [
     "product-equipment",
     "service"
   ],
   "keyCapabilities": [
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
   ],
   "valueProposition": "Production agroalimentaire en charcuterie et traiteur.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

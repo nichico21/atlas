@@ -15,7 +15,8 @@
     "test:catalog": "tsx scripts/tests/test-catalog.ts",
     "test:openai": "tsx scripts/tests/test-openai.ts",
     "specialist": "tsx scripts/run-specialist.ts",
-    "company-finder": "tsx scripts/run-company-finder.ts"
+    "company-finder": "tsx scripts/run-company-finder.ts",
+    "inspect-completion": "tsx scripts/inspect-completion.ts"
   },
   "dependencies": {
     "@mozilla/readability": "^0.6.0",

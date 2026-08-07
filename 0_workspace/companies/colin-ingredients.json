@@ -6,8 +6,12 @@
   "shortDescription": "Entreprise fournissant des ingrédients pour l’agroalimentaire.",
   "detailedDescription": "Colin Ingrédients présente une activité centrée sur les ingrédients et solutions alimentaires. L’entreprise indique accompagner ses clients depuis six décennies avec des solutions sur mesure, des ingrédients performants et une expertise terrain reconnue. Elle met en avant des nouveautés liées à des tendances de consommation comme le piquant, le fumé et les saveurs asiatiques.",
   "headcountRange": "50-249",
+  "annualRevenue": 100,
   "primarySectors": [
     "agriculture-and-food"
+  ],
+  "subSectors": [
+    "agri-transformation-vegetaux"
   ],
   "offerType": [
     "product-equipment",
@@ -17,14 +21,19 @@
     "equipment-manufacturing",
     "other",
     "research-development",
-    "studies-consulting"
+    "studies-consulting",
+    "serial-manufacturing",
+    "rd-innovation",
+    "custom-manufacturing",
+    "consulting-studies"
   ],
   "valueProposition": "Fourniture d'ingrédients pour l'industrie agroalimentaire.",
   "headquartersCountry": "France",
+  "headquartersAddress": "Rue des saveurs\n67170 Wingersheim les 4 Bans Mittelhausen",
   "sourceIds": [
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft"
 }

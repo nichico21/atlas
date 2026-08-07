@@ -11,7 +11,12 @@
     "materials",
     "construction",
     "building-and-public-works",
-    "circular-economy"
+    "circular-economy",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "construction-materiaux",
+    "mines-extraction"
   ],
   "offerType": [
     "product-equipment",
@@ -20,7 +25,11 @@
   "keyCapabilities": [
     "equipment-manufacturing",
     "logistics-supply-chain",
-    "other"
+    "other",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "raw-material-supplier"
   ],
   "valueProposition": "Production de granulats et de béton prêt à l'emploi.",
   "headquartersCountry": "France",
@@ -28,6 +37,8 @@
     "club-eti-grand-est",
     "self-declared"
   ],
-  "lastUpdated": "2026-08-05",
-  "completionStatus": "ai-draft"
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

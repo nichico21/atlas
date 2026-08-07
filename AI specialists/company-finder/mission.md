@@ -41,6 +41,15 @@ secteur du vocabulaire `primary-sectors` (ex. commerce de détail généraliste,
 restauration, services administratifs génériques, activités non liées à
 l'industrie ou à l'export).
 
+Ne produis pas de fiche pour une entreprise dont l'activité principale consiste
+à fabriquer des biens de consommation courante grand public, sans dimension
+industrielle ou technique B2B marquée (habillement, chaussures, cosmétiques,
+articles ménagers courants...), même si elle correspond nominalement à un
+secteur du vocabulaire `primary-sectors`.
+
+Cette exclusion ne s'applique pas à l'agroalimentaire ni aux boissons, qui
+restent dans le périmètre d'Atlas.
+
 En cas de doute sur la correspondance sectorielle, ne crée pas la fiche plutôt
 que de forcer un rattachement approximatif.
 

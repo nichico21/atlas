@@ -33,6 +33,30 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "QUIRI",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "QUIRI",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "QUIRI",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
       }
     ],
     "shortDescription": [
@@ -67,6 +91,30 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "Entreprise située à Duttlenheim (Bas-Rhin), active dans la métallurgie.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "QUIRI est une entreprise du secteur de la métallurgie basée à Duttlenheim.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "QUIRI conçoit et fabrique des équipements hydrauliques industriels et des échangeurs de chaleur tubulaires pour des industries exigeantes comme l’énergie, le transport, la défense, l’aéronautique, le ferroviaire, le nucléaire, l’automobile, le génie civil et le pétrole-gaz.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
       }
     ],
     "headcountRange": [
@@ -100,6 +148,30 @@
         "sourceReliability": 9,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "50-249",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "50-249",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 5.3999999999999995
       }
     ],
@@ -155,6 +227,42 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": [
+          "mining-and-metallurgy"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "mining-and-metallurgy"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": [
+          "energy",
+          "defense-and-security",
+          "automotive",
+          "aerospace",
+          "nuclear",
+          "rail",
+          "construction"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "offerType": [
@@ -198,6 +306,36 @@
         "sourceReliability": 9,
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
+        "confidence": 9
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "engineering-studies",
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
         "confidence": 9
       }
     ],
@@ -244,6 +382,38 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": [
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "design-engineering",
+          "custom-manufacturing",
+          "testing-certification",
+          "maintenance-mro",
+          "consulting-studies"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
       }
     ],
     "headquartersCountry": [
@@ -262,6 +432,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "commercialName": [
@@ -298,6 +476,30 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "valueProposition": [
@@ -316,6 +518,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "QUIRI développe et fabrique des solutions hydrauliques et thermiques sur mesure répondant à des exigences élevées de sécurité, fiabilité et performance industrielle.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
       }
     ],
     "website": [
@@ -326,6 +536,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "https://www.quiri.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "detailedDescription": [
@@ -335,6 +553,75 @@
         "sourceReliability": 9,
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
+        "confidence": 9
+      },
+      {
+        "value": "QUIRI est spécialisée dans la conception et la fabrication d’équipements hydrauliques — vérins, groupes hydrauliques, ressorts à gaz, pompes, presses, systèmes de bridage, levage ou serrage, amortisseurs — ainsi que d’échangeurs de chaleur tubulaires et à calandre, condenseurs, évaporateurs, réchauffeurs électriques et réservoirs à pression. L’entreprise s’appuie sur quatre bureaux d’études en mécanique, hydraulique, thermique et automatisme, ainsi que sur des ateliers d’usinage et de chaudronnerie industrielle à Duttlenheim intégrant qualité, contrôle et essais. Elle fabrique des solutions sur mesure, assure un service après-vente et fournit des pièces détachées.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "mines-transformation-recyclage"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "energie-reseaux-electriques",
+          "defense-aeronautique-militaire",
+          "auto-equipementiers",
+          "aero-equipementiers",
+          "nucleaire-conception-construction",
+          "ferro-equipements-composants",
+          "construction-infrastructures"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 24,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "headquartersAddress": [
+      {
+        "value": "6, rue Denis Papin 67120 Duttlenheim",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "component-manufacturer",
+          "service-provider"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
         "confidence": 9
       }
     ]

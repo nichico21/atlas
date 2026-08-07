@@ -7,21 +7,29 @@
   "detailedDescription": "La fiche annuaire présente ESTELEC groupe comme une entreprise du secteur de la fabrication de cartes et câbles électroniques, avec un effectif indiqué de 130 personnes.",
   "headcountRange": "50-249",
   "primarySectors": [
-    "electronics"
+    "electronics",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "valueProposition": "Fabrication de cartes et câbles électroniques.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
-  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/estelec-groupe/"
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

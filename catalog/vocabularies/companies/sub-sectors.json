@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "description": "Sous-secteurs, rattachés à un secteur parent (primary-sectors), issus des travaux des comités stratégiques de filière.",
+  "values": [
+    { "id": "agri-aquaculture", "label": "Aquaculture", "parentSector": "agriculture-and-food" },
+    { "id": "agri-boissons", "label": "Boissons", "parentSector": "agriculture-and-food" },
+    { "id": "agri-elevage", "label": "Élevage", "parentSector": "agriculture-and-food" },
+    { "id": "agri-grandes-cultures", "label": "Grandes cultures", "parentSector": "agriculture-and-food" },
+    { "id": "agri-industrie-viande", "label": "Industrie de la viande", "parentSector": "agriculture-and-food" },
+    { "id": "agri-industrie-laitiere", "label": "Industrie laitière", "parentSector": "agriculture-and-food" },
+    { "id": "agri-transformation-vegetaux", "label": "Transformation des végétaux", "parentSector": "agriculture-and-food" },
+
+    { "id": "aero-avionneurs", "label": "Avionneurs", "parentSector": "aerospace" },
+    { "id": "aero-equipementiers", "label": "Équipementiers", "parentSector": "aerospace" },
+    { "id": "aero-maintenance", "label": "Maintenance", "parentSector": "aerospace" },
+    { "id": "aero-motoristes", "label": "Motoristes", "parentSector": "aerospace" },
+    { "id": "aero-sous-traitance", "label": "Sous-traitance industrielle", "parentSector": "aerospace" },
+
+    { "id": "auto-constructeurs", "label": "Constructeurs", "parentSector": "automotive" },
+    { "id": "auto-equipementiers", "label": "Équipementiers", "parentSector": "automotive" },
+    { "id": "auto-sous-traitants", "label": "Sous-traitants et fournisseurs", "parentSector": "automotive" },
+
+    { "id": "bois-activites-industrielles", "label": "Activités industrielles (sciage, pâte à papier, etc.)", "parentSector": "wood-industry" },
+    { "id": "bois-energie", "label": "Bois énergie (valorisation des déchets ou du petit bois)", "parentSector": "wood-industry" },
+    { "id": "bois-construction", "label": "Construction bois", "parentSector": "wood-industry" },
+    { "id": "bois-gestion-forestiere", "label": "Gestion et exploitation forestière", "parentSector": "wood-industry" },
+    { "id": "bois-produits-finis", "label": "Produits finis ou semi-finis (ameublement, etc.)", "parentSector": "wood-industry" },
+
+    { "id": "chimie-caoutchouc", "label": "Caoutchouc", "parentSector": "chemicals-and-materials" },
+    { "id": "chimie-chimie", "label": "Chimie", "parentSector": "chemicals-and-materials" },
+    { "id": "chimie-papier-carton", "label": "Papier-Carton", "parentSector": "chemicals-and-materials" },
+    { "id": "chimie-plasturgie", "label": "Plasturgie", "parentSector": "chemicals-and-materials" },
+
+    { "id": "construction-batiments-tp", "label": "Bâtiments et travaux publics", "parentSector": "construction" },
+    { "id": "construction-infrastructures", "label": "Infrastructures", "parentSector": "construction" },
+    { "id": "construction-materiaux", "label": "Production de matériaux pour la construction", "parentSector": "construction" },
+
+    { "id": "defense-aeronautique-militaire", "label": "Aéronautique militaire", "parentSector": "defense-and-security" },
+    { "id": "defense-armement-terrestre", "label": "Armement terrestre", "parentSector": "defense-and-security" },
+    { "id": "defense-cyberdefense", "label": "Cyberdéfense et numérique", "parentSector": "defense-and-security" },
+    { "id": "defense-electronique", "label": "Électronique de défense", "parentSector": "defense-and-security" },
+    { "id": "defense-missiles-munitions", "label": "Missiles et munitions", "parentSector": "defense-and-security" },
+    { "id": "defense-naval-militaire", "label": "Naval militaire", "parentSector": "defense-and-security" },
+
+    { "id": "eau-equipements", "label": "Équipements (canalisations, pompes, etc.)", "parentSector": "water" },
+    { "id": "eau-exploitation", "label": "Exploitation des usines et pose des canalisations", "parentSector": "water" },
+
+    { "id": "ferro-equipements-composants", "label": "Équipements et composants", "parentSector": "rail" },
+    { "id": "ferro-infrastructures", "label": "Infrastructures ferroviaires", "parentSector": "rail" },
+    { "id": "ferro-maintenance-service", "label": "Maintenance et service", "parentSector": "rail" },
+    { "id": "ferro-materiel-roulant", "label": "Matériel roulant", "parentSector": "rail" },
+    { "id": "ferro-signalisation", "label": "Signalisation et automatismes", "parentSector": "rail" },
+
+    { "id": "digital-centres-donnees", "label": "Centres de données", "parentSector": "digital-infrastructure" },
+    { "id": "digital-electronique-materiels", "label": "Industrie électronique et matériels", "parentSector": "digital-infrastructure" },
+    { "id": "digital-infra-mobile", "label": "Infrastructures mobiles et tours", "parentSector": "digital-infrastructure" },
+    { "id": "digital-reseaux-fibre", "label": "Réseaux fixes et fibre optique", "parentSector": "digital-infrastructure" },
+
+    { "id": "naval-construction-civile", "label": "Construction navale civile", "parentSector": "naval" },
+    { "id": "naval-deconstruction", "label": "Déconstruction et démantèlement", "parentSector": "naval" },
+    { "id": "naval-maintenance", "label": "Maintenance", "parentSector": "naval" },
+    { "id": "naval-propulsion-energie", "label": "Propulsion et énergie", "parentSector": "naval" },
+    { "id": "naval-reparation", "label": "Réparation", "parentSector": "naval" },
+    { "id": "naval-systemes-embarques", "label": "Systèmes embarqués", "parentSector": "naval" },
+
+    { "id": "mines-extraction", "label": "Extraction minière", "parentSector": "mining-and-metallurgy" },
+    { "id": "mines-fonderie-forges", "label": "Fonderie et forges", "parentSector": "mining-and-metallurgy" },
+    { "id": "mines-metaux-non-ferreux", "label": "Métaux non ferreux (aluminium, cuivre, etc.)", "parentSector": "mining-and-metallurgy" },
+    { "id": "mines-siderurgie", "label": "Sidérurgie (métaux ferreux)", "parentSector": "mining-and-metallurgy" },
+    { "id": "mines-transformation-recyclage", "label": "Transformation et recyclage (tuberie, profilage, tréfilage, etc.)", "parentSector": "mining-and-metallurgy" },
+
+    { "id": "energie-batterie", "label": "Batterie", "parentSector": "energy" },
+    { "id": "energie-biocarburants", "label": "Biocarburants", "parentSector": "energy" },
+    { "id": "energie-biogaz", "label": "Biogaz", "parentSector": "energy" },
+    { "id": "energie-chaleur-fatale", "label": "Chaleur fatale", "parentSector": "energy" },
+    { "id": "energie-eolien-mer", "label": "Éolien en mer", "parentSector": "energy" },
+    { "id": "energie-geothermie", "label": "Géothermie", "parentSector": "energy" },
+    { "id": "energie-hydrogene", "label": "Hydrogène", "parentSector": "energy" },
+    { "id": "energie-photovoltaique", "label": "Photovoltaïque", "parentSector": "energy" },
+    { "id": "energie-pompe-chaleur", "label": "Pompe à chaleur", "parentSector": "energy" },
+    { "id": "energie-reseaux-electriques", "label": "Réseaux électriques", "parentSector": "energy" },
+    { "id": "energie-solaire-thermique", "label": "Solaire thermique", "parentSector": "energy" },
+    { "id": "energie-stockage", "label": "Stockage d'énergie", "parentSector": "energy" },
+
+    { "id": "nucleaire-amont-cycle", "label": "Amont du cycle du combustible (extraction, conversion et enrichissement, fabrication)", "parentSector": "nuclear" },
+    { "id": "nucleaire-aval-cycle", "label": "Aval du cycle du combustible (retraitement, gestion des déchets)", "parentSector": "nuclear" },
+    { "id": "nucleaire-conception-construction", "label": "Conception et construction de centrales", "parentSector": "nuclear" },
+    { "id": "nucleaire-demantelement", "label": "Démantèlement des centrales", "parentSector": "nuclear" },
+    { "id": "nucleaire-exploitation", "label": "Exploitation des centrales", "parentSector": "nuclear" },
+
+    { "id": "sante-biotechnologies", "label": "Biotechnologies", "parentSector": "healthcare" },
+    { "id": "sante-industrie-pharmaceutique", "label": "Industrie pharmaceutique", "parentSector": "healthcare" },
+    { "id": "sante-technologies-medicales", "label": "Technologies médicales (dispositifs médicaux, équipements d'imagerie et de diagnostic)", "parentSector": "healthcare" },
+
+    { "id": "dechets-collecte", "label": "Collecte", "parentSector": "waste-management" },
+    { "id": "dechets-production-matieres-recyclees", "label": "Production de matières recyclées", "parentSector": "waste-management" },
+    { "id": "dechets-recyclage", "label": "Recyclage", "parentSector": "waste-management" },
+    { "id": "dechets-tri-traitement", "label": "Tri et traitement", "parentSector": "waste-management" },
+    { "id": "dechets-valorisation-energetique", "label": "Valorisation énergétique des déchets", "parentSector": "waste-management" },
+
+    { "id": "space-equipements-sous-systemes", "label": "Équipements et sous-systèmes", "parentSector": "space" },
+    { "id": "space-lanceurs-propulsion", "label": "Lanceurs et propulsion", "parentSector": "space" },
+    { "id": "space-optique-instrumentation", "label": "Optique embarquée et instrumentation", "parentSector": "space" },
+    { "id": "space-satellites-observation-defense", "label": "Satellites d'observation et de défense", "parentSector": "space" },
+    { "id": "space-satellites-telecom", "label": "Satellites de télécommunication", "parentSector": "space" },
+    { "id": "space-segments-sol", "label": "Segments au sol", "parentSector": "space" }
+  ]
+}

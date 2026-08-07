@@ -22,9 +22,9 @@ console.log(`   Criteria  : ${evaluation.criteria.length}`);
 console.log(`   Max score : ${evaluation.maxScore}`);
 console.log();
 
-success(`${Object.keys(catalog.vocabularies).length} vocabularies`);
-
 success(`${Object.keys(catalog.sources).length} sources`);
+
+success(`${Object.keys(catalog.companies).length} entreprises`);
 
 console.log();
 console.log("Running validations...");

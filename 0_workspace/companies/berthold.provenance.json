@@ -33,6 +33,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "BERTHOLD",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "shortDescription": [
@@ -67,6 +75,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "Entreprise située à Dieue-sur-Meuse, active dans le bâtiment et les travaux publics.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ],
     "headcountRange": [
@@ -101,6 +117,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "primarySectors": [
@@ -146,6 +170,16 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "offerType": [
@@ -188,6 +222,16 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "keyCapabilities": [
@@ -233,6 +277,17 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "installation-commissioning",
+          "project-management"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "headquartersCountry": [
@@ -303,6 +358,14 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "valueProposition": [
@@ -349,6 +412,30 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-batiments-tp"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "service-provider"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ]
   }

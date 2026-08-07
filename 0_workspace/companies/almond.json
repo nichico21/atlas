@@ -6,7 +6,13 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "cybersecurity",
-    "digital"
+    "digital",
+    "defense-and-security",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "defense-cyberdefense",
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "service",
@@ -14,14 +20,19 @@
   ],
   "keyCapabilities": [
     "software-digital-solutions",
-    "studies-consulting"
+    "studies-consulting",
+    "software-development",
+    "consulting-studies"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
   ],
   "valueProposition": "Services et solutions de cybersécurité.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

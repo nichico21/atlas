@@ -12,6 +12,9 @@
     "smart-buildings",
     "digital"
   ],
+  "subSectors": [
+    "construction-batiments-tp"
+  ],
   "offerType": [
     "engineering-studies",
     "service"
@@ -20,7 +23,12 @@
     "engineering",
     "studies-consulting",
     "project-management",
-    "research-development"
+    "research-development",
+    "design-engineering",
+    "consulting-studies"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
   ],
   "internationalExperience": true,
   "geographicZones": [
@@ -38,8 +46,8 @@
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
-  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/kardham/"
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

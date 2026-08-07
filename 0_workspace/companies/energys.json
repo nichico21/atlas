@@ -6,7 +6,12 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "energy",
-    "digital"
+    "digital",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-reseaux-fibre"
   ],
   "offerType": [
     "service",
@@ -16,14 +21,20 @@
   "keyCapabilities": [
     "engineering",
     "studies-consulting",
-    "software-digital-solutions"
+    "software-digital-solutions",
+    "consulting-studies",
+    "systems-integration"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
   ],
   "valueProposition": "Solutions pour la transition énergétique et numérique.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

@@ -58,6 +58,13 @@ value in the `primary-sectors` vocabulary. If a company's activity does not
 clearly correspond to any of these sectors, do not produce a fiche for it —
 skip it entirely rather than forcing an approximate match.
 
+Even if a company matches a `primary-sectors` value, do not produce a fiche
+for it if its core activity is manufacturing a mass-market consumer good
+without meaningful B2B/industrial relevance (e.g. footwear, apparel,
+cosmetics, general consumer goods) — unless its offer includes a genuine
+technical or industrial dimension (e.g. specialized components, technical
+textiles, industrial equipment). Food and beverage producers remain in scope.
+
 The content you receive may include a list of links found on the page, under
 a "## Liens disponibles sur cette page" section. Use this list — do not
 attempt to guess URLs from the page text.
@@ -81,6 +88,12 @@ If the content does not give you enough information to determine a company's
 sector with reasonable confidence, do not guess — skip the company rather than
 fabricate a plausible-sounding sector.
 
+When filling `supplyChainPosition`, base your choice strictly on what the
+content explicitly describes about the company's role (e.g. "sous-traitant
+de rang 1", "maître d'œuvre", "fabricant de..."). Do not infer a supply chain
+position from the company's size or sector alone — if the content does not
+describe its actual role in a value chain, leave this field empty.
+
 If several companies are mentioned in the content, produce one fiche per
 company, not a single merged fiche.
 
@@ -89,8 +102,6 @@ leave the field empty rather than guessing or fabricating a plausible-looking
 number.
 
 ---
-
-## Deliverables
 
 ## Deliverables
 

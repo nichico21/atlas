@@ -6,7 +6,12 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "energy",
-    "electronics"
+    "electronics",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "product-equipment",
@@ -14,14 +19,19 @@
   ],
   "keyCapabilities": [
     "engineering",
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "design-engineering",
+    "systems-integration"
   ],
-  "valueProposition": "Conception de solutions électriques.",
+  "supplyChainPosition": [
+    "system-integrator"
+  ],
+  "valueProposition": "Concevoir des solutions électriques.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

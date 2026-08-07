@@ -30,7 +30,15 @@ export function validateBusiness(
       entityType,
       entityId,
       catalog
-    )
+    ), 
+
+validateSectorCoherence(
+    entity,
+    entityType,
+    entityId,
+    catalog
+  )
+
 
     // validateConnector(...)
     // validateAccess(...)
@@ -151,6 +159,84 @@ function validateEvaluation(
 
         message:
           `Score for "${criterion.id}" must be between 0 and ${criterion.weight}.`
+
+      });
+
+    }
+
+  }
+
+  return result;
+
+}
+
+function validateSectorCoherence(
+
+  entity: object,
+
+  entityType: EntityType,
+
+  entityId: string,
+
+  catalog: Catalog
+
+): ValidationResult {
+
+  const result = createValidationResult();
+
+  if (entityType !== "company") {
+    return result;
+  }
+
+  const data = entity as Record<string, unknown>;
+
+  const primarySectors = data["primarySectors"] as string[] | undefined;
+  const subSectors = data["subSectors"] as string[] | undefined;
+
+  if (!subSectors || subSectors.length === 0) {
+    return result;
+  }
+
+  const subSectorVocabulary = catalog.vocabularies["companies/sub-sectors"];
+
+  if (!subSectorVocabulary) {
+    return result;
+  }
+
+  for (const subSectorId of subSectors) {
+
+    const entry = subSectorVocabulary.values.find(
+      (v) => v.id === subSectorId
+    );
+
+    if (!entry) {
+      continue; // valeur déjà signalée par le Reference Validator si invalide
+    }
+
+    const parentSector = (entry as { parentSector?: string }).parentSector;
+
+    if (!parentSector) {
+      continue;
+    }
+
+    if (!primarySectors || !primarySectors.includes(parentSector)) {
+
+      result.issues.push({
+
+        level: "error",
+
+        code: "SECTOR_MISMATCH",
+
+        entity: entityType,
+
+        entityId,
+
+        fieldId: "subSectors",
+
+        value: subSectorId,
+
+        message:
+          `Sub-sector "${subSectorId}" belongs to sector "${parentSector}", which is not present in primarySectors.`
 
       });
 

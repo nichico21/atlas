@@ -33,6 +33,30 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 9
+      },
+      {
+        "value": "COLIN INGREDIENTS",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "COLIN INGREDIENTS",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "Colin Ingrédients",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
       }
     ],
     "shortDescription": [
@@ -67,6 +91,30 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "Entreprise située à Wingersheim les 4 Bans Mittelhausen, active dans les ingrédients pour l’agroalimentaire.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "COLIN INGREDIENTS est une entreprise active dans les ingrédients pour l’agroalimentaire.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": "Colin Ingrédients accompagne ses clients avec des solutions sur mesure, des ingrédients performants et une expertise terrain, en anticipant des tendances de goût comme le piquant, le fumé et les saveurs asiatiques.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "headcountRange": [
@@ -100,6 +148,30 @@
         "sourceReliability": 9,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "250-999",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "10-49",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 5.3999999999999995
       }
     ],
@@ -142,6 +214,36 @@
         "sourceReliability": 9,
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "agriculture-and-food"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "agriculture-and-food"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      },
+      {
+        "value": [
+          "agriculture-and-food"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
         "confidence": 5.3999999999999995
       }
     ],
@@ -186,6 +288,37 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "keyCapabilities": [
@@ -229,6 +362,36 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "serial-manufacturing"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "rd-innovation",
+          "custom-manufacturing",
+          "consulting-studies"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "headquartersCountry": [
@@ -247,6 +410,14 @@
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
         "confidence": 12
+      },
+      {
+        "value": "France",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
       }
     ],
     "commercialName": [
@@ -283,6 +454,30 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "valueProposition": [
@@ -301,6 +496,22 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "Fournir des ingrédients destinés aux applications agroalimentaires.",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": "Accompagner les clients avec des ingrédients performants, des solutions sur mesure et une expertise terrain pour transformer les tendances alimentaires en succès commerciaux.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
       }
     ],
     "website": [
@@ -310,6 +521,14 @@
         "sourceReliability": 12,
         "explicitlyStated": true,
         "extractedAt": "2026-08-05",
+        "confidence": 12
+      },
+      {
+        "value": "https://www.colin-ingredients.com/",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
         "confidence": 12
       }
     ],
@@ -321,6 +540,56 @@
         "explicitlyStated": false,
         "extractedAt": "2026-08-05",
         "confidence": 5.3999999999999995
+      },
+      {
+        "value": "Colin Ingrédients se positionne comme un acteur des ingrédients et solutions alimentaires sur mesure. L’entreprise met en avant six décennies d’accompagnement client, l’innovation, la collaboration et sa capacité à traduire les tendances consommateurs en nouveautés prêtes à être commercialisées.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "agri-transformation-vegetaux"
+        ],
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 7.199999999999999
+      },
+      {
+        "value": [
+          "agri-transformation-vegetaux"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 100,
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
+      }
+    ],
+    "headquartersAddress": [
+      {
+        "value": "Rue des saveurs\n67170 Wingersheim les 4 Bans Mittelhausen",
+        "sourceId": "club-eti-grand-est",
+        "sourceReliability": 12,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 12
       }
     ]
   }

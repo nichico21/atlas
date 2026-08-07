@@ -11,21 +11,31 @@
     "construction",
     "industry"
   ],
+  "subSectors": [
+    "nucleaire-conception-construction",
+    "defense-electronique",
+    "construction-materiaux"
+  ],
   "offerType": [
     "product-equipment",
     "engineering-studies"
   ],
   "keyCapabilities": [
     "engineering",
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "valueProposition": "Concevoir et fabriquer des portes sécuritaires destinées aux centrales nucléaires et aux sites sensibles.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
-  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/baumert/"
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

@@ -8,7 +8,13 @@
     "water",
     "construction",
     "metallurgy",
-    "industry"
+    "industry",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "eau-equipements",
+    "construction-infrastructures",
+    "mines-fonderie-forges"
   ],
   "offerType": [
     "product-equipment",
@@ -16,14 +22,19 @@
   ],
   "keyCapabilities": [
     "equipment-manufacturing",
-    "installation-commissioning"
+    "installation-commissioning",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
   ],
   "valueProposition": "Solutions industrielles pour le transport de l'eau, l'aménagement urbain et la fonderie.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

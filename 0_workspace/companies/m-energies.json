@@ -8,24 +8,34 @@
   "primarySectors": [
     "energy",
     "renewable-energy",
-    "smart-buildings"
+    "smart-buildings",
+    "construction"
+  ],
+  "subSectors": [
+    "energie-pompe-chaleur",
+    "construction-batiments-tp"
   ],
   "offerType": [
     "service",
-    "engineering-studies"
+    "engineering-studies",
+    "product-equipment"
   ],
   "keyCapabilities": [
     "installation-commissioning",
     "services-maintenance",
-    "engineering"
+    "engineering",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
   ],
   "valueProposition": "Services CVC, chauffage, climatisation et énergies renouvelables.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
-  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/m-energies/"
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
 }

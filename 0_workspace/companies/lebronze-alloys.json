@@ -7,7 +7,11 @@
   "primarySectors": [
     "metallurgy",
     "materials",
-    "industry"
+    "industry",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "mines-metaux-non-ferreux"
   ],
   "offerType": [
     "product-equipment",
@@ -15,14 +19,20 @@
   ],
   "keyCapabilities": [
     "engineering",
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "design-engineering",
+    "serial-manufacturing"
   ],
-  "valueProposition": "Conception et transformation d'alliages cuivre-nickel de haute performance.",
+  "supplyChainPosition": [
+    "raw-material-supplier",
+    "component-manufacturer"
+  ],
+  "valueProposition": "Concevoir et transformer des alliages haute performance à base de cuivre et de nickel.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"

@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Position de l'entreprise dans la chaîne de valeur de son secteur.",
+  "values": [
+    { "id": "prime-contractor", "label": "Maître d'œuvre / Donneur d'ordre" },
+    { "id": "tier-1-supplier", "label": "Fournisseur de rang 1" },
+    { "id": "tier-2-supplier", "label": "Fournisseur de rang 2 et plus" },
+    { "id": "raw-material-supplier", "label": "Fournisseur de matières premières" },
+    { "id": "component-manufacturer", "label": "Fabricant de composants" },
+    { "id": "system-integrator", "label": "Intégrateur de systèmes" },
+    { "id": "service-provider", "label": "Prestataire de services techniques" }
+  ]
+}

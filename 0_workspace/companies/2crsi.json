@@ -6,20 +6,29 @@
   "headcountRange": "50-249",
   "primarySectors": [
     "electronics",
-    "digital"
+    "digital",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-centres-donnees",
+    "digital-electronique-materiels"
   ],
   "offerType": [
     "product-equipment"
   ],
   "keyCapabilities": [
-    "equipment-manufacturing"
+    "equipment-manufacturing",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
   ],
   "valueProposition": "Fabrication de serveurs informatiques.",
   "headquartersCountry": "France",
   "sourceIds": [
     "club-eti-grand-est"
   ],
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "completionStatus": "ai-draft",
   "sourceId": "club-eti-grand-est",
   "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
