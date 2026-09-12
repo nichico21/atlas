@@ -1,0 +1,44 @@
+{
+  "name": "ZENITH",
+  "commercialName": "ZENITH",
+  "siren": "",
+  "website": "https://ue-zenith.eu/",
+  "shortDescription": "Entreprise de Bouxwiller active dans le bâtiment et les travaux publics.",
+  "detailedDescription": "Zénith est une union de petites et moyennes entreprises indépendantes composée d’entrepreneurs autonomes à la tête de sociétés dans les domaines des travaux publics, du gros œuvre, de la déconstruction, du désamiantage, de la dépollution des sols et du chauffage. Le réseau cumule près de 500 salariés et environ 100 M€ de chiffre d’affaires, et peut associer ses compétences sur tout le Grand Est et les régions limitrophes.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction",
+    "waste-management",
+    "energy"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "construction-infrastructures",
+    "construction-materiaux",
+    "dechets-tri-traitement",
+    "energie-pompe-chaleur"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning",
+    "consulting-studies",
+    "decommissioning"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "valueProposition": "Prestations de bâtiment et travaux publics.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "C/O LINGENHELD - CHEM Du Hitzthal\n\t\t\t\t\t\t\t\t\tCarrefour Bellevue\n\t\t\t\t\t\t\t\t\t67203 Oberschaeffolsheim",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

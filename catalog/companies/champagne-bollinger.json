@@ -1,0 +1,36 @@
+{
+  "name": "CHAMPAGNE BOLLINGER",
+  "commercialName": "CHAMPAGNE BOLLINGER",
+  "siren": "",
+  "foundingYear": 1829,
+  "website": "https://www.champagne-bollinger.com/",
+  "shortDescription": "Entreprise d’Aÿ active dans la fabrication de vins effervescents.",
+  "detailedDescription": "Champagne Bollinger, producteur récoltant et négociant depuis 1829, est présenté comme l’une des dernières maisons de champagne à avoir conservé son identité de Maison familiale indépendante. La maison élabore des champagnes haut de gamme, commercialisés dans plus de 100 pays, et met en avant un vignoble de 178 hectares composé à 85 % de Grands et Premiers crus, le pinot noir comme cépage majoritaire, plus de 4000 tonneaux anciens, les magnums de réserve et un vieillissement en cave deux à trois fois supérieur aux règles de l’Appellation.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "subSectors": [
+    "agri-boissons"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 91,
+  "valueProposition": "Fabrication de vins effervescents.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/champagne-bollinger/"
+}

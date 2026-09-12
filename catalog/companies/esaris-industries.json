@@ -1,0 +1,43 @@
+{
+  "name": "ESARIS INDUSTRIES",
+  "website": "https://www.esaris.fr/",
+  "shortDescription": "ESARIS INDUSTRIES est un groupe français spécialisé dans la conception et la fabrication de composants et systèmes électromécaniques, connectiques et câblages pour environnements sévères.",
+  "detailedDescription": "ESARIS INDUSTRIES conçoit et fabrique des contacts électriques, connecteurs, harnais, sous-ensembles et produits électromécaniques pour des applications variées, avec une spécialité dans les environnements contraints. Le groupe dispose de neuf sites majoritairement en France, ainsi qu’en Tunisie, en Turquie et aux USA, et complète son offre par des prestations de services visant à soutenir les activités de ses clients et leurs engagements vers une économie plus durable.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "custom-manufacturing",
+    "rd-innovation"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe",
+    "africa",
+    "asia",
+    "americas"
+  ],
+  "exportRevenueShare": 20,
+  "valueProposition": "Conduire l’énergie électrique avec fiabilité grâce à des composants, connectiques et systèmes électromécaniques adaptés aux environnements sévères.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/groupe-esaris-industrie/"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "ENERGYS",
+  "commercialName": "ENERGYS",
+  "siren": "",
+  "shortDescription": "Entreprise de Strasbourg active dans la transition énergétique et numérique.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "energy",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-reseaux-fibre",
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies",
+    "software-digital-solution"
+  ],
+  "keyCapabilities": [
+    "consulting-studies",
+    "systems-integration",
+    "project-management",
+    "installation-commissioning"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
+  ],
+  "valueProposition": "Solutions pour la transition énergétique et numérique.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

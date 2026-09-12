@@ -1,0 +1,44 @@
+{
+  "name": "SOPREMA",
+  "commercialName": "SOPREMA",
+  "siren": "",
+  "website": "https://www.soprema.fr/",
+  "shortDescription": "Entreprise de Strasbourg active dans l’étanchéité et l’isolation.",
+  "detailedDescription": "Le contenu présente SOPREMA comme un industriel responsable et précurseur, acteur incontournable de son secteur. Le groupe propose des solutions originales, performantes et de haute technologie répondant aux enjeux de la construction neuve résidentielle et non-résidentielle, ainsi que de la rénovation. Ses systèmes sont développés dans une logique d’éco-conception et affichent des performances en qualité et longévité. La vision indiquée est d’agir pour la valorisation du patrimoine bâti et le confort des usagers, tout en réduisant son impact sur l’environnement.",
+  "headcountRange": "250-999",
+  "revenueRange": "over-1b",
+  "primarySectors": [
+    "construction",
+    "chemicals-and-materials"
+  ],
+  "subSectors": [
+    "construction-materiaux",
+    "chimie-chimie"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "training"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "serial-manufacturing",
+    "rd-innovation",
+    "design-engineering",
+    "consulting-studies",
+    "training"
+  ],
+  "labels": [
+    "rse-esg"
+  ],
+  "valueProposition": "Solutions d'étanchéité et d'isolation pour le bâtiment.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/soprema/"
+}

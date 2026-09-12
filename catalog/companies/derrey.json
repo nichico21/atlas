@@ -1,0 +1,33 @@
+{
+  "name": "DERREY",
+  "siren": "",
+  "shortDescription": "Entreprise d’Étival-Clairefontaine spécialisée dans le négoce de matériaux de construction.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "raw-material-supplier"
+  ],
+  "valueProposition": "Fourniture et négoce de matériaux de construction pour les besoins du secteur du bâtiment et des travaux.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "40 avenue de Bellefontaine 88480 Etival Clairefontaine",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/derrey/"
+}

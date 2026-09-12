@@ -1,0 +1,30 @@
+{
+  "name": "Rector",
+  "shortDescription": "Rector conçoit, fabrique et commercialise des produits et systèmes de plancher et d’ossature pour le bâtiment, avec une offre de solutions éco-conçues visant à répondre aux enjeux techniques et bas carbone des projets de construction.",
+  "detailedDescription": "Rector présente une offre complète de solutions éco-conçues pour le bâtiment, notamment des produits et systèmes de plancher et d’ossature. L’entreprise met en avant des réponses aux enjeux RE2020, bas carbone, thermique, acoustique, sismique, feu, biosourcé et sécurité. Elle indique également des engagements autour de la décarbonation de ses produits et activités, de la réduction de ses impacts environnementaux, du bien-être au travail et de l’ancrage territorial.",
+  "headcountRange": "50-249",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "valueProposition": "Proposer des systèmes de plancher et d’ossature éco-conçus permettant de relever les défis techniques du bâtiment tout en réduisant l’impact carbone des projets.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "http://www.rector.fr/"
+}

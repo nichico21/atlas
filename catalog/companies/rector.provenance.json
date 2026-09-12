@@ -1,0 +1,116 @@
+{
+  "companyId": "rector",
+  "fields": {
+    "name": [
+      {
+        "value": "Rector",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Rector conçoit, fabrique et commercialise des produits et systèmes de plancher et d’ossature pour le bâtiment, avec une offre de solutions éco-conçues visant à répondre aux enjeux techniques et bas carbone des projets de construction.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Rector présente une offre complète de solutions éco-conçues pour le bâtiment, notamment des produits et systèmes de plancher et d’ossature. L’entreprise met en avant des réponses aux enjeux RE2020, bas carbone, thermique, acoustique, sismique, feu, biosourcé et sécurité. Elle indique également des engagements autour de la décarbonation de ses produits et activités, de la réduction de ses impacts environnementaux, du bien-être au travail et de l’ancrage territorial.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "50-249",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-materiaux"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "design-engineering",
+          "serial-manufacturing"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "component-manufacturer"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Proposer des systèmes de plancher et d’ossature éco-conçus permettant de relever les défis techniques du bâtiment tout en réduisant l’impact carbone des projets.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

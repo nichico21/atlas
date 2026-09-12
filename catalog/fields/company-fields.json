@@ -27,7 +27,7 @@
     "section": "identity",
     "order": 3,
     "type": "text",
-    "required": true,
+    "required": false,
     "aiFillable": true,
     "description": "Identifiant officiel de l'entreprise. Clé de rapprochement entre sources — à recouper avec SIRENE dès que possible.",
     "ai": { "index": true, "search": true, "summarize": false, "embedding": false }

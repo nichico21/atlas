@@ -1,0 +1,29 @@
+{
+  "name": "ESARIS",
+  "shortDescription": "ESARIS propose des solutions électromécaniques pour l’aéronautique, le ferroviaire et l’industrie, avec un positionnement centré sur la conduite fiable de l’énergie électrique.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "aerospace",
+    "rail",
+    "energy"
+  ],
+  "subSectors": [
+    "aero-equipementiers",
+    "ferro-equipements-composants",
+    "energie-reseaux-electriques"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "design-engineering"
+  ],
+  "valueProposition": "Conduire l’énergie électrique avec fiabilité pour des applications aéronautiques, ferroviaires et industrielles.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.esaris.fr/"
+}

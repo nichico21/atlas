@@ -1,0 +1,53 @@
+{
+  "name": "ALMOND",
+  "commercialName": "ALMOND",
+  "siren": "",
+  "website": "https://almond.eu/",
+  "shortDescription": "Entreprise de Strasbourg spécialisée en cybersécurité.",
+  "detailedDescription": "Almond accompagne ses clients sur des volets organisationnels, comme la conformité et la gouvernance, et opérationnels, notamment l’audit et les tests d’intrusion, les infrastructures de sécurité et les activités SOC-CERT. La société intervient auprès de clients de toutes tailles pour sécuriser et transformer leurs systèmes d’information. Elle dispose de la qualification PASSI délivrée par les services de l’État français et est habilitée à certifier des entreprises sur des standards tels que PCI-DSS ou ANJ, ainsi qu’à les accompagner vers la conformité aux normes ISO 27001, HDS, NIS/OSE ou RGPD. Almond est présent à Paris, Nantes, Strasbourg, Lyon, Genève et Rennes avec l’acquisition d’Amossys.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "defense-and-security",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "defense-cyberdefense",
+    "digital-electronique-materiels",
+    "digital-centres-donnees"
+  ],
+  "offerType": [
+    "service",
+    "software-digital-solution",
+    "engineering-studies",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "software-development",
+    "consulting-studies",
+    "systems-integration",
+    "testing-certification"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe"
+  ],
+  "exportRevenueShare": 0,
+  "certifications": [
+    "other"
+  ],
+  "valueProposition": "Almond combine expertises cyber, cloud et infrastructures pour sécuriser et accélérer la transformation numérique.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/almond/"
+}

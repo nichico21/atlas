@@ -1,13 +1,14 @@
 import { existsSync, readdirSync } from "fs";
 import { loadJson } from "../json-loader";
-import { Company } from "../models/company";
+import { Company } from "../../models/company";
 
 function isCompanyFile(file: string): boolean {
   return file.endsWith(".json") && !file.endsWith(".provenance.json") && !file.startsWith("_");
 }
 
 export function loadCompany(id: string): Company {
-  return loadJson<Company>(`catalog/companies/${id}.json`);
+   const company = loadJson<Company>(`catalog/companies/${id}.json`);
+  return { ...company, id };
 }
 
 export function listCompanies(): string[] {

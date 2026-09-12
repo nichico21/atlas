@@ -16,12 +16,21 @@ export async function crawl(url: string): Promise<CrawlResult> {
   const html = await response.text();
   const dom = new JSDOM(html, { url });
 
-  const links = Array.from(dom.window.document.querySelectorAll("a[href]"))
-    .map((a) => ({
-      url: new URL((a as HTMLAnchorElement).getAttribute("href")!, url).toString(),
-      text: (a.textContent ?? "").trim()
-    }))
-    .filter((l) => l.text.length > 0);
+  const links: { url: string; text: string }[] = [];
+
+for (const a of Array.from(dom.window.document.querySelectorAll("a[href]"))) {
+  const href = (a as HTMLAnchorElement).getAttribute("href");
+  const text = (a.textContent ?? "").trim();
+
+  if (!href || text.length === 0) continue;
+
+  try {
+    links.push({ url: new URL(href, url).toString(), text });
+  } catch {
+    // Lien malformé (href invalide) — on l'ignore plutôt que de faire planter le crawl
+    continue;
+  }
+}
 
   const reader = new Readability(dom.window.document.cloneNode(true) as Document);
   const article = reader.parse();

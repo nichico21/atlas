@@ -18,8 +18,9 @@ import { mergeProvenance, resolveCompany } from "./lib/resolve-company";
 import { CompanyProvenance } from "./models/company-provenance";
 import { loadExistingJson } from "./lib/load-existing-json";
 import { handleExternalJump } from "./lib/external-jump";
+import { loadWellCompletedUrls } from "./lib/completed-urls";
 
-const MAX_DETAIL_LINKS_PER_PAGE = 20;
+const MAX_DETAIL_LINKS_PER_PAGE = 100;
 
 function stripFragment(url: string): string {
   return url.split("#")[0];
@@ -27,21 +28,29 @@ function stripFragment(url: string): string {
 
 interface RunStats {
   pagesVisited: number;
+  llmCalls: number;
   companiesDetected: number;
   newFiches: number;
   enrichedFiches: number;
+  skippedAlreadyComplete: number;
+  externalJumpsAttempted: number;
   externalJumpsSucceeded: number;
   externalJumpsFailed: number;
+  startedAt: number;
 }
 
 function createRunStats(): RunStats {
   return {
     pagesVisited: 0,
+    llmCalls: 0,
     companiesDetected: 0,
     newFiches: 0,
     enrichedFiches: 0,
+    skippedAlreadyComplete: 0,
+    externalJumpsAttempted: 0,
     externalJumpsSucceeded: 0,
-    externalJumpsFailed: 0
+    externalJumpsFailed: 0,
+    startedAt: Date.now()
   };
 }
 
@@ -54,7 +63,8 @@ async function processPage(
   currentDepth: number,
   identityIndex: IdentityIndex,
   visitedUrls: Set<string>,
-  stats: RunStats
+  stats: RunStats,
+wellCompletedUrls: Set<string>
 ): Promise<void> {
 
   const url = stripFragment(rawUrl);
@@ -86,10 +96,13 @@ async function processPage(
   const schema = buildCompanyFinderListSchema();
 
   console.log("  Génération en cours...");
+  stats.llmCalls++;
   const result = await generate(specialist.prompt, {
     name: "atlas_company_finder_output",
     schema
   });
+
+
 
   const parsed = JSON.parse(result) as {
     companies: Record<string, unknown>[];
@@ -160,6 +173,15 @@ async function processPage(
     }
 
     for (const link of linksToFollow) {
+
+ const cleanLinkUrl = stripFragment(link.url);
+
+  if (wellCompletedUrls.has(cleanLinkUrl)) {
+    console.log(`  (déjà bien complétée, ${cleanLinkUrl} ignorée)`);
+    stats.skippedAlreadyComplete++;
+    continue;
+  }
+
       await processPage(
         link.url,
         sourceId,
@@ -169,19 +191,21 @@ async function processPage(
         currentDepth + 1,
         identityIndex,
         visitedUrls,
-        stats
+        stats,
+        wellCompletedUrls
       );
     }
   }
 
   for (const jump of parsed.externalWebsiteJumps) {
-    try {
-      await handleExternalJump(jump, identityIndex);
-      stats.externalJumpsSucceeded++;
-    } catch {
-      stats.externalJumpsFailed++;
-    }
+  stats.externalJumpsAttempted++;
+  try {
+    await handleExternalJump(jump, identityIndex);
+    stats.externalJumpsSucceeded++;
+  } catch {
+    stats.externalJumpsFailed++;
   }
+}
 }
 
 async function main(): Promise<void> {
@@ -207,6 +231,8 @@ async function main(): Promise<void> {
     const identityIndex = loadIdentityIndex();
     const visitedUrls = new Set<string>();
     const stats = createRunStats();
+const wellCompletedUrls = loadWellCompletedUrls();
+
 
     await processPage(
       url,
@@ -217,23 +243,32 @@ async function main(): Promise<void> {
       1,
       identityIndex,
       visitedUrls,
-      stats
+      stats,
+      wellCompletedUrls
     );
 
     saveIdentityIndex(identityIndex);
 
-    console.log();
-    console.log("=================================");
-    console.log("Bilan de l'exécution");
-    console.log("=================================");
-    console.log(`Pages visitées         : ${stats.pagesVisited}`);
-    console.log(`Entreprises détectées   : ${stats.companiesDetected}`);
-    console.log(`  dont nouvelles fiches : ${stats.newFiches}`);
-    console.log(`  dont fiches enrichies : ${stats.enrichedFiches}`);
-    console.log(`Sauts externes réussis  : ${stats.externalJumpsSucceeded}`);
-    console.log(`Sauts externes échoués  : ${stats.externalJumpsFailed}`);
-    console.log();
-    console.log("Terminé.");
+    const durationSec = Math.round((Date.now() - stats.startedAt) / 1000);
+
+console.log();
+console.log("=================================");
+console.log("Bilan de l'exécution");
+console.log("=================================");
+console.log(`Durée                        : ${durationSec}s`);
+console.log(`Pages visitées                : ${stats.pagesVisited}`);
+console.log(`Pages ignorées (déjà complètes) : ${stats.skippedAlreadyComplete}`);
+console.log(`Appels au modèle IA           : ${stats.llmCalls}`);
+console.log();
+console.log(`Entreprises détectées          : ${stats.companiesDetected}`);
+console.log(`  dont nouvelles fiches        : ${stats.newFiches}`);
+console.log(`  dont fiches enrichies        : ${stats.enrichedFiches}`);
+console.log();
+console.log(`Sauts externes tentés          : ${stats.externalJumpsAttempted}`);
+console.log(`  réussis                      : ${stats.externalJumpsSucceeded}`);
+console.log(`  échoués                      : ${stats.externalJumpsFailed}`);
+console.log();
+console.log("Terminé.");
 
   } catch (error) {
     console.error("Execution failed.");

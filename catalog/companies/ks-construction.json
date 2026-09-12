@@ -1,0 +1,27 @@
+{
+  "name": "KS construction",
+  "siren": "",
+  "shortDescription": "KS construction est mentionnée comme une filiale de KS Groupe impliquée dans un projet de hall des sports, avec un savoir-faire en ingénierie et construction.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "project-management"
+  ],
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

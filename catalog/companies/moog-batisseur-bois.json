@@ -1,0 +1,28 @@
+{
+  "name": "MOOG Bâtisseur Bois",
+  "siren": "",
+  "shortDescription": "MOOG Bâtisseur Bois est mentionnée comme une filiale de KS Groupe intervenant dans un projet de hall des sports, avec un savoir-faire lié à la construction bois.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "construction",
+    "wood-industry"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "bois-construction"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "project-management"
+  ],
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

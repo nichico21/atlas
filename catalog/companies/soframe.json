@@ -1,0 +1,27 @@
+{
+  "name": "Soframe",
+  "shortDescription": "Soframe est une filiale de LOHR spécialisée dans la conception et la fabrication de véhicules tactiques et logistiques protégés pour les forces armées et les forces de sécurité.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "defense-and-security"
+  ],
+  "subSectors": [
+    "defense-armement-terrestre"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "valueProposition": "Soframe conçoit et fabrique des véhicules tactiques et logistiques protégés adaptés aux besoins des forces armées et des forces de sécurité.",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/lohr/"
+}

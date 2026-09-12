@@ -1,0 +1,31 @@
+{
+  "name": "ARMBRUSTER FRERES COLMAR",
+  "website": "http://www.armbruster.fr/",
+  "shortDescription": "ARMBRUSTER FRERES COLMAR est une entreprise active dans la collecte, le négoce, le séchage et le stockage de céréales et d’oléoprotéagineux.",
+  "detailedDescription": "Les activités principales de la société ARMBRUSTER FRERES COLMAR sont centrées sur la collecte, le négoce, le séchage et le stockage des céréales et oléoprotéagineux. La page indique un chiffre d’affaires de 170 M€ et un effectif de 135 CDI.",
+  "headcountRange": "50-249",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "subSectors": [
+    "agri-grandes-cultures"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "valueProposition": "Une offre intégrée de collecte, négoce, séchage et stockage pour les filières céréales et oléoprotéagineux.",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/armbruster/"
+}

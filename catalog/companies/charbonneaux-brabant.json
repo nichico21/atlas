@@ -1,0 +1,42 @@
+{
+  "name": "CHARBONNEAUX BRABANT",
+  "commercialName": "CHARBONNEAUX BRABANT",
+  "siren": "",
+  "foundingYear": 1797,
+  "website": "https://www.charbonneauxbrabant.com/",
+  "shortDescription": "Entreprise de Reims fabriquant moutardes, mayonnaises, vinaigres et sauces, et réalisant la formulation et le conditionnement de produits d’entretien et de bricolage.",
+  "detailedDescription": "Créée en 1797, l’entreprise Charbonneaux fabriquait initialement du savon avant de s’orienter vers la dénaturation d’alcool. Elle rejoint en 1962 le groupe familial Brabant, acteur de la distillation d’alcool. L’absorption de la Société Gouthière Detré, productrice de vinaigre, puis de la Maison Florida a accompagné le développement d’une branche alimentaire. Charbonneaux-Brabant est aujourd’hui présent sur deux métiers : la fabrication de vinaigres, moutardes, huiles, mayonnaises et sauces, distribués dans plus de 85 pays, et la formulation, le conditionnement et la distribution de produits d’entretien et de bricolage destinés au grand public et à l’industrie. L’entreprise indique être certifiée PME+.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "agriculture-and-food",
+    "chemicals-and-materials"
+  ],
+  "subSectors": [
+    "agri-transformation-vegetaux",
+    "chimie-chimie"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "logistics-supply-chain"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 30,
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Fabrication agroalimentaire et formulation-conditionnement de produits d'entretien et bricolage.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/charbonneaux-brabant/"
+}

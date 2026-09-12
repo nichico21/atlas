@@ -1,0 +1,29 @@
+{
+  "name": "Jung",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith mentionnée pour ses installations de chauffage.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "construction",
+    "energy"
+  ],
+  "subSectors": [
+    "energie-pompe-chaleur",
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "maintenance-mro"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

@@ -1,0 +1,216 @@
+{
+  "companyId": "ernest-weber-s-a",
+  "fields": {
+    "name": [
+      {
+        "value": "ERNEST WEBER S.A",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      },
+      {
+        "value": "ERNEST WEBER S.A",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "Scierie ERNEST WEBER",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "siren": [
+      {
+        "value": "",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Scierie familiale spécialisée dans le débit sur liste de bois résineux du pays, avec un outil de production de haute technicité pour la première transformation de précision des grumes, y compris en grandes longueurs et fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "Scierie familiale spécialisée dans le débit sur liste de bois résineux local, avec un outil de production de haute technicité pour la première transformation de grumes, y compris en grandes longueurs et fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "ERNEST WEBER S.A est une scierie familiale employant 24 personnes. Son activité principale est le débit sur liste de bois résineux du pays. L'entreprise met l'accent sur l'exploitation de la ressource ligneuse, notamment la coupe hors-sève et l'essence exclusive, ainsi que sur le stockage des avivés par ressuyage et conditionnement. Son outil de production de haute technicité permet une première transformation de précision des grumes et billons, notamment pour des produits de grandes longueurs jusqu'à près de 15 m et de fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "ERNEST WEBER S.A est une scierie familiale employant 24 personnes. Son activité principale est le débit sur liste de bois résineux du pays. L’entreprise met l’accent sur l’exploitation de la ressource ligneuse, notamment la coupe hors-sève et une essence exclusive, ainsi que sur le stockage des avivés par ressuyage et conditionnement. Son outil de production de haute technicité permet une première transformation de précision des grumes, y compris des billons destinés à des produits de grandes longueurs, jusqu’à près de 15 m, et de fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "10-49",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "10-49",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "wood-industry"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "wood-industry"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "bois-activites-industrielles"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "bois-activites-industrielles"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "product-equipment"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "custom-manufacturing",
+          "serial-manufacturing"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": [
+          "custom-manufacturing"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "raw-material-supplier"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Fournir des bois résineux débités sur liste avec une première transformation précise, adaptée aux grandes longueurs et fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      },
+      {
+        "value": "Une scierie familiale apportant une transformation de précision de bois résineux local, y compris pour des produits de grandes longueurs et fortes sections.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

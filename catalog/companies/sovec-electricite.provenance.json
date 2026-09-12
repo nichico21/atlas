@@ -1,0 +1,162 @@
+{
+  "companyId": "sovec-electricite",
+  "fields": {
+    "name": [
+      {
+        "value": "SOVEC Électricité",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "SOVEC",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "SOVEC Électricité conçoit, réalise et maintient des installations électriques, notamment en courants forts, courants faibles, supervision, photovoltaïque et IRVE, avec un bureau d’études intégré et une offre clé-en-main.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "SOVEC Électricité se présente comme un interlocuteur unique pour concevoir, réaliser et maintenir des installations électriques : courants forts, courants faibles, supervision, photovoltaïque et IRVE. L’entreprise indique disposer d’un bureau d’études intégré, réaliser plusieurs centaines de chantiers par an et être présente sur le territoire du Grand Est avec 6 implantations. Les chiffres-clés mentionnés sont 55 M€ de chiffre d’affaires, 350 collaborateurs et 3500 clients accompagnés.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "250-999",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "revenueRange": [
+      {
+        "value": "50m-250m",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 55000000,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "energy",
+          "construction"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "energie-photovoltaique",
+          "energie-reseaux-electriques",
+          "construction-batiments-tp"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service",
+          "engineering-studies"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "design-engineering",
+          "installation-commissioning",
+          "maintenance-mro",
+          "project-management"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "service-provider"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Un interlocuteur unique pour concevoir, piloter, réaliser et maintenir des installations électriques sur mesure, y compris les démarches administratives.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "headquartersAddress": [
+      {
+        "value": "Agence Bas-Rhin et Siège\n12 rue de la Kaltau\n\n67150 HINDISHEIM",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ]
+  }
+}

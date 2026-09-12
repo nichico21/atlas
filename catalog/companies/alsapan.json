@@ -1,0 +1,28 @@
+{
+  "name": "ALSAPAN",
+  "commercialName": "ALSAPAN",
+  "siren": "",
+  "shortDescription": "Entreprise de Dinsheim-sur-Bruche active dans l’industrie de l’ameublement.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-produits-finis"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing"
+  ],
+  "valueProposition": "Fabrication dans l'industrie de l'ameublement.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

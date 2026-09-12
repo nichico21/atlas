@@ -1,0 +1,41 @@
+{
+  "name": "Groupe SIAT",
+  "website": "https://www.groupesiat.fr/",
+  "shortDescription": "Groupe industriel français spécialisé dans le bois, proposant des solutions durables pour la construction, l’aménagement et l’énergie.",
+  "detailedDescription": "Le Groupe SIAT fonde son expertise sur le bois et développe des solutions durables pour la construction, l’aménagement et l’énergie. Le contenu mentionne notamment le bois de construction, les charpentes traditionnelles et industrielles, le bois de couverture, les bois d’ossature et bois collés, l’emballage et le coffrage, le traitement, le bois d’aménagement, ainsi que l’énergie durable avec l’électricité verte et les granulés éco-responsables. Le groupe met en avant un savoir-faire technique de pointe, le client au cœur des décisions et un engagement RSE.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "wood-industry",
+    "energy"
+  ],
+  "subSectors": [
+    "bois-activites-industrielles",
+    "bois-construction",
+    "bois-energie",
+    "bois-gestion-forestiere",
+    "bois-produits-finis"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "rd-innovation",
+    "design-engineering"
+  ],
+  "labels": [
+    "rse-esg"
+  ],
+  "valueProposition": "Proposer des solutions bois durables pour la construction, l’aménagement et l’énergie, appuyées sur un savoir-faire technique de pointe.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/siat/"
+}

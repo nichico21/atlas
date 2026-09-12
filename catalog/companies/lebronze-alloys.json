@@ -1,0 +1,54 @@
+{
+  "name": "LEBRONZE ALLOYS",
+  "commercialName": "LEBRONZE ALLOYS",
+  "siren": "",
+  "website": "https://www.lebronze-alloys.com/",
+  "shortDescription": "Entreprise de Suippes spécialisée dans la conception et la transformation d’alliages de haute performance à base de cuivre et de nickel.",
+  "detailedDescription": "Le Groupe Lebronze alloys, aussi désigné LBA, conçoit et transforme des alliages de haute performance à base de cuivre et de nickel. Il regroupe 6 sites de production et 750 collaborateurs principalement en Europe et en Asie, dispose d’un réseau de distribution mondial et développe des solutions innovantes pour la transition énergétique, les applications haute performance, la miniaturisation, l’économie circulaire et l’électromobilité durable. Le groupe a notamment développé Steriall®, un matériau antimicrobien, ainsi que Hardiall®, un alliage destiné à des composants écologiques et durables pour les milieux extrêmes.",
+  "headcountRange": "250-999",
+  "revenueRange": "250m-1b",
+  "primarySectors": [
+    "mining-and-metallurgy",
+    "chemicals-and-materials"
+  ],
+  "subSectors": [
+    "mines-metaux-non-ferreux",
+    "mines-transformation-recyclage",
+    "mines-fonderie-forges"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "rd-innovation"
+  ],
+  "supplyChainPosition": [
+    "raw-material-supplier",
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe",
+    "asia"
+  ],
+  "exportRevenueShare": 74,
+  "certifications": [
+    "iso-14001",
+    "iso-9001",
+    "other"
+  ],
+  "valueProposition": "Concevoir et transformer des alliages haute performance à base de cuivre et de nickel.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/lebronze-alloys/"
+}

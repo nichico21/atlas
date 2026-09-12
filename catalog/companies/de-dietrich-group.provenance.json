@@ -1,0 +1,134 @@
+{
+  "companyId": "de-dietrich-group",
+  "fields": {
+    "name": [
+      {
+        "value": "De Dietrich Group",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "De Dietrich",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "De Dietrich Group est un acteur industriel des équipements et technologies de procédé, spécialisé dans les solutions de séparation solide-liquide, de séchage et de mélange pour les industries pharmaceutique, chimique, végétale et agroalimentaire.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "De Dietrich Group se présente comme un leader des équipements et technologies de procédé. L’entreprise conçoit, ingénierie et optimise des solutions de process pour les industries pharmaceutique, chimique, végétale et alimentaire. Son offre combine un large portefeuille de solutions de séparation solide-liquide avec des solutions avancées de séchage et de mélange. Elle propose également des services d’upgrade et refurbishment, field service, pièces détachées et composants, essais et location, formations, ainsi qu’études et simulations. Le contenu met en avant une expertise fondée sur une approche système, une ingénierie de qualité, une présence locale forte et une portée mondiale.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "5000-plus",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "chemicals-and-materials",
+          "healthcare",
+          "agriculture-and-food"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "chimie-chimie",
+          "sante-industrie-pharmaceutique",
+          "agri-transformation-vegetaux"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "service",
+          "engineering-studies",
+          "training"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "design-engineering",
+          "maintenance-mro",
+          "testing-certification",
+          "consulting-studies",
+          "training"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "internationalExperience": [
+      {
+        "value": true,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "De Dietrich Group aide les industries de procédé à optimiser leurs opérations grâce à des équipements et services de séparation solide-liquide, séchage et mélange, combinant expertise d’ingénierie, qualité et intervention mondiale.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

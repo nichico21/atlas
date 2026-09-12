@@ -1,0 +1,32 @@
+{
+  "name": "AXON CABLES",
+  "commercialName": "AXON CABLES",
+  "siren": "",
+  "shortDescription": "Entreprise de Montmirail spécialisée dans les composants électroniques.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "valueProposition": "Composants électroniques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

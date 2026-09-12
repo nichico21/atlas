@@ -1,0 +1,32 @@
+{
+  "name": "ERNEST WEBER S.A",
+  "commercialName": "Scierie ERNEST WEBER",
+  "siren": "",
+  "shortDescription": "Scierie familiale spécialisée dans le débit sur liste de bois résineux local, avec un outil de production de haute technicité pour la première transformation de grumes, y compris en grandes longueurs et fortes sections.",
+  "detailedDescription": "ERNEST WEBER S.A est une scierie familiale employant 24 personnes. Son activité principale est le débit sur liste de bois résineux du pays. L’entreprise met l’accent sur l’exploitation de la ressource ligneuse, notamment la coupe hors-sève et une essence exclusive, ainsi que sur le stockage des avivés par ressuyage et conditionnement. Son outil de production de haute technicité permet une première transformation de précision des grumes, y compris des billons destinés à des produits de grandes longueurs, jusqu’à près de 15 m, et de fortes sections.",
+  "headcountRange": "10-49",
+  "primarySectors": [
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-activites-industrielles"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "custom-manufacturing",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "raw-material-supplier"
+  ],
+  "valueProposition": "Fournir des bois résineux débités sur liste avec une première transformation précise, adaptée aux grandes longueurs et fortes sections.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.scierie-weber.fr/"
+}

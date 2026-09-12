@@ -1,0 +1,34 @@
+{
+  "name": "GROUPE ESARIS INDUSTRIE",
+  "commercialName": "GROUPE ESARIS INDUSTRIE",
+  "siren": "",
+  "shortDescription": "Entreprise d’Illkirch-Graffenstaden spécialisée dans les connectiques, contacts électriques, composants et sous-ensembles électromécaniques, ainsi que les rails électriques mobiles.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "digital-infrastructure",
+    "energy"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels",
+    "energie-reseaux-electriques"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "valueProposition": "Composants, connectiques et sous-ensembles électromécaniques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

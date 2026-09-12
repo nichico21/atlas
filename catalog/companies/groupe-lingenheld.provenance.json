@@ -1,0 +1,155 @@
+{
+  "companyId": "groupe-lingenheld",
+  "fields": {
+    "name": [
+      {
+        "value": "Groupe LINGENHELD",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Groupe familial actif dans les travaux publics et des métiers complémentaires : exploitation de carrières, valorisation et traitement des déchets, dépollution de sols, méthanisation, démolition, désamiantage, fondations spéciales, aménagement foncier et promotion immobilière.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Le Groupe LINGENHELD présente son développement comme fondé sur une synergie de compétences autour des travaux publics et d’un large panel de métiers complémentaires : exploitation de carrières, valorisation et traitement des déchets, dépollution de sols, méthanisation, démolition, désamiantage, fondations spéciales et parois blindées, aménagement foncier et promotion immobilière. Le contenu mentionne 250 millions d’euros de chiffre d’affaires, 640 collaborateurs, un parc matériel propre de 620 machines et 20 millions d’euros d’investissement en 2023.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "250-999",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "revenueRange": [
+      {
+        "value": "250m-1b",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "annualRevenue": [
+      {
+        "value": 250000000,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "waste-management",
+          "energy"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-batiments-tp",
+          "construction-infrastructures",
+          "construction-materiaux",
+          "dechets-tri-traitement",
+          "dechets-valorisation-energetique",
+          "energie-biogaz"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "decommissioning",
+          "project-management"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "supplyChainPosition": [
+      {
+        "value": [
+          "service-provider"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "labels": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Une synergie de métiers territoriaux combinant travaux publics, environnement, carrières, démolition, désamiantage, fondations et aménagement.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

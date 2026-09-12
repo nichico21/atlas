@@ -1,0 +1,57 @@
+{
+  "name": "NORMALU SAS",
+  "commercialName": "Barrisol Normalu®",
+  "siren": "",
+  "foundingYear": 1967,
+  "website": "http://www.barrisol.com/",
+  "shortDescription": "Barrisol Normalu® est une société française spécialisée dans les plafonds tendus et solutions pour murs et plafonds, combinant innovation, esthétique, qualité, sécurité et préservation de l’environnement.",
+  "detailedDescription": "Fondée en 1967, Barrisol Normalu® se présente comme le leader mondial des plafonds tendus. L’entreprise propose des solutions acoustiques, lumineuses, imprimées, miroir, 3D ou climatisées pour les murs et plafonds. Ses produits sont classés A+, répondent à des normes européennes et internationales strictes de sécurité incendie, sont garantis sans plomb, sans phtalate ni cadmium, 100 % recyclables et d’origine France garantie. L’entreprise revendique plus de 100 brevets déposés, plus de 50 prix reçus, une présence dans plus de 100 pays sur 6 continents et un réseau de plus de 1100 installateurs agréés.",
+  "headcountRange": "50-249",
+  "revenueRange": "10m-50m",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
+  "offerType": [
+    "product-equipment",
+    "training"
+  ],
+  "keyCapabilities": [
+    "rd-innovation",
+    "design-engineering",
+    "serial-manufacturing",
+    "training"
+  ],
+  "internationalExperience": true,
+  "exportCountries": [
+    "saudi-arabia",
+    "egypt",
+    "other"
+  ],
+  "geographicZones": [
+    "africa",
+    "asia",
+    "europe",
+    "americas",
+    "oceania",
+    "middle-east"
+  ],
+  "exportRevenueShare": 70,
+  "certifications": [
+    "other"
+  ],
+  "labels": [
+    "origine-france-garantie"
+  ],
+  "valueProposition": "Des solutions techniques, esthétiques et recyclables de plafonds tendus et murs, portées par une forte capacité d’innovation et un réseau international d’installateurs agréés.",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/normalu-sas-groupe-barrisol/"
+}

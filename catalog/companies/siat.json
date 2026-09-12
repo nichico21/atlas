@@ -1,0 +1,33 @@
+{
+  "name": "SIAT",
+  "commercialName": "SIAT",
+  "siren": "",
+  "shortDescription": "Entreprise d’Urmatt active comme scierie.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "construction",
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-activites-industrielles"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "raw-material-supplier"
+  ],
+  "valueProposition": "Transformation industrielle du bois en scierie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

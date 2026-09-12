@@ -1,0 +1,42 @@
+{
+  "name": "Burger & Cie",
+  "foundingYear": 1847,
+  "website": "https://www.burger.fr/",
+  "shortDescription": "Burger & Cie est une entreprise familiale industrielle alsacienne spécialisée dans le bois, avec des activités BtoB de produits d’aménagement intérieur et extérieur, de systèmes de fixation pour terrasses et bardages, ainsi qu’une activité de maisons individuelles à ossature bois sur mesure.",
+  "detailedDescription": "Fondée en 1847, Burger & Cie poursuit son développement avec la 6e génération familiale. Le site de Lièpvre est spécialisé dans la production de produits pour la maison à travers les marques Burger, Jardipolys et Grad, destinées notamment aux GSB, jardineries, négociants, architectes, paysagistes et revendeurs. L’entreprise dispose d’équipes de production, d’une force de vente, d’un service expédition/logistique et d’un service R&D intégré. Elle exploite également l’activité Maison booa à Châtenois, dédiée à la fabrication de maisons individuelles à ossature bois design, sur mesure et éco-responsables, avec un bureau d’études intégré et des ateliers de production. Burger & Cie investit dans des machines et bras robotisés permettant de travailler le bois, le métal et le plastique.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "wood-industry",
+    "construction"
+  ],
+  "subSectors": [
+    "bois-construction",
+    "bois-produits-finis",
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "rd-innovation",
+    "design-engineering",
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "project-management",
+    "logistics-supply-chain"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 4.3,
+  "valueProposition": "Burger & Cie combine un savoir-faire industriel familial dans le bois, la conception intégrée et la production de solutions d’aménagement et de maisons à ossature bois sur mesure.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/burger/"
+}

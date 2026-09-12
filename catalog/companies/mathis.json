@@ -1,0 +1,50 @@
+{
+  "name": "MATHIS",
+  "commercialName": "MATHIS",
+  "siren": "",
+  "website": "https://www.mathis.eu/fr",
+  "shortDescription": "Entreprise de Muttersholtz active dans la construction bois.",
+  "detailedDescription": "Mathis est présentée comme forte de 200 ans d’innovation au service de la construction bois. L’entreprise familiale alsacienne dispose de son propre pôle de recherche et développement au service du bois dans la construction. Elle est reconnue aux plans national et international comme entreprise générale et spécialiste de systèmes constructifs complexes en bois, notamment pour des réalisations architecturales ambitieuses.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction",
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-construction",
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "engineering-studies",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "design-engineering",
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "rd-innovation",
+    "systems-integration",
+    "project-management"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider",
+    "prime-contractor",
+    "system-integrator"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 5,
+  "valueProposition": "Solutions de construction bois.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/mathis/"
+}

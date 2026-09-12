@@ -1,0 +1,35 @@
+{
+  "name": "EXACOMPTA CLAIREFONTAINE",
+  "commercialName": "EXACOMPTA CLAIREFONTAINE",
+  "siren": "",
+  "foundingYear": 1858,
+  "website": "https://www.exacomptaclairefontaine.fr/",
+  "shortDescription": "Entreprise d’Étival-Clairefontaine active dans les papiers et articles de papeterie.",
+  "detailedDescription": "Le groupe Exacompta Clairefontaine est présenté comme un ensemble unique par la qualité de ses produits, la notoriété de ses marques, ainsi que ses moyens industriels et commerciaux. Il revendique 3 485 collaborateurs, 168 ans d’histoire, 13 marques de premier plan, 34 sites industriels et 95 % de fabrication en France et dans l’Union européenne. Ses expertises couvrent le papier d’impression et d’écriture, le bureau et le classement, les façonnés papiers, les agendas et la papeterie personnelle, l’art et les loisirs, ainsi qu’un pôle photo et digital.",
+  "headcountRange": "250-999",
+  "revenueRange": "250m-1b",
+  "primarySectors": [
+    "chemicals-and-materials"
+  ],
+  "subSectors": [
+    "chimie-papier-carton"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 43,
+  "valueProposition": "Fabrication de papiers et articles de papeterie.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/exacompta-clairefontaine/"
+}

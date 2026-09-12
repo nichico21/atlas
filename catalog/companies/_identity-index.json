@@ -460,5 +460,271 @@
     "normalizedAliases": [
       "groupe oci"
     ]
+  },
+  "adam": {
+    "companyId": "adam",
+    "siren": null,
+    "normalizedAliases": [
+      "adam"
+    ]
+  },
+  "denni-legoll": {
+    "companyId": "denni-legoll",
+    "siren": null,
+    "normalizedAliases": [
+      "denni legoll"
+    ]
+  },
+  "alter": {
+    "companyId": "alter",
+    "siren": null,
+    "normalizedAliases": [
+      "alter"
+    ]
+  },
+  "hanau": {
+    "companyId": "hanau",
+    "siren": null,
+    "normalizedAliases": [
+      "hanau"
+    ]
+  },
+  "gaial": {
+    "companyId": "gaial",
+    "siren": null,
+    "normalizedAliases": [
+      "gaial"
+    ]
+  },
+  "ceterra": {
+    "companyId": "ceterra",
+    "siren": null,
+    "normalizedAliases": [
+      "ceterra"
+    ]
+  },
+  "visconti": {
+    "companyId": "visconti",
+    "siren": null,
+    "normalizedAliases": [
+      "visconti"
+    ]
+  },
+  "schreiber": {
+    "companyId": "schreiber",
+    "siren": null,
+    "normalizedAliases": [
+      "schreiber"
+    ]
+  },
+  "jung": {
+    "companyId": "jung",
+    "siren": null,
+    "normalizedAliases": [
+      "jung"
+    ]
+  },
+  "zenith-union-d-entreprises": {
+    "companyId": "zenith-union-d-entreprises",
+    "siren": null,
+    "normalizedAliases": [
+      "zenith union d entreprises"
+    ]
+  },
+  "victor-heinrich-molsheim": {
+    "companyId": "victor-heinrich-molsheim",
+    "siren": null,
+    "normalizedAliases": [
+      "victor heinrich molsheim"
+    ]
+  },
+  "noremat": {
+    "companyId": "noremat",
+    "siren": null,
+    "normalizedAliases": [
+      "noremat"
+    ]
+  },
+  "maneko": {
+    "companyId": "maneko",
+    "siren": null,
+    "normalizedAliases": [
+      "maneko"
+    ]
+  },
+  "groupe-pierre-schmidt": {
+    "companyId": "groupe-pierre-schmidt",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe pierre schmidt"
+    ]
+  },
+  "pierre-schmidt": {
+    "companyId": "pierre-schmidt",
+    "siren": null,
+    "normalizedAliases": [
+      "pierre schmidt"
+    ]
+  },
+  "ernest-weber-s-a": {
+    "companyId": "ernest-weber-s-a",
+    "siren": null,
+    "normalizedAliases": [
+      "ernest weber s a"
+    ]
+  },
+  "normalu": {
+    "companyId": "normalu",
+    "siren": null,
+    "normalizedAliases": [
+      "normalu"
+    ]
+  },
+  "moog-batisseur-bois": {
+    "companyId": "moog-batisseur-bois",
+    "siren": null,
+    "normalizedAliases": [
+      "moog batisseur bois"
+    ]
+  },
+  "ks-construction": {
+    "companyId": "ks-construction",
+    "siren": null,
+    "normalizedAliases": [
+      "ks construction"
+    ]
+  },
+  "groupe-pierre-schmidt-stoeffler": {
+    "companyId": "groupe-pierre-schmidt-stoeffler",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe pierre schmidt stoeffler"
+    ]
+  },
+  "barrisol": {
+    "companyId": "barrisol",
+    "siren": null,
+    "normalizedAliases": [
+      "barrisol"
+    ]
+  },
+  "groupe-siat": {
+    "companyId": "groupe-siat",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe siat"
+    ]
+  },
+  "groupe-de-dietrich-process-systems": {
+    "companyId": "groupe-de-dietrich-process-systems",
+    "siren": null,
+    "normalizedAliases": [
+      "groupe de dietrich process systems"
+    ]
+  },
+  "de-dietrich-group": {
+    "companyId": "de-dietrich-group",
+    "siren": null,
+    "normalizedAliases": [
+      "de dietrich group"
+    ]
+  },
+  "fehr-groupe": {
+    "companyId": "fehr-groupe",
+    "siren": null,
+    "normalizedAliases": [
+      "fehr groupe"
+    ]
+  },
+  "armbruster-freres-colmar": {
+    "companyId": "armbruster-freres-colmar",
+    "siren": null,
+    "normalizedAliases": [
+      "armbruster freres colmar"
+    ]
+  },
+  "brasserie-meteor": {
+    "companyId": "brasserie-meteor",
+    "siren": null,
+    "normalizedAliases": [
+      "brasserie meteor"
+    ]
+  },
+  "soframe": {
+    "companyId": "soframe",
+    "siren": null,
+    "normalizedAliases": [
+      "soframe"
+    ]
+  },
+  "rector": {
+    "companyId": "rector",
+    "siren": null,
+    "normalizedAliases": [
+      "rector"
+    ]
+  },
+  "sovec-entreprises": {
+    "companyId": "sovec-entreprises",
+    "siren": null,
+    "normalizedAliases": [
+      "sovec entreprises"
+    ]
+  },
+  "sovec-electricite": {
+    "companyId": "sovec-electricite",
+    "siren": null,
+    "normalizedAliases": [
+      "sovec electricite"
+    ]
+  },
+  "solutaum": {
+    "companyId": "solutaum",
+    "siren": null,
+    "normalizedAliases": [
+      "solutaum"
+    ]
+  },
+  "cevos": {
+    "companyId": "cevos",
+    "siren": null,
+    "normalizedAliases": [
+      "cevos"
+    ]
+  },
+  "esaris-industries": {
+    "companyId": "esaris-industries",
+    "siren": null,
+    "normalizedAliases": [
+      "esaris industries"
+    ]
+  },
+  "esaris": {
+    "companyId": "esaris",
+    "siren": null,
+    "normalizedAliases": [
+      "esaris"
+    ]
+  },
+  "reseau-gaz-naturel-strasbourg": {
+    "companyId": "reseau-gaz-naturel-strasbourg",
+    "siren": null,
+    "normalizedAliases": [
+      "reseau gaz naturel strasbourg"
+    ]
+  },
+  "burger-cie": {
+    "companyId": "burger-cie",
+    "siren": null,
+    "normalizedAliases": [
+      "burger cie"
+    ]
+  },
+  "axon-cable": {
+    "companyId": "axon-cable",
+    "siren": null,
+    "normalizedAliases": [
+      "axon cable"
+    ]
   }
 }

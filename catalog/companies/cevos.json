@@ -1,0 +1,32 @@
+{
+  "name": "CEVOS",
+  "shortDescription": "CEVOS conçoit, déploie et maintient des solutions intégrées de sûreté et de sécurité pour sites et infrastructures critiques.",
+  "detailedDescription": "Le contenu indique que CEVOS intervient dans la sûreté et la sécurité, en concevant, déployant et maintenant des solutions intégrées adaptées aux risques spécifiques des sites et infrastructures critiques.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "defense-and-security"
+  ],
+  "offerType": [
+    "service",
+    "systems-integration",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "systems-integration",
+    "installation-commissioning",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "system-integrator",
+    "service-provider"
+  ],
+  "valueProposition": "Des solutions intégrées de sûreté et de sécurité adaptées aux risques des sites et infrastructures critiques.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.sovec-entreprises.fr/"
+}

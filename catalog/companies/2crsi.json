@@ -1,0 +1,66 @@
+{
+  "name": "2CRSI SA",
+  "commercialName": "2CRSI",
+  "siren": "",
+  "foundingYear": 2005,
+  "website": "https://2crsi.com/",
+  "shortDescription": "Entreprise de Strasbourg spécialisée dans la fabrication de serveurs informatiques.",
+  "detailedDescription": "2CRSi is a French global Tech group, listed on Euronext Growth Paris and active in the IT & Computer Hardware industry. The group develops, manufactures, and distributes end-to-end energy-efficient computing solutions, with a positioning around high-performance and high-efficiency server technology for data centers, AI, cloud and HPC. The content highlights tailor-made solutions, smart designs, operational agility and Green IT.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-centres-donnees",
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "engineering-studies",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "design-engineering",
+    "systems-integration",
+    "consulting-studies",
+    "rd-innovation"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
+  ],
+  "internationalExperience": true,
+  "exportCountries": [
+    "germany",
+    "united-states",
+    "united-arab-emirates",
+    "india",
+    "other"
+  ],
+  "geographicZones": [
+    "europe",
+    "americas",
+    "middle-east",
+    "asia",
+    "oceania"
+  ],
+  "exportRevenueShare": 87,
+  "workingLanguages": [
+    "english"
+  ],
+  "valueProposition": "Fabrication de serveurs informatiques.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "C/O LINGENHELD - CHEM Du Hitzthal\n\t\t\t\t\t\t\t\t\tCarrefour Bellevue\n\t\t\t\t\t\t\t\t\t67203 Oberschaeffolsheim",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/2crsi-sa/"
+}

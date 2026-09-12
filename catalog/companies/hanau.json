@@ -1,0 +1,32 @@
+{
+  "name": "Hanau",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith mentionnée pour ses activités de désamiantage, déconstruction et déplombage.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    
+    "construction",
+    "energy",
+    "waste-management"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "dechets-tri-traitement"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    
+    "decommissioning",
+    "installation-commissioning"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

@@ -1,0 +1,170 @@
+{
+  "companyId": "barrisol",
+  "fields": {
+    "name": [
+      {
+        "value": "Barrisol",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 1975,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Barrisol est présenté comme un leader mondial des plafonds tendus, avec une collection de plus de 20 systèmes pour plafonds et murs incluant des solutions bas carbone, lumineuses, acoustiques, miroirs, imprimées, textiles et de climatisation esthétique.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "Le contenu décrit Barrisol comme une marque créée en 1975, spécialisée dans les plafonds tendus. La collection comprend plus de 20 systèmes de plafonds tendus et des solutions pour plafonds et murs : solutions bas carbone, éclairage, Barrisol Clim®, formes 3D et stands, solutions acoustiques, miroirs, Microsorber®, Barrisol GTs®, Arcolis®, Artolis®, impressions et éditions. Plusieurs innovations produits sont mentionnées, dont des membranes biosourcées ou recyclables, Biowood, Polaris, Chronos et Biosource Arctic.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "1000-4999",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction",
+          "chemicals-and-materials",
+          "energy"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-materiaux",
+          "chimie-plasturgie",
+          "energie-pompe-chaleur"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "systems-integration"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "rd-innovation",
+          "design-engineering",
+          "serial-manufacturing",
+          "installation-commissioning",
+          "training"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "internationalExperience": [
+      {
+        "value": true,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "geographicZones": [
+      {
+        "value": [
+          "europe",
+          "africa",
+          "middle-east"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ],
+    "certifications": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "labels": [
+      {
+        "value": [
+          "other"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "Barrisol propose des systèmes de plafonds et murs tendus innovants combinant design architectural, performance acoustique, éclairage, solutions bas carbone et économies d’énergie.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": false,
+        "extractedAt": "2026-08-07",
+        "confidence": 5.3999999999999995
+      }
+    ]
+  }
+}

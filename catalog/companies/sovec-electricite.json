@@ -1,0 +1,39 @@
+{
+  "name": "SOVEC Électricité",
+  "commercialName": "SOVEC",
+  "shortDescription": "SOVEC Électricité conçoit, réalise et maintient des installations électriques, notamment en courants forts, courants faibles, supervision, photovoltaïque et IRVE, avec un bureau d’études intégré et une offre clé-en-main.",
+  "detailedDescription": "SOVEC Électricité se présente comme un interlocuteur unique pour concevoir, réaliser et maintenir des installations électriques : courants forts, courants faibles, supervision, photovoltaïque et IRVE. L’entreprise indique disposer d’un bureau d’études intégré, réaliser plusieurs centaines de chantiers par an et être présente sur le territoire du Grand Est avec 6 implantations. Les chiffres-clés mentionnés sont 55 M€ de chiffre d’affaires, 350 collaborateurs et 3500 clients accompagnés.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "energy",
+    "construction"
+  ],
+  "subSectors": [
+    "energie-photovoltaique",
+    "energie-reseaux-electriques",
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "installation-commissioning",
+    "maintenance-mro",
+    "project-management"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "valueProposition": "Un interlocuteur unique pour concevoir, piloter, réaliser et maintenir des installations électriques sur mesure, y compris les démarches administratives.",
+  "headquartersAddress": "Agence Bas-Rhin et Siège\n12 rue de la Kaltau\n\n67150 HINDISHEIM",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.sovec-entreprises.fr/"
+}

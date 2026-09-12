@@ -16,10 +16,12 @@
     "test:openai": "tsx scripts/tests/test-openai.ts",
     "specialist": "tsx scripts/run-specialist.ts",
     "company-finder": "tsx scripts/run-company-finder.ts",
-    "inspect-completion": "tsx scripts/inspect-completion.ts"
+    "inspect-completion": "tsx scripts/inspect-completion.ts",
+    "sync-supabase": "tsx scripts/sync-supabase.ts"
   },
   "dependencies": {
     "@mozilla/readability": "^0.6.0",
+    "@supabase/supabase-js": "^2.112.2",
     "dotenv": "^17.4.2",
     "jsdom": "^29.1.1",
     "lucide-react": "^1.25.0",

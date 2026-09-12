@@ -1,0 +1,48 @@
+{
+  "name": "Barrisol",
+  "foundingYear": 1975,
+  "shortDescription": "Barrisol est présenté comme un leader mondial des plafonds tendus, avec une collection de plus de 20 systèmes pour plafonds et murs incluant des solutions bas carbone, lumineuses, acoustiques, miroirs, imprimées, textiles et de climatisation esthétique.",
+  "detailedDescription": "Le contenu décrit Barrisol comme une marque créée en 1975, spécialisée dans les plafonds tendus. La collection comprend plus de 20 systèmes de plafonds tendus et des solutions pour plafonds et murs : solutions bas carbone, éclairage, Barrisol Clim®, formes 3D et stands, solutions acoustiques, miroirs, Microsorber®, Barrisol GTs®, Arcolis®, Artolis®, impressions et éditions. Plusieurs innovations produits sont mentionnées, dont des membranes biosourcées ou recyclables, Biowood, Polaris, Chronos et Biosource Arctic.",
+  "headcountRange": "1000-4999",
+  "primarySectors": [
+    "construction",
+    "chemicals-and-materials",
+    "energy"
+  ],
+  "subSectors": [
+    "construction-materiaux",
+    "chimie-plasturgie",
+    "energie-pompe-chaleur"
+  ],
+  "offerType": [
+    "product-equipment",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "rd-innovation",
+    "design-engineering",
+    "serial-manufacturing",
+    "installation-commissioning",
+    "training"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe",
+    "africa",
+    "middle-east"
+  ],
+  "certifications": [
+    "other"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Barrisol propose des systèmes de plafonds et murs tendus innovants combinant design architectural, performance acoustique, éclairage, solutions bas carbone et économies d’énergie.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

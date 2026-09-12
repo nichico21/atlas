@@ -1,0 +1,44 @@
+{
+  "name": "Groupe De Dietrich Process Systems",
+  "commercialName": "De Dietrich Process Systems",
+  "website": "https://www.dedietrich.com/",
+  "shortDescription": "De Dietrich Process Systems fournit des systèmes, équipements et services pour les industries de la chimie, de la chimie fine, de la pharmacie et des industries associées.",
+  "detailedDescription": "Le Groupe De Dietrich Process Systems est présenté comme une entreprise séculaire, active depuis plus de trois siècles. Il fournit des équipements émaillés, en verre et des filtre/sécheurs de haute qualité, ainsi qu’une gamme complète de systèmes, d’équipements et de services pour les industries de la chimie, de la chimie fine, de la pharmacie et des industries associées. L’entreprise indique avoir progressivement concentré ses activités sur la fabrication et la mise en œuvre d’équipements pour les industries chimiques et pharmaceutiques, avec une mission centrée sur des solutions complètes et innovantes en matière de sécurité opérationnelle, qualité des produits et protection de l’environnement.",
+  "headcountRange": "1000-4999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "chemicals-and-materials",
+    "healthcare",
+    "waste-management"
+  ],
+  "subSectors": [
+    "chimie-chimie",
+    "sante-industrie-pharmaceutique",
+    "dechets-recyclage"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "rd-innovation",
+    "custom-manufacturing",
+    "systems-integration",
+    "installation-commissioning"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 75,
+  "valueProposition": "Fournir des solutions complètes et innovantes aux industries chimiques, pharmaceutiques et associées, avec un accent sur la sécurité opérationnelle, la qualité des produits et la protection de l’environnement.",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/de-dietrich-process-systems/"
+}

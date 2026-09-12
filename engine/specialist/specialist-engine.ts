@@ -136,7 +136,8 @@ export async function executeSpecialist(
   const sections: string[] = [];
   const loadedDocuments: string[] = [];
 
-const catalogContent = loadCatalogForPrompt();
+  const scope = specialistId === "company-finder" ? "company" : "source";
+  const catalogContent = loadCatalogForPrompt(scope);
 sections.push(catalogContent);
 loadedDocuments.push("atlas-catalog");
 

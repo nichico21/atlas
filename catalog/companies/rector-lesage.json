@@ -1,0 +1,37 @@
+{
+  "name": "RECTOR LESAGE",
+  "commercialName": "RECTOR LESAGE",
+  "siren": "",
+  "website": "http://www.rector.fr/",
+  "shortDescription": "Entreprise de Mulhouse active dans la préfabrication béton.",
+  "detailedDescription": "Industriel spécialiste de la fabrication d’éléments de plancher en béton précontraint et béton armé, murs et éléments de structure, Rector conçoit, produit et commercialise des systèmes innovants destinés aux professionnels du bâtiment. L’entreprise est présentée comme l’un des acteurs majeurs du marché de la fabrication de matériaux en béton, notamment grâce à son produit phare, la poutrelle en béton précontraint.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "design-engineering"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 10,
+  "valueProposition": "Préfabrication béton pour la construction.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/rector-lesage/"
+}

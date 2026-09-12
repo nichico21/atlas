@@ -1,0 +1,43 @@
+{
+  "name": "KS GROUPE",
+  "commercialName": "KS GROUPE",
+  "siren": "",
+  "website": "https://www.ksgroupe.fr",
+  "shortDescription": "Entreprise de Bischheim active dans la construction.",
+  "detailedDescription": "KS Groupe se présente comme une société à mission engagée dans la réinvention des méthodes du bâtiment face aux défis environnementaux et sociétaux. Le groupe met en avant une synergie d’expertises au service des projets, une mission centrée sur l’inclusion et la préservation de l’environnement, ainsi qu’un fonds de dotation actionnaire créé en 2021 pour redistribuer une partie de la valeur économique générée à des associations d’intérêt général.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-batiments-tp"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning",
+    "design-engineering",
+    "consulting-studies"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Un savoir-faire global et une synergie d’expertises pour accompagner des projets de bâtiment en conciliant inclusion et préservation de l’environnement.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "10, rue de l'atome\n67800 Bischheim",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

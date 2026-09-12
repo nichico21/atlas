@@ -1,5 +1,5 @@
 export type Company = {
-  id: number;
+  id: string;
 
   name: string;
 
@@ -17,6 +17,8 @@ export type Company = {
 
   countries: string[];
 
+  geographicZones?: string[];
+
   references: string[];
 
   certifications: string[];
@@ -27,6 +29,10 @@ export type Company = {
 
   exportExperience: "Faible" | "Moyenne" | "Élevée";
 
+  exportRevenueSharePercent?: number;
+
+supplyChainPosition?: string[];
+
   contact: {
     name: string;
     email: string;
@@ -35,7 +41,10 @@ export type Company = {
 
   frenchPotentialScore: number;
 
+  headcountRange?: string;
+
   strategicPartner: boolean;
 
   lastUpdated: string;
+
 };

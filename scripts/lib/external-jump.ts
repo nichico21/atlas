@@ -75,9 +75,11 @@ try {
     const resolvedCompany = resolveCompany(updatedProvenance, companyFields);
 
     const existingResolved = loadExistingJson<Record<string, unknown>>(resolution.companyId, ".json");
-    resolvedCompany.completionStatus = existingResolved?.completionStatus ?? "ai-draft";
+resolvedCompany.completionStatus = existingResolved?.completionStatus ?? "ai-draft";
+resolvedCompany.sourceId = existingResolved?.sourceId ?? SELF_DECLARED_SOURCE_ID;
+resolvedCompany.sourceUrl = existingResolved?.sourceUrl ?? jump.url;
 
-    writeWorkspaceFile("companies", `${resolution.companyId}.json`, JSON.stringify(resolvedCompany, null, 2));
+writeWorkspaceFile("companies", `${resolution.companyId}.json`, JSON.stringify(resolvedCompany, null, 2));
     writeWorkspaceFile("companies", `${resolution.companyId}.provenance.json`, JSON.stringify(updatedProvenance, null, 2));
 
     console.log(`    ✓ Enrichi via saut externe : ${resolution.companyId}`);

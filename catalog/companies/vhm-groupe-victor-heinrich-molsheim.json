@@ -1,0 +1,40 @@
+{
+  "name": "VHM GROUPE VICTOR HEINRICH MOLSHEIM SA",
+  "commercialName": "VHM",
+  "siren": "",
+  "shortDescription": "Entreprise de Molsheim active dans le transport de l’eau, l’aménagement urbain et la fonderie industrielle.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "water",
+    "construction",
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "eau-equipements",
+    "construction-infrastructures",
+    "mines-fonderie-forges"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer",
+    "service-provider"
+  ],
+  "valueProposition": "Solutions industrielles pour le transport de l'eau, l'aménagement urbain et la fonderie.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "8, rue de la fonderie 67129 Molsheim",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/vhm-groupe-victor-heinrich-molsheim-sa/"
+}

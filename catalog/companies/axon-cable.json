@@ -1,0 +1,55 @@
+{
+  "name": "Axon’ Cable",
+  "website": "http://www.axon-cable.fr/",
+  "shortDescription": "Axon’ Cable conçoit et fabrique des câbles et systèmes d’interconnexion pour l’électronique de pointe, destinés notamment aux marchés automobile, aéronautique, spatial, médical et défense.",
+  "detailedDescription": "Depuis plus de 55 ans, le groupe Axon’ se consacre à la conception et à la fabrication de câbles et systèmes d’interconnexion pour l’électronique de pointe. Sa gamme comprend notamment des fils de câblage pour hautes températures, câbles hybrides, cordons, harnais complexes, mini-systèmes, contacts, connecteurs miniatures, composants élastomériques et pièces métalloplastiques. Axon’ Cable adapte ses solutions à différents marchés : automobile, aéronautique, spatial, recherche scientifique, médical et défense, avec un outil de production adapté aux petites séries comme aux grands volumes.",
+  "headcountRange": "1000-4999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "digital-infrastructure",
+    "automotive",
+    "aerospace",
+    "space",
+    "healthcare",
+    "defense-and-security"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels",
+    "auto-equipementiers",
+    "aero-equipementiers",
+    "space-equipements-sous-systemes",
+    "sante-technologies-medicales",
+    "defense-electronique"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "rd-innovation",
+    "design-engineering",
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "africa",
+    "middle-east",
+    "asia",
+    "europe",
+    "americas",
+    "oceania"
+  ],
+  "exportRevenueShare": 70,
+  "valueProposition": "Axon’ Cable fournit des solutions d’interconnexion innovantes et sur mesure pour des environnements et marchés à fortes contraintes techniques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/axon-cables/"
+}

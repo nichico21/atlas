@@ -1,0 +1,40 @@
+{
+  "name": "DEMATHIEU BARD",
+  "commercialName": "DEMATHIEU BARD",
+  "siren": "",
+  "website": "https://www.demathieu-bard.fr/",
+  "shortDescription": "Entreprise de Montigny-lès-Metz active dans le bâtiment et les travaux publics.",
+  "detailedDescription": "Groupe indépendant depuis 160 ans, DEMATHIEU BARD se présente comme l’un des principaux acteurs français des métiers de la Construction et de l’Immobilier. Ses activités Infrastructure – Génie Civil, Bâtiment et Promotion immobilière travaillent en synergie, avec un ancrage régional fort, des savoir-faire historiques et une expertise technique lui permettant de répondre à des projets courants comme complexes. Le groupe conduit chaque année des projets d’aménagement urbain, conçoit, construit, réhabilite et développe des programmes immobiliers adaptés à l’évolution des modes de vie et des usages futurs.",
+  "headcountRange": "250-999",
+  "revenueRange": "over-1b",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "construction-infrastructures"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning",
+    "design-engineering"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 20,
+  "valueProposition": "Réalisation de projets de bâtiment et travaux publics.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/demathieu-bard/"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "SOVEC Entreprises",
+  "commercialName": "Sovec",
+  "foundingYear": 1975,
+  "website": "https://www.sovec-entreprises.fr/",
+  "shortDescription": "SOVEC Entreprises conçoit, réalise et maintient des installations électriques pour les professionnels de l’industrie, du tertiaire et du bâtiment, notamment en HT, BT, automation, VDI, sûreté/sécurité et centrales solaires.",
+  "detailedDescription": "Fondée en 1975 près de Strasbourg, SOVEC Entreprises intervient auprès des professionnels de l’industrie, du tertiaire et du bâtiment pour la conception, la réalisation et la maintenance d’installations électriques en haute tension, basse tension, automation, VDI, sûreté/sécurité et centrales solaires.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction",
+    "energy",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "energie-reseaux-electriques",
+    "energie-photovoltaique",
+    "digital-reseaux-fibre"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies",
+    "systems-integration"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "installation-commissioning",
+    "maintenance-mro",
+    "systems-integration"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "valueProposition": "Concevoir, réaliser et maintenir des installations électriques professionnelles complètes, de la HT/BT à l’automation, la VDI, la sécurité et les centrales solaires.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "2 rue Bartisch\n\t\t\t\t\t\t\t\t67100 Strasbourg",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/sovec/"
+}

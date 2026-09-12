@@ -1,0 +1,53 @@
+{
+  "name": "FEHR",
+  "commercialName": "FEHR",
+  "siren": "",
+  "foundingYear": 1960,
+  "website": "https://www.fehrgroup.com/",
+  "shortDescription": "Entreprise de Reichshoffen spécialisée dans les solutions béton.",
+  "detailedDescription": "FEHR est spécialisée dans les solutions béton. L’entreprise dispose de 9 centrales dans l’Est de la France et de 5 sites de production dont 2 en Allemagne. Elle propose en Europe une gamme de produits incluant du béton prêt à l’emploi, des éléments en béton préfabriqués comme le mur Précoffré®, la prédalle et le panneau de bardage FClad® en Béton Fibré Ultra Hautes Performances. Des services associés tels que la logistique, la location d’engins et des équipes d’assemblage complètent son offre. FEHR met en avant le développement de solutions innovantes, techniques et respectueuses de l’environnement.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction"
+  ],
+  "subSectors": [
+    "construction-materiaux"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing",
+    "rd-innovation",
+    "logistics-supply-chain",
+    "installation-commissioning"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe"
+  ],
+  "exportRevenueShare": 20,
+  "certifications": [
+    "iso-9001",
+    "iso-14001",
+    "iso-45001"
+  ],
+  "labels": [
+    "rse-esg"
+  ],
+  "valueProposition": "Proposer des solutions béton pour la construction.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/fehr/"
+}

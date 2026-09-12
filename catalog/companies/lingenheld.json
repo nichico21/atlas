@@ -1,0 +1,51 @@
+{
+  "name": "LINGENHELD",
+  "commercialName": "LINGENHELD",
+  "siren": "",
+  "foundingYear": 1925,
+  "website": "https://www.lingenheld.fr/",
+  "shortDescription": "Entreprise de Dabo active dans le bâtiment et les travaux publics.",
+  "detailedDescription": "Créé en 1925, le groupe familial Lingenheld s’est développé autour d’une synergie de compétences et d’un large panel de métiers complémentaires aux travaux publics. Ses activités mentionnées incluent l’exploitation de carrières, la valorisation et le traitement des déchets, la dépollution de sols, la méthanisation, la démolition, le désamiantage, les fondations spéciales et parois blindées, l’aménagement foncier et la promotion immobilière. Le contenu indique un chiffre d’affaires de 240 M€, 640 CDI, 11 % du chiffre d’affaires réalisé à l’étranger et 1 M€ d’investissement dont recherche et développement.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "construction",
+    "waste-management",
+    "mining-and-metallurgy",
+    "energy"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "construction-infrastructures",
+    "mines-extraction",
+    "dechets-tri-traitement",
+    "dechets-valorisation-energetique",
+    "energie-biogaz"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "project-management",
+    "installation-commissioning",
+    "consulting-studies",
+    "decommissioning",
+    "rd-innovation"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 11,
+  "valueProposition": "Réalisation de projets de bâtiment et travaux publics.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "C/O LINGENHELD - CHEM Du Hitzthal\n\t\t\t\t\t\t\t\t\t\tCarrefour Bellevue\n\t\t\t\t\t\t\t\t\t\t67203 Oberschaeffolsheim",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/lingenheld/"
+}

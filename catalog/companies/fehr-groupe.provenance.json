@@ -1,0 +1,170 @@
+{
+  "companyId": "fehr-groupe",
+  "fields": {
+    "name": [
+      {
+        "value": "FEHR Groupe",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "commercialName": [
+      {
+        "value": "FEHR",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "foundingYear": [
+      {
+        "value": 1960,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "FEHR Groupe est une entreprise familiale et indépendante spécialisée dans les solutions béton pour la rénovation et la construction neuve, incluant béton préfabriqué, fibré et prêt à l’emploi, avec des innovations de décarbonation et des services de pose et de location d’équipements.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "detailedDescription": [
+      {
+        "value": "FEHR Groupe développe et propose des solutions béton techniques pour la rénovation et la construction neuve : béton préfabriqué, fibré et prêt à l’emploi, béton d’argile non calcinée, Précoffré® TH Green, façade mixte FOBB Fehr Ossature Bois Béton® Woodwall Ductal® et béton de terre crue. Le groupe met en avant la décarbonation de ses produits, des matériaux à plus faible empreinte carbone, l’usage de gravier recyclé et des solutions intégrant des matériaux biosourcés. Il propose aussi des services d’expertise technique, de pose de bétons techniques sur chantier, de location d’engins avec chauffeurs et de fourniture de produits nécessaires à la pose des éléments préfabriqués. L’entreprise dispose de 9 centrales dans l’Est de la France et de 4 sites de production, dont 1 en Allemagne.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headcountRange": [
+      {
+        "value": "250-999",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "primarySectors": [
+      {
+        "value": [
+          "construction"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "subSectors": [
+      {
+        "value": [
+          "construction-materiaux"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "offerType": [
+      {
+        "value": [
+          "product-equipment",
+          "service"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "keyCapabilities": [
+      {
+        "value": [
+          "rd-innovation",
+          "serial-manufacturing",
+          "installation-commissioning"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "internationalExperience": [
+      {
+        "value": true,
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "exportCountries": [
+      {
+        "value": [
+          "germany"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "geographicZones": [
+      {
+        "value": [
+          "europe"
+        ],
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "valueProposition": [
+      {
+        "value": "FEHR Groupe fournit des solutions béton techniques, hors site et bas carbone pour réduire l’empreinte environnementale des chantiers de construction et de rénovation.",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ],
+    "headquartersCountry": [
+      {
+        "value": "France",
+        "sourceId": "self-declared",
+        "sourceReliability": 9,
+        "explicitlyStated": true,
+        "extractedAt": "2026-08-07",
+        "confidence": 9
+      }
+    ]
+  }
+}

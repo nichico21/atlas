@@ -1,0 +1,41 @@
+{
+  "name": "Groupe LINGENHELD",
+  "shortDescription": "Groupe familial actif dans les travaux publics et des métiers complémentaires : exploitation de carrières, valorisation et traitement des déchets, dépollution de sols, méthanisation, démolition, désamiantage, fondations spéciales, aménagement foncier et promotion immobilière.",
+  "detailedDescription": "Le Groupe LINGENHELD présente son développement comme fondé sur une synergie de compétences autour des travaux publics et d’un large panel de métiers complémentaires : exploitation de carrières, valorisation et traitement des déchets, dépollution de sols, méthanisation, démolition, désamiantage, fondations spéciales et parois blindées, aménagement foncier et promotion immobilière. Le contenu mentionne 250 millions d’euros de chiffre d’affaires, 640 collaborateurs, un parc matériel propre de 620 machines et 20 millions d’euros d’investissement en 2023.",
+  "headcountRange": "250-999",
+  "revenueRange": "250m-1b",
+  "primarySectors": [
+    "construction",
+    "waste-management",
+    "energy"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "construction-infrastructures",
+    "construction-materiaux",
+    "dechets-tri-traitement",
+    "dechets-valorisation-energetique",
+    "energie-biogaz"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "decommissioning",
+    "project-management"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "labels": [
+    "other"
+  ],
+  "valueProposition": "Une synergie de métiers territoriaux combinant travaux publics, environnement, carrières, démolition, désamiantage, fondations et aménagement.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.lingenheld.fr/"
+}

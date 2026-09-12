@@ -1,0 +1,39 @@
+{
+  "name": "De Dietrich Group",
+  "commercialName": "De Dietrich",
+  "shortDescription": "De Dietrich Group est un acteur industriel des équipements et technologies de procédé, spécialisé dans les solutions de séparation solide-liquide, de séchage et de mélange pour les industries pharmaceutique, chimique, végétale et agroalimentaire.",
+  "detailedDescription": "De Dietrich Group se présente comme un leader des équipements et technologies de procédé. L’entreprise conçoit, ingénierie et optimise des solutions de process pour les industries pharmaceutique, chimique, végétale et alimentaire. Son offre combine un large portefeuille de solutions de séparation solide-liquide avec des solutions avancées de séchage et de mélange. Elle propose également des services d’upgrade et refurbishment, field service, pièces détachées et composants, essais et location, formations, ainsi qu’études et simulations. Le contenu met en avant une expertise fondée sur une approche système, une ingénierie de qualité, une présence locale forte et une portée mondiale.",
+  "headcountRange": "5000-plus",
+  "primarySectors": [
+    "chemicals-and-materials",
+    "healthcare",
+    "agriculture-and-food"
+  ],
+  "subSectors": [
+    "chimie-chimie",
+    "sante-industrie-pharmaceutique",
+    "agri-transformation-vegetaux"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service",
+    "engineering-studies",
+    "training"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "maintenance-mro",
+    "testing-certification",
+    "consulting-studies",
+    "training"
+  ],
+  "internationalExperience": true,
+  "valueProposition": "De Dietrich Group aide les industries de procédé à optimiser leurs opérations grâce à des équipements et services de séparation solide-liquide, séchage et mélange, combinant expertise d’ingénierie, qualité et intervention mondiale.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.dedietrich.com/"
+}

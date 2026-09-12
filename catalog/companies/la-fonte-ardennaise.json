@@ -1,0 +1,37 @@
+{
+  "name": "LA FONTE ARDENNAISE",
+  "commercialName": "LA FONTE ARDENNAISE",
+  "siren": "",
+  "website": "https://www.lfa-group.com",
+  "shortDescription": "Entreprise de Vivier-au-Court active dans la fonderie.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "mining-and-metallurgy"
+  ],
+  "subSectors": [
+    "mines-fonderie-forges"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 55,
+  "valueProposition": "Savoir-faire industriel en fonderie.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "22 rue Joliot Curie 08440 Vivier-Au-Court",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/la-fonte-ardennaise/"
+}

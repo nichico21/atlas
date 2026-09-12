@@ -1,0 +1,57 @@
+{
+  "name": "MK ENERGIES",
+  "commercialName": "MK ENERGIES",
+  "siren": "",
+  "website": "http://www.mk-energies.fr/",
+  "shortDescription": "Entreprise de Saint-Léonard active dans l’électricité et l’automatisme.",
+  "detailedDescription": "MK Energies se positionne comme un acteur de la conception et de l’intégration de nouvelles technologies pour l’énergie et les procédés industriels. L’entreprise accompagne ses clients dans la transformation numérique et la transition énergétique, en intégrant leurs procédés industriels et en concevant et optimisant leurs infrastructures. Ses expertises couvrent notamment l’électrotechnique, les automatismes et le traitement de l’information. MK Energies dispose de 6 implantations à Arras, Dunkerque, Reims, Saint-Dizier, Saint-Quentin et Vervins, couvrant le grand quart nord-est de la France.",
+  "headcountRange": "250-999",
+  "revenueRange": "10m-50m",
+  "primarySectors": [
+    "energy",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "service",
+    "engineering-studies",
+    "systems-integration",
+    "software-digital-solution",
+    "training"
+  ],
+  "keyCapabilities": [
+    "installation-commissioning",
+    "systems-integration",
+    "maintenance-mro",
+    "design-engineering",
+    "project-management",
+    "consulting-studies",
+    "training"
+  ],
+  "supplyChainPosition": [
+    "service-provider",
+    "system-integrator"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 2,
+  "certifications": [
+    "other"
+  ],
+  "labels": [
+    "ecovadis"
+  ],
+  "valueProposition": "Solutions d'électricité et d'automatisme.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "Bâtiment Le Sextant\n2 Rue de la Croix Chaudron - CS 30001\n51500 - Saint-Léonard",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/mk-energies/"
+}

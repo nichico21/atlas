@@ -1,0 +1,34 @@
+{
+  "name": "SOLUTAUM",
+  "shortDescription": "SOLUTAUM conçoit, intègre et maintient des solutions d’automatisme sur mesure adaptées aux besoins des process industriels.",
+  "detailedDescription": "Le contenu indique que SOLUTAUM intervient dans l’automatisme industriel en concevant, intégrant et maintenant des solutions sur mesure pour les besoins des process industriels.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "service",
+    "systems-integration",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "systems-integration",
+    "maintenance-mro"
+  ],
+  "supplyChainPosition": [
+    "system-integrator",
+    "service-provider"
+  ],
+  "valueProposition": "Des solutions d’automatisme industriel sur mesure, conçues, intégrées et maintenues pour répondre aux besoins spécifiques des process industriels.",
+  "sourceIds": [
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "self-declared",
+  "sourceUrl": "https://www.sovec-entreprises.fr/"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "SCIERIE ERNEST WEBER SAS",
+  "commercialName": "SCIERIE ERNEST WEBER",
+  "siren": "",
+  "website": "https://www.scierie-weber.fr/",
+  "shortDescription": "Entreprise de Wangenbourg active comme scierie.",
+  "headcountRange": "250-999",
+  "revenueRange": "10m-50m",
+  "primarySectors": [
+    "construction",
+    "wood-industry"
+  ],
+  "subSectors": [
+    "bois-activites-industrielles"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "custom-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "raw-material-supplier"
+  ],
+  "valueProposition": "Transformation du bois en scierie.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "Route de Wangenbourg\n67710 Wangenbourg",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/scierie-ernest-weber-sas/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Groupe Pierre Schmidt Stoeffler",
+  "shortDescription": "Entreprise située à Weyersheim dans le Bas-Rhin, active dans la charcuterie et le traiteur.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "subSectors": [
+    "agri-industrie-viande"
+  ],
+  "offerType": [
+    "product-equipment"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/"
+}

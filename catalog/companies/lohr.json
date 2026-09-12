@@ -1,0 +1,48 @@
+{
+  "name": "LOHR",
+  "commercialName": "LOHR",
+  "siren": "",
+  "website": "http://www.lohr.fr/",
+  "shortDescription": "Entreprise de Hangenbieten produisant des équipements de moyenne série pour le transport de biens et de personnes.",
+  "detailedDescription": "LOHR est un groupe privé français installé en Alsace près de Strasbourg, spécialiste mondial depuis 60 ans dans la conception, la fabrication et la commercialisation de systèmes de transport de biens et de personnes. Le groupe réalise 80% de son chiffre d’affaires à l’export et dispose d’une implantation industrielle globale avec six usines réparties sur trois continents : Alsace, Turquie, Serbie, Inde, États-Unis et Mexique. Ses cœurs de métiers incluent les véhicules de porte-voitures, les systèmes ferroviaires de ferroutage avec les wagons Lohr UIC, les nouvelles mobilités avec la navette électrique Cristal, le train très léger Draisy et la défense-sécurité via sa filiale Soframe.",
+  "headcountRange": "250-999",
+  "revenueRange": "250m-1b",
+  "primarySectors": [
+    "automotive",
+    "rail",
+    "defense-and-security"
+  ],
+  "subSectors": [
+    "auto-equipementiers",
+    "ferro-materiel-roulant",
+    "auto-constructeurs",
+    "defense-armement-terrestre"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "serial-manufacturing"
+  ],
+  "supplyChainPosition": [
+    "component-manufacturer"
+  ],
+  "internationalExperience": true,
+  "geographicZones": [
+    "europe",
+    "asia",
+    "americas"
+  ],
+  "exportRevenueShare": 80,
+  "valueProposition": "Produire des équipements de moyenne série pour le transport de biens et de personnes.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/lohr/"
+}

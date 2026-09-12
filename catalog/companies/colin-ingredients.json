@@ -1,0 +1,36 @@
+{
+  "name": "COLIN INGREDIENTS",
+  "commercialName": "COLIN INGREDIENTS",
+  "siren": "",
+  "website": "https://www.colin-ingredients.com/",
+  "shortDescription": "Entreprise fournissant des ingrédients pour l’agroalimentaire.",
+  "detailedDescription": "Colin Ingrédients se présente comme un acteur de l’ingrédient alimentaire proposant depuis six décennies des solutions sur mesure, des ingrédients performants et une expertise terrain. L’entreprise met en avant sa capacité à capter des tendances de consommation, comme le piquant, le fumé et les saveurs asiatiques, pour les traduire en solutions prêtes à séduire les consommateurs.",
+  "headcountRange": "250-999",
+  "primarySectors": [
+    "agriculture-and-food"
+  ],
+  "subSectors": [
+    "agri-transformation-vegetaux"
+  ],
+  "offerType": [
+    "product-equipment",
+    "service"
+  ],
+  "keyCapabilities": [
+    "serial-manufacturing",
+    "rd-innovation",
+    "custom-manufacturing",
+    "consulting-studies"
+  ],
+  "valueProposition": "Transformer les tendances alimentaires en solutions d’ingrédients sur mesure et prêtes à séduire les consommateurs.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "Rue des saveurs\n67170 Wingersheim les 4 Bans Mittelhausen",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/colin-ingredients/"
+}

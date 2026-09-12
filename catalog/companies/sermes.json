@@ -1,0 +1,51 @@
+{
+  "name": "SERMES",
+  "commercialName": "SERMES",
+  "siren": "",
+  "website": "https://www.sermes.fr/",
+  "shortDescription": "Entreprise de Dachstein présentée comme multi-spécialiste et concepteur de solutions électriques.",
+  "detailedDescription": "SERMES présente quatre pôles de compétences : Fils et câbles, avec plus de 7 000 références stockées ; Motorisation et drives, couvrant moteurs électriques, réducteurs, variateurs, démarreurs et solutions de pilotage ; Éclairage, avec une offre de luminaires LED intérieurs, extérieurs, fonctionnels et architecturaux ; Appareillage et systèmes, qui conçoit et réalise des solutions électriques pour la distribution d'énergie et la commande moteur, de l'analyse des besoins à l'accompagnement à la mise en œuvre. L'entreprise indique proposer des solutions de distribution d'énergie et de contrôle-commande adaptées aux projets tertiaires et industriels.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "energy",
+    "digital-infrastructure"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "digital-electronique-materiels"
+  ],
+  "offerType": [
+    "product-equipment",
+    "engineering-studies",
+    "systems-integration",
+    "service"
+  ],
+  "keyCapabilities": [
+    "design-engineering",
+    "systems-integration",
+    "custom-manufacturing",
+    "consulting-studies",
+    "logistics-supply-chain",
+    "installation-commissioning"
+  ],
+  "supplyChainPosition": [
+    "system-integrator",
+    "service-provider"
+  ],
+  "internationalExperience": true,
+  "exportRevenueShare": 7,
+  "labels": [
+    "rse-esg"
+  ],
+  "valueProposition": "Concevoir des solutions électriques.",
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est",
+    "self-declared"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/sermes/"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Alter",
+  "siren": "",
+  "shortDescription": "Entreprise membre de Zénith mentionnée comme intervenant dans les travaux publics.",
+  "headcountRange": "1-9",
+  "primarySectors": [
+    
+    "construction"
+  ],
+  "subSectors": [
+    "construction-batiments-tp",
+    "construction-infrastructures"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    
+    "installation-commissioning",
+    "project-management"
+  ],
+  "headquartersCountry": "France",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/zenith/"
+}

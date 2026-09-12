@@ -1,0 +1,40 @@
+{
+  "name": "R-GDS",
+  "commercialName": "R-GDS",
+  "siren": "",
+  "website": "https://www.r-gds.fr/",
+  "shortDescription": "Entreprise de Strasbourg Cedex active dans la distribution de gaz naturel.",
+  "detailedDescription": "Le groupe R-GDS regroupe des activités complémentaires dans l’énergie : R-GDS est le distributeur historique de gaz naturel à Strasbourg et dans 122 communes du Bas-Rhin, acheminant plus de 4 TWh de gaz par an pour 107 000 clients. R-CUA et R-CUE exploitent 27 réseaux de chaleur bas-carbone en Alsace. R-ENR, filiale à 100 % de R-GDS, vise à accélérer les filières locales d’énergie décarbonée, avec un focus sur les gaz renouvelables, le biométhane et l’hydrogène décarboné. Le groupe est aussi présent dans plusieurs entreprises locales du secteur de l’énergie.",
+  "headcountRange": "250-999",
+  "revenueRange": "50m-250m",
+  "primarySectors": [
+    "energy"
+  ],
+  "subSectors": [
+    "energie-reseaux-electriques",
+    "energie-biogaz",
+    "energie-hydrogene"
+  ],
+  "offerType": [
+    "service"
+  ],
+  "keyCapabilities": [
+    "logistics-supply-chain",
+    "installation-commissioning",
+    "maintenance-mro",
+    "rd-innovation"
+  ],
+  "supplyChainPosition": [
+    "service-provider"
+  ],
+  "valueProposition": "Distribution de gaz naturel.",
+  "headquartersCountry": "France",
+  "headquartersAddress": "2 rue Bartisch\n67100 Strasbourg",
+  "sourceIds": [
+    "club-eti-grand-est"
+  ],
+  "lastUpdated": "2026-08-07",
+  "completionStatus": "ai-draft",
+  "sourceId": "club-eti-grand-est",
+  "sourceUrl": "https://www.club-eti-grandest.fr/annuaire/r-gds/"
+}
